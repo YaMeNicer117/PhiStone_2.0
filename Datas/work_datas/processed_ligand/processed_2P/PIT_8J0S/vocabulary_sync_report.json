@@ -1,0 +1,46 @@
+{
+  "format_version": "condition_vocabulary_sync_v1",
+  "status": "complete",
+  "started_at_utc": "2026-09-02T11:41:27.266269+00:00",
+  "finished_at_utc": "2026-09-02T11:41:30.038726+00:00",
+  "device": "auto",
+  "condition_paths": [
+    "/home/node233/miniconda3/envs/PhiStone/project/PhiStone_2.0/Datas/work_datas/processed/PIT_8J0S/PIT_8J0S.pt"
+  ],
+  "condition_file_count": 1,
+  "report_path": "/home/node233/miniconda3/envs/PhiStone/project/PhiStone_2.0/Datas/work_datas/processed/PIT_8J0S/vocabulary_sync_report.json",
+  "stage": "complete",
+  "conditions": [
+    {
+      "path": "/home/node233/miniconda3/envs/PhiStone/project/PhiStone_2.0/Datas/work_datas/processed/PIT_8J0S/PIT_8J0S.pt",
+      "node_count": 218,
+      "non_global_smiles_count": 217
+    }
+  ],
+  "non_global_smiles_occurrence_count": 217,
+  "unique_smiles_count": 14,
+  "fragment": {
+    "requested_count": 14,
+    "cache_hits": 14,
+    "checkpoint_results": 0,
+    "newly_added_to_standard_table": [],
+    "newly_added_to_raw_corpus": []
+  },
+  "atom": {
+    "requested_count": 14,
+    "cache_hits": 14,
+    "checkpoint_results": 0,
+    "newly_added_to_standard_table": [],
+    "newly_added_to_raw_corpus": [],
+    "compatibility_anchors_path": "/home/node233/miniconda3/envs/PhiStone/project/PhiStone_2.0/Datas/Processed_datas/SE3TD_128_Shared_data/fragment_atom_embeddings_64d_compatibility_anchors.json"
+  },
+  "verification": {
+    "fragment_table_path": "/home/node233/miniconda3/envs/PhiStone/project/PhiStone_2.0/Datas/Processed_datas/SE3TD_128_Shared_data/fragment_embeddings_128d.npz",
+    "fragment_num_smiles": 2984,
+    "fragment_table_sha256": "1a0db4994e1e3d19b0d3af7300c2e780366e9b1991d0cc7533c74ba74f06d928",
+    "atom_table_path": "/home/node233/miniconda3/envs/PhiStone/project/PhiStone_2.0/Datas/Processed_datas/SE3TD_128_Shared_data/fragment_atom_embeddings_64d.npz",
+    "atom_num_smiles": 2996,
+    "atom_num_atoms": 25433,
+    "atom_table_sha256": "a45a37661af24b896cfdd201bff861f49dc4a46704a879ba3b5bd56a9ca58ad2"
+  }
+}

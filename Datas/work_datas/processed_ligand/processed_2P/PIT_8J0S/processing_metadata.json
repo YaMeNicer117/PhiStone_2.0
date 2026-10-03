@@ -1,0 +1,2212 @@
+{
+  "status": "complete",
+  "schema_version": "work_data_process_v2",
+  "coordinate_contract_version": 2,
+  "ref_coords_mode": "relative_to_node_pos",
+  "created_at_utc": "2026-09-02T11:41:27.078730+00:00",
+  "task_mode": "TASKA",
+  "sample_id": "PIT_8J0S",
+  "pdb_id": "pit_8j0s",
+  "source": "work_data_taska",
+  "input_pdb": "/home/node233/miniconda3/envs/PhiStone/project/PhiStone_2.0/Datas/work_datas/input_pdb/PIT_8J0S.pdb",
+  "input_pdb_sha256": "a1d8e6039455604023c68764d97d5c39b5c9f771a4b3fdffcf0650bfab92f1ca",
+  "input_model_count": 1,
+  "reference_center_original": [
+    182.2350102491327,
+    190.36262850835715,
+    151.61573730684336
+  ],
+  "pocket_radius_angstrom": 10.0,
+  "embedding_status": "synchronized_during_processing",
+  "warnings": [],
+  "reference_ligand": {
+    "record": "HETATM",
+    "res_name": "UNK",
+    "chain_id": "",
+    "res_seq": "0",
+    "insertion_code": "",
+    "atom_count": 18,
+    "elements": [
+      "C",
+      "O"
+    ],
+    "is_metal": false,
+    "label": "UNK:-:0 (18 atoms)"
+  },
+  "hetatm_retained": [
+    {
+      "record": "HETATM",
+      "res_name": "ADP",
+      "chain_id": "D",
+      "res_seq": "600",
+      "insertion_code": "",
+      "atom_count": 27,
+      "elements": [
+        "C",
+        "N",
+        "O",
+        "P"
+      ],
+      "is_metal": false,
+      "label": "ADP:D:600 (27 atoms)",
+      "reason": "retain_unknown_or_cofactor"
+    },
+    {
+      "record": "HETATM",
+      "res_name": "MG",
+      "chain_id": "D",
+      "res_seq": "601",
+      "insertion_code": "",
+      "atom_count": 1,
+      "elements": [
+        "MG"
+      ],
+      "is_metal": true,
+      "label": "MG:D:601 (1 atoms)",
+      "reason": "retain_metal"
+    },
+    {
+      "record": "HETATM",
+      "res_name": "ADP",
+      "chain_id": "F",
+      "res_seq": "600",
+      "insertion_code": "",
+      "atom_count": 27,
+      "elements": [
+        "C",
+        "N",
+        "O",
+        "P"
+      ],
+      "is_metal": false,
+      "label": "ADP:F:600 (27 atoms)",
+      "reason": "retain_unknown_or_cofactor"
+    },
+    {
+      "record": "HETATM",
+      "res_name": "MG",
+      "chain_id": "F",
+      "res_seq": "601",
+      "insertion_code": "",
+      "atom_count": 1,
+      "elements": [
+        "MG"
+      ],
+      "is_metal": true,
+      "label": "MG:F:601 (1 atoms)",
+      "reason": "retain_metal"
+    },
+    {
+      "record": "HETATM",
+      "res_name": "BQ1",
+      "chain_id": "1",
+      "res_seq": "600",
+      "insertion_code": "",
+      "atom_count": 37,
+      "elements": [
+        "BR",
+        "C",
+        "N",
+        "O"
+      ],
+      "is_metal": false,
+      "label": "BQ1:1:600 (37 atoms)",
+      "reason": "retain_unknown_or_cofactor"
+    },
+    {
+      "record": "HETATM",
+      "res_name": "BQ1",
+      "chain_id": "4",
+      "res_seq": "600",
+      "insertion_code": "",
+      "atom_count": 37,
+      "elements": [
+        "BR",
+        "C",
+        "N",
+        "O"
+      ],
+      "is_metal": false,
+      "label": "BQ1:4:600 (37 atoms)",
+      "reason": "retain_unknown_or_cofactor"
+    },
+    {
+      "record": "HETATM",
+      "res_name": "BQ1",
+      "chain_id": "5",
+      "res_seq": "600",
+      "insertion_code": "",
+      "atom_count": 37,
+      "elements": [
+        "BR",
+        "C",
+        "N",
+        "O"
+      ],
+      "is_metal": false,
+      "label": "BQ1:5:600 (37 atoms)",
+      "reason": "retain_unknown_or_cofactor"
+    },
+    {
+      "record": "HETATM",
+      "res_name": "BQ1",
+      "chain_id": "6",
+      "res_seq": "600",
+      "insertion_code": "",
+      "atom_count": 37,
+      "elements": [
+        "BR",
+        "C",
+        "N",
+        "O"
+      ],
+      "is_metal": false,
+      "label": "BQ1:6:600 (37 atoms)",
+      "reason": "retain_unknown_or_cofactor"
+    },
+    {
+      "record": "HETATM",
+      "res_name": "BQ1",
+      "chain_id": "7",
+      "res_seq": "600",
+      "insertion_code": "",
+      "atom_count": 37,
+      "elements": [
+        "BR",
+        "C",
+        "N",
+        "O"
+      ],
+      "is_metal": false,
+      "label": "BQ1:7:600 (37 atoms)",
+      "reason": "retain_unknown_or_cofactor"
+    },
+    {
+      "record": "HETATM",
+      "res_name": "BQ1",
+      "chain_id": "8",
+      "res_seq": "600",
+      "insertion_code": "",
+      "atom_count": 37,
+      "elements": [
+        "BR",
+        "C",
+        "N",
+        "O"
+      ],
+      "is_metal": false,
+      "label": "BQ1:8:600 (37 atoms)",
+      "reason": "retain_unknown_or_cofactor"
+    },
+    {
+      "record": "HETATM",
+      "res_name": "BQ1",
+      "chain_id": "9",
+      "res_seq": "600",
+      "insertion_code": "",
+      "atom_count": 37,
+      "elements": [
+        "BR",
+        "C",
+        "N",
+        "O"
+      ],
+      "is_metal": false,
+      "label": "BQ1:9:600 (37 atoms)",
+      "reason": "retain_unknown_or_cofactor"
+    },
+    {
+      "record": "HETATM",
+      "res_name": "ATP",
+      "chain_id": "A",
+      "res_seq": "600",
+      "insertion_code": "",
+      "atom_count": 31,
+      "elements": [
+        "C",
+        "N",
+        "O",
+        "P"
+      ],
+      "is_metal": false,
+      "label": "ATP:A:600 (31 atoms)",
+      "reason": "retain_unknown_or_cofactor"
+    },
+    {
+      "record": "HETATM",
+      "res_name": "MG",
+      "chain_id": "A",
+      "res_seq": "601",
+      "insertion_code": "",
+      "atom_count": 1,
+      "elements": [
+        "MG"
+      ],
+      "is_metal": true,
+      "label": "MG:A:601 (1 atoms)",
+      "reason": "retain_metal"
+    },
+    {
+      "record": "HETATM",
+      "res_name": "ATP",
+      "chain_id": "B",
+      "res_seq": "600",
+      "insertion_code": "",
+      "atom_count": 31,
+      "elements": [
+        "C",
+        "N",
+        "O",
+        "P"
+      ],
+      "is_metal": false,
+      "label": "ATP:B:600 (31 atoms)",
+      "reason": "retain_unknown_or_cofactor"
+    },
+    {
+      "record": "HETATM",
+      "res_name": "MG",
+      "chain_id": "B",
+      "res_seq": "601",
+      "insertion_code": "",
+      "atom_count": 1,
+      "elements": [
+        "MG"
+      ],
+      "is_metal": true,
+      "label": "MG:B:601 (1 atoms)",
+      "reason": "retain_metal"
+    },
+    {
+      "record": "HETATM",
+      "res_name": "ATP",
+      "chain_id": "C",
+      "res_seq": "600",
+      "insertion_code": "",
+      "atom_count": 31,
+      "elements": [
+        "C",
+        "N",
+        "O",
+        "P"
+      ],
+      "is_metal": false,
+      "label": "ATP:C:600 (31 atoms)",
+      "reason": "retain_unknown_or_cofactor"
+    },
+    {
+      "record": "HETATM",
+      "res_name": "MG",
+      "chain_id": "C",
+      "res_seq": "601",
+      "insertion_code": "",
+      "atom_count": 1,
+      "elements": [
+        "MG"
+      ],
+      "is_metal": true,
+      "label": "MG:C:601 (1 atoms)",
+      "reason": "retain_metal"
+    }
+  ],
+  "hetatm_removed": [
+    {
+      "record": "HETATM",
+      "res_name": "UNK",
+      "chain_id": "",
+      "res_seq": "0",
+      "insertion_code": "",
+      "atom_count": 18,
+      "elements": [
+        "C",
+        "O"
+      ],
+      "is_metal": false,
+      "label": "UNK:-:0 (18 atoms)",
+      "reason": "selected_reference_ligand"
+    }
+  ],
+  "ligand_shards_initial": [
+    {
+      "shard_id": 0,
+      "smiles": "O",
+      "origin": "ligand",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 1,
+      "smiles": "c1ccccc1",
+      "origin": "ligand",
+      "is_metal": false,
+      "hac": 6,
+      "ring_count": 1
+    },
+    {
+      "shard_id": 2,
+      "smiles": "O",
+      "origin": "ligand",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 3,
+      "smiles": "C=C",
+      "origin": "ligand",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 4,
+      "smiles": "c1ccccc1",
+      "origin": "ligand",
+      "is_metal": false,
+      "hac": 6,
+      "ring_count": 1
+    },
+    {
+      "shard_id": 5,
+      "smiles": "O",
+      "origin": "ligand",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 6,
+      "smiles": "O",
+      "origin": "ligand",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    }
+  ],
+  "ligand_shards_kept": [
+    {
+      "shard_id": 1,
+      "smiles": "c1ccccc1",
+      "origin": "ligand",
+      "is_metal": false,
+      "hac": 6,
+      "ring_count": 1
+    },
+    {
+      "shard_id": 3,
+      "smiles": "C=C",
+      "origin": "ligand",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 4,
+      "smiles": "c1ccccc1",
+      "origin": "ligand",
+      "is_metal": false,
+      "hac": 6,
+      "ring_count": 1
+    }
+  ],
+  "ligand_shards_removed": [
+    {
+      "shard_id": 0,
+      "smiles": "O",
+      "origin": "ligand",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 2,
+      "smiles": "O",
+      "origin": "ligand",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 5,
+      "smiles": "O",
+      "origin": "ligand",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 6,
+      "smiles": "O",
+      "origin": "ligand",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    }
+  ],
+  "ligand_shard_ids_kept": [
+    1,
+    3,
+    4
+  ],
+  "ligand_shard_ids_removed": [
+    0,
+    2,
+    5,
+    6
+  ],
+  "pocket_shards": [
+    {
+      "shard_id": 7,
+      "smiles": "C=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 8,
+      "smiles": "N",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 9,
+      "smiles": "CCC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 10,
+      "smiles": "O=CO",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 11,
+      "smiles": "C=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 12,
+      "smiles": "N=C(N)N",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 4,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 13,
+      "smiles": "N",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 14,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 15,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 16,
+      "smiles": "c1ccccc1",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 6,
+      "ring_count": 1
+    },
+    {
+      "shard_id": 17,
+      "smiles": "O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 18,
+      "smiles": "C=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 19,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 20,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 21,
+      "smiles": "CCC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 22,
+      "smiles": "O=CO",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 23,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 24,
+      "smiles": "N",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 25,
+      "smiles": "N=C(N)N",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 4,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 26,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 27,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 28,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 29,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 30,
+      "smiles": "C=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 31,
+      "smiles": "CN",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 32,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 33,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 34,
+      "smiles": "N",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 35,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 36,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 37,
+      "smiles": "O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 38,
+      "smiles": "CCC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 39,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 40,
+      "smiles": "C=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 41,
+      "smiles": "N",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 42,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 43,
+      "smiles": "O=CO",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 44,
+      "smiles": "c1ccccc1",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 6,
+      "ring_count": 1
+    },
+    {
+      "shard_id": 45,
+      "smiles": "O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 46,
+      "smiles": "CN",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 47,
+      "smiles": "CO",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 48,
+      "smiles": "C=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 49,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 50,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 51,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 52,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 53,
+      "smiles": "C=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 54,
+      "smiles": "C1CCNC1",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 5,
+      "ring_count": 1
+    },
+    {
+      "shard_id": 55,
+      "smiles": "C=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 56,
+      "smiles": "N=C(N)N",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 4,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 57,
+      "smiles": "N",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 58,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 59,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 60,
+      "smiles": "C1CCNC1",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 5,
+      "ring_count": 1
+    },
+    {
+      "shard_id": 61,
+      "smiles": "c1ccccc1",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 6,
+      "ring_count": 1
+    },
+    {
+      "shard_id": 62,
+      "smiles": "O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 63,
+      "smiles": "C=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 64,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 65,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 66,
+      "smiles": "CCC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 67,
+      "smiles": "O=CO",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 68,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 69,
+      "smiles": "N=C(N)N",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 4,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 70,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 71,
+      "smiles": "C",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 72,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 73,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 74,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 75,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 76,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 77,
+      "smiles": "C=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 78,
+      "smiles": "N",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 79,
+      "smiles": "N",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 80,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 81,
+      "smiles": "CCC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 82,
+      "smiles": "c1ccccc1",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 6,
+      "ring_count": 1
+    },
+    {
+      "shard_id": 83,
+      "smiles": "O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 84,
+      "smiles": "C1CCNC1",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 5,
+      "ring_count": 1
+    },
+    {
+      "shard_id": 85,
+      "smiles": "CO",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 86,
+      "smiles": "C=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 87,
+      "smiles": "C=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 88,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 89,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 90,
+      "smiles": "N",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 91,
+      "smiles": "O=CO",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 92,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 93,
+      "smiles": "C",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 94,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 95,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 96,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 97,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 98,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 99,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 100,
+      "smiles": "C",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 101,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 102,
+      "smiles": "O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 103,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 104,
+      "smiles": "CCC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 105,
+      "smiles": "CCC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 106,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 107,
+      "smiles": "c1ccccc1",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 6,
+      "ring_count": 1
+    },
+    {
+      "shard_id": 108,
+      "smiles": "O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 109,
+      "smiles": "CN",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 110,
+      "smiles": "CO",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 111,
+      "smiles": "C=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 112,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 113,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 114,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 115,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 116,
+      "smiles": "C",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 117,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 118,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 119,
+      "smiles": "C",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 120,
+      "smiles": "CCC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 121,
+      "smiles": "C1CCNC1",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 5,
+      "ring_count": 1
+    },
+    {
+      "shard_id": 122,
+      "smiles": "c1ccccc1",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 6,
+      "ring_count": 1
+    },
+    {
+      "shard_id": 123,
+      "smiles": "O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 124,
+      "smiles": "C1CCNC1",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 5,
+      "ring_count": 1
+    },
+    {
+      "shard_id": 125,
+      "smiles": "C1CCNC1",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 5,
+      "ring_count": 1
+    },
+    {
+      "shard_id": 126,
+      "smiles": "O=CO",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 127,
+      "smiles": "O=CO",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 128,
+      "smiles": "C=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 129,
+      "smiles": "C=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 130,
+      "smiles": "C=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 131,
+      "smiles": "C=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 132,
+      "smiles": "N",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 133,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 134,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 135,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 136,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 137,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 138,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 139,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 140,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 141,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 142,
+      "smiles": "C",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 143,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 144,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 145,
+      "smiles": "O=CO",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 146,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 147,
+      "smiles": "O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 148,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 149,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 150,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 151,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 152,
+      "smiles": "C",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 153,
+      "smiles": "CCC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 154,
+      "smiles": "C=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 155,
+      "smiles": "CN",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 156,
+      "smiles": "CO",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 157,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 158,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 159,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 160,
+      "smiles": "C",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 161,
+      "smiles": "CCC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 162,
+      "smiles": "CN",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 163,
+      "smiles": "C=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 164,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 165,
+      "smiles": "O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 166,
+      "smiles": "C=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 167,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 168,
+      "smiles": "C",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 169,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 170,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 171,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 172,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 173,
+      "smiles": "N",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 174,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 175,
+      "smiles": "O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 176,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 177,
+      "smiles": "N=C(N)N",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 4,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 178,
+      "smiles": "CCC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 179,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 180,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 181,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 182,
+      "smiles": "C=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 183,
+      "smiles": "N=C(N)N",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 4,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 184,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 185,
+      "smiles": "CCC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 186,
+      "smiles": "N",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 187,
+      "smiles": "O=CO",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 188,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 189,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 190,
+      "smiles": "O=CO",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 191,
+      "smiles": "CO",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 192,
+      "smiles": "C=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 193,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 194,
+      "smiles": "CCC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 195,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 196,
+      "smiles": "CCC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 197,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 198,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 199,
+      "smiles": "C",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 200,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 201,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 202,
+      "smiles": "CCC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 203,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 204,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 205,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 206,
+      "smiles": "N",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 207,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 208,
+      "smiles": "O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 209,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 210,
+      "smiles": "C",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 1,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 211,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 212,
+      "smiles": "CCC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 213,
+      "smiles": "O=CO",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 214,
+      "smiles": "NC=O",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 215,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 216,
+      "smiles": "CCC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 217,
+      "smiles": "CCC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 218,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 219,
+      "smiles": "CCC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 3,
+      "ring_count": 0
+    },
+    {
+      "shard_id": 220,
+      "smiles": "CC",
+      "origin": "pocket",
+      "is_metal": false,
+      "hac": 2,
+      "ring_count": 0
+    }
+  ],
+  "fragmentation": {
+    "dropped_count": 0,
+    "ligand": {
+      "removed_ion_fragments": 0,
+      "reconstruction_failed": 0,
+      "retained_metal_nodes": 0
+    },
+    "pocket": {
+      "removed_ion_fragments": 0,
+      "reconstruction_failed": 0,
+      "retained_metal_nodes": 0
+    }
+  },
+  "graph": {
+    "initial_ligand_nodes": 7,
+    "kept_ligand_nodes": 3,
+    "pocket_nodes": 214,
+    "global_nodes": 1,
+    "total_nodes": 218,
+    "directed_edges": 1520,
+    "connections": 2
+  },
+  "pocket_group_count": 68,
+  "full_receptor_group_count": 4925,
+  "outputs": {
+    "pyg": "/home/node233/miniconda3/envs/PhiStone/project/PhiStone_2.0/Datas/work_datas/processed/PIT_8J0S/PIT_8J0S.pt",
+    "pocket_pdb": "/home/node233/miniconda3/envs/PhiStone/project/PhiStone_2.0/Datas/work_datas/processed/PIT_8J0S/pocket.pdb",
+    "full_receptor_pdb": "/home/node233/miniconda3/envs/PhiStone/project/PhiStone_2.0/Datas/work_datas/processed/PIT_8J0S/full_receptor_normalized.pdb",
+    "reference_ligand_sdf": "/home/node233/miniconda3/envs/PhiStone/project/PhiStone_2.0/Datas/work_datas/processed/PIT_8J0S/PIT_8J0S_ligand_normalized.sdf",
+    "vocabulary_sync_report": "/home/node233/miniconda3/envs/PhiStone/project/PhiStone_2.0/Datas/work_datas/processed/PIT_8J0S/vocabulary_sync_report.json"
+  },
+  "vocabulary_sync": {
+    "status": "complete",
+    "report_path": "/home/node233/miniconda3/envs/PhiStone/project/PhiStone_2.0/Datas/work_datas/processed/PIT_8J0S/vocabulary_sync_report.json",
+    "unique_smiles_count": 14,
+    "fragment_cache_hits": 14,
+    "fragment_added_count": 0,
+    "atom_cache_hits": 14,
+    "atom_added_count": 0
+  }
+}

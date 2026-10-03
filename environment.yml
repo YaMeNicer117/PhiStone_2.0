@@ -1,0 +1,42 @@
+# PhiSGATv2、PhiSLinker、PhiSSE3TD、PhiSSeparator 及配套 Notebook 的通用依赖。
+# PyTorch 相关依赖在创建环境后单独安装，避免自动选择不匹配的 CUDA 构建：
+#   torch、torch-scatter、torch-geometric、e3nn
+# 参考安装顺序与版本见 README.md 的“环境说明”。
+# Molecule extraction 的 Gemini、UniParser 等 API 工具依赖不包含在此文件中。
+
+name: PhiStone
+
+channels:
+  - conda-forge
+  - nodefaults
+
+dependencies:
+  - python=3.9.23
+  - pip
+
+  # 数值计算与数据处理
+  - numpy=1.26.4
+  - pandas>=2.0,<3
+  - scipy>=1.10,<1.14
+
+  # 分子处理、三维重建与 obabel 命令行工具
+  - rdkit>=2024.03,<2026
+  - openbabel>=3.1,<4
+
+  # 图像绘制、表格读写与进度显示
+  - matplotlib-base>=3.7,<3.10
+  - openpyxl>=3.1,<4
+  - xlrd>=2,<3
+  - tqdm>=4.66,<5
+
+  # 预处理进程池与训练日志
+  - pebble>=5,<6
+  - tensorboard>=2.15,<2.20
+
+  # 交互式预测、生成及数据检查 Notebook
+  - notebook>=7,<8
+  - ipython>=8,<9
+  - ipykernel>=6,<7
+  - ipywidgets>=8,<9
+  - pip:
+      - py3Dmol>=2,<3

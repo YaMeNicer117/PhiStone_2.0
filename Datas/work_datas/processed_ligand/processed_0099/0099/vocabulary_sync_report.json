@@ -1,0 +1,46 @@
+{
+  "format_version": "condition_vocabulary_sync_v1",
+  "status": "complete",
+  "started_at_utc": "2026-09-06T05:47:24.634836+00:00",
+  "finished_at_utc": "2026-09-06T05:47:27.041234+00:00",
+  "device": "auto",
+  "condition_paths": [
+    "/home/node233/miniconda3/envs/PhiStone/project/PhiStone_2.0/Datas/work_datas/processed/0099/0099.pt"
+  ],
+  "condition_file_count": 1,
+  "report_path": "/home/node233/miniconda3/envs/PhiStone/project/PhiStone_2.0/Datas/work_datas/processed/0099/vocabulary_sync_report.json",
+  "stage": "complete",
+  "conditions": [
+    {
+      "path": "/home/node233/miniconda3/envs/PhiStone/project/PhiStone_2.0/Datas/work_datas/processed/0099/0099.pt",
+      "node_count": 219,
+      "non_global_smiles_count": 218
+    }
+  ],
+  "non_global_smiles_occurrence_count": 218,
+  "unique_smiles_count": 16,
+  "fragment": {
+    "requested_count": 16,
+    "cache_hits": 16,
+    "checkpoint_results": 0,
+    "newly_added_to_standard_table": [],
+    "newly_added_to_raw_corpus": []
+  },
+  "atom": {
+    "requested_count": 16,
+    "cache_hits": 16,
+    "checkpoint_results": 0,
+    "newly_added_to_standard_table": [],
+    "newly_added_to_raw_corpus": [],
+    "compatibility_anchors_path": "/home/node233/miniconda3/envs/PhiStone/project/PhiStone_2.0/Datas/Processed_datas/SE3TD_128_Shared_data/fragment_atom_embeddings_64d_compatibility_anchors.json"
+  },
+  "verification": {
+    "fragment_table_path": "/home/node233/miniconda3/envs/PhiStone/project/PhiStone_2.0/Datas/Processed_datas/SE3TD_128_Shared_data/fragment_embeddings_128d.npz",
+    "fragment_num_smiles": 3030,
+    "fragment_table_sha256": "fc6272246d8f257af1db66882be5008abc6c80420fe536087bab4f081faad45e",
+    "atom_table_path": "/home/node233/miniconda3/envs/PhiStone/project/PhiStone_2.0/Datas/Processed_datas/SE3TD_128_Shared_data/fragment_atom_embeddings_64d.npz",
+    "atom_num_smiles": 3042,
+    "atom_num_atoms": 25661,
+    "atom_table_sha256": "ea30746d6672b440e77bcfee8408c1d04f7f4192277f213fdb0bf8ca627e6ba4"
+  }
+}

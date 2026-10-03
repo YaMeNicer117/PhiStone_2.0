@@ -1,0 +1,3837 @@
+M. tuberculosis H37Rv
+M. tuberculosis H37Rv (intracellular)
+M. tuberculosis M299
+M. tuberculosis H37Ra
+Mycobacterium tuberculosis H37Rv
+M. tuberculosis clinical isolates
+M. tuberculosis H37Rv (ATCC H37Rv)
+M. tuberculosis MDR (UKQC strain)
+M. tuberculosis XDR (patient)
+MTB H37Rv
+MDR-TB
+Mycobacterium tuberculosis (MDR-TB)
+MDR M. tuberculosis
+MDR-MTB 16833
+MDR-MTB 16995
+M. tuberculosis MDR-TB
+Mycobacterium tuberculosis strain H37Rv
+M. tuberculosis MDR 12153
+M. tuberculosis MDR 6133
+M. tuberculosis clinical isolate 12153
+M. tuberculosis clinical isolate 6133
+Mycobacterium tuberculosis My 331/88
+Mycobacterium tuberculosis
+M. tuberculosis H37Rv (ATCC 27294)
+M. tuberculosis ATCC 27294
+M. tuberculosis INH-R (Mut S315T)
+M. tuberculosis INH-R (Mut -c15t)
+M. tuberculosis RIF-R (Mut S531L)
+M. tuberculosis RIF-R (Mut H526D)
+M. tuberculosis Suscept.
+M. tuberculosis FQ-R (Mut A90V)
+M. tuberculosis FQ-R (Mut D94G)
+M. tuberculosis MDR
+M. tuberculosis P105
+M. tuberculosis P136
+M. tuberculosis P76
+M. tuberculosis Z23
+M. tuberculosis L18
+Mtb H37Rv ATCC 27294
+Mtb INH-res ATCC 35822
+Mtb ETB-res ATCC 35837
+Mtb STR-res ATCC 35820
+Mtb RIF-res ATCC 35838
+M. tuberculosis inhA+
+M. tuberculosis katG+
+M. tuberculosis
+M. tb RIF resistance
+M. tb INH resistance
+M. tb ETB resistance
+M. tb STR resistance
+M. tuberculosis 331/88
+M. tuberculosis mc26230
+M. tuberculosis H37Rv ATCC 27294
+M. tuberculosis INH-res ATCC 35822
+M. tuberculosis ETB-res ATCC 35837
+M. tuberculosis STR-res ATCC 35820
+M. tuberculosis RIF-res ATCC 35838
+M. tuberculosis mc24914
+M. tuberculosis mc24977
+M. tuberculosis mc25855
+M. tuberculosis V2475
+M. tuberculosis CI12081
+M. tuberculosis CI1
+M. tuberculosis CI2
+M. tuberculosis CI3
+M. tuberculosis H37Rv (Gast/Fe medium)
+M. tuberculosis H37Rv (7H9/ADC/Tween medium)
+INH-res ATCC 35822
+ETB-res ATCC 35837
+STR-res ATCC 35820
+RIF-res ATCC 35838
+INH Resistant ATCC 35822
+EMB Resistant ATCC 35837
+STR Resistant ATCC 35820
+RIF Resistant ATCC 35838
+Mycobacterium tuberculosis (MTB) H37Rv
+M. tuberculosis DKU 156
+M. tuberculosis (ATCC-25177)
+M. tuberculosis (H37Rv)
+M. tuberculosis G122
+M. tuberculosis G133
+Mycobacterium tuberculosis G122
+M. tuberculosis RifR
+M. tuberculosis (sp. 210 resistant)
+M. tuberculosis (sp. 192 sensitive)
+M. tuberculosis MDR 44
+M. tuberculosis MDR 83
+M. tuberculosis MDR 164
+M. tuberculosis MDR 431
+M. tuberculosis MDR 926
+Mycobacterium tuberculosis H37Ra
+M. tuberculosis H37Rv (FQ-R1)
+M. tuberculosis H37Rv (INH-R1)
+M. tuberculosis H37Rv (INH-R2)
+M. tuberculosis H37Rv (RIF-R1)
+M. tuberculosis H37Rv (RIF-R2)
+M. tuberculosis H37Rv (LORA)
+M. tuberculosis H37Rv (Intracellular)
+M. tuberculosis H37Rv FQ-R1
+M. tuberculosis H37Rv INH-R1
+M. tuberculosis H37Rv INH-R2
+M. tuberculosis H37Rv RIF-R1
+M. tuberculosis H37Rv RIF-R2
+M. tuberculosis H37Rv (LORA / Low Oxygen)
+M. tuberculosis H37Rv (Intracellular THP-1)
+M. tuberculosis FQ-R1
+M. tuberculosis INH-R1
+M. tuberculosis INH-R2
+M. tuberculosis RIF-R1
+M. tuberculosis RIF-R2
+M. tuberculosis H37Rv (LORA Low Oxygen)
+M. tuberculosis H37Rv (LORA Normal Oxygen)
+M. tuberculosis CIBIN 112
+Mtb H37Rv
+M. tuberculosis MDR (ATCC 35822)
+M. tuberculosis XDR (RCMB 2674)
+Sensitive M. tuberculosis
+XDR M. tuberculosis
+M. tuberculosis H37Rv (DS-TB)
+M. tuberculosis XDR-TB
+M. tuberculosis 13946
+M. tuberculosis 14862
+M. tuberculosis 26631
+M. tuberculosis 19861
+M. tuberculosis MDR ATCC 35822
+M. tuberculosis XDR RCMB 2674
+M. tuberculosis WT
+M. tuberculosis 16d5
+M. tuberculosis 16f5
+M. tuberculosis 16g20
+M. tuberculosis UC0801
+M. tuberculosis UC0802
+M. tuberculosis UC0803
+M. tuberculosis UC0804
+M. tuberculosis H37Rv (MABA)
+M. tuberculosis (r-RMP resistant)
+M. tuberculosis (r-INH resistant)
+M. tuberculosis (r-SM resistant)
+M. tuberculosis (r-KM resistant)
+M. tuberculosis (r-CLF resistant)
+M. tuberculosis RIFr (ATCC 35338)
+M. tuberculosis INHr (ATCC 35822)
+M. tuberculosis MS-115 (MDR strain)
+M. tuberculosis ATCC 27294 H37Rv
+M. tuberculosis ATCC 35822 INHr
+M. tuberculosis 1896-HF INHr
+M. tuberculosis ATCC 35338 RMPr
+MTB
+M. tuberculosis (drug sensitive)
+M. tuberculosis (clinical isolate) 29/10
+M. tuberculosis (clinical isolate) 778/10
+M. tuberculosis (clinical isolate) 917/10
+M. tuberculosis (clinical isolate) 439/11
+M. tuberculosis (clinical isolate) 756/10
+M. tuberculosis Spec. 192
+M. tuberculosis Spec. 210
+M. tuberculosis H37Ra ATCC 25177
+M. tuberculosis MYC5165
+M. tuberculosis H37Rv (GAST-Fe medium)
+M. tuberculosis H37Rv (Low Fe GAST medium)
+M. tuberculosis MDRTB
+M. tuberculosis RDRTB
+MDRTB
+RDRTB
+M. tuberculosis H37Rv (aerobic/MABA)
+M. tuberculosis H37Rv (anaerobic/LORA)
+M. tuberculosis MDR-MTB16995
+M. tuberculosis MDR-MTB16833
+MDR-MTB
+M. tuberculosis H37Ra-Lux
+M. tuberculosis H37Rv cydC::aph
+M. tuberculosis TBA-73714
+M. tuberculosis TBA-73719
+M. tuberculosis C.I. 1104
+M. tuberculosis ATCC 35820 (SMR)
+M. tuberculosis ATCC 35828 (PZAR)
+M. tuberculosis ATCC 35837 (EBR)
+M. tuberculosis clinical isolates (Sensitive)
+M. tuberculosis clinical isolates (Resistant)
+M. tuberculosis (single-drug-resistant strains)
+M. tuberculosis (NRP-TB)
+M. tuberculosis Erdman
+M. tuberculosis Standard H37Rv Strain
+M. tuberculosis Isoniazid-Sensitive Strain
+M. tuberculosis Isoniazid-Resistant Strain
+M. tuberculosis MDR isolate IC2
+M. tuberculosis H37Ra pMV261
+M. tuberculosis H37Ra pMV261-InhA
+M. H37Ra
+Mtb
+Mtb H37Ra
+M. tuberculosis H37Ra (pH 6)
+M. tuberculosis 1193
+M. tuberculosis 3614
+M. tuberculosis 73A
+M. tuberculosis 4250
+M. tuberculosis 45
+M. tuberculosis 71A
+M. tuberculosis clinical isolate 1 (Susceptible)
+M. tuberculosis clinical isolate 2 (INHR)
+M. tuberculosis clinical isolate BRF04 (INHR)
+M. tuberculosis clinical isolate BRF07 (SMR)
+M. tuberculosis clinical isolate 3 (INHR/RIFR)
+M. tuberculosis clinical isolate 4250 (INHR/RIFR)
+M. tuberculosis clinical isolate 18 (INHR/RIFR/EMBR)
+M. tuberculosis clinical isolate 73A (INHR/RIFR/PZAR)
+M. tuberculosis clinical isolate 71A (INHR/EMBR/RIFR/PZAR)
+M. tuberculosis clinical isolate 3614 (INHR/RIFR/EMBR/SMR/ETHR/PZAR)
+M. tuberculosis H37Rv (low oxygen)
+M. tuberculosis H37Rv (normal oxygen)
+Isoniazid-resistant M. tuberculosis (INH-R)
+Rifampin-resistant M. tuberculosis (RMP-R)
+Ofloxacin-resistant M. tuberculosis (OXF-R)
+M. tuberculosis MTCC 300
+M. tuberculosis (ATCC 27294)
+MDR-MTB 16883
+M. tuberculosis CIB99
+M. tuberculosis 528
+M. tuberculosis 160
+M. tuberculosis 401
+M. tuberculosis 494
+M. tuberculosis 411
+M. tuberculosis 331
+M. tuberculosis 429
+M. tuberculosis 366
+M. tuberculosis 363
+M. tuberculosis 332
+M. tuberculosis 535
+M. tuberculosis 35338 (RMPr)
+M. tuberculosis 35822 (INHr)
+M. tuberculosis mc2 7000
+M. tuberculosis H37Rv (GAS medium)
+M. tuberculosis H37Rv (7H12 medium)
+M. tuberculosis H37Rv (LORA, non-replicating)
+INH resistant Mycobacterium tuberculosis
+M. tuberculosis Strain 2643 (MDR)
+M. tuberculosis Strain 1678/05a (MDR)
+M. tuberculosis Strain 2280a (Drug sensitive)
+M. tuberculosis H37Rv (intracellular in macrophages)
+M. tuberculosis (non-replicating hypoxic)
+M. tuberculosis FadD32E120G
+M. tuberculosis (LORA)
+M. tuberculosis (4% BSA)
+M. tuberculosis (10% FBS)
+M. tuberculosis MDR (FJ05120)
+M. tuberculosis XDR (FJ05195)
+Clinical isolate of MTB
+M. tuberculosis H37Rv (SRI 1345)
+M. tuberculosis INH-R (SRI 1369)
+M. tuberculosis RIF-R (SRI 1367)
+M. tuberculosis OFX-R (SRI 4000)
+M. tuberculosis H37Rv (LORA / Anaerobic)
+M. tuberculosis H37Rv (replicating)
+M. tuberculosis H37Rv (nonreplicating)
+M. tuberculosis clinical isolated (Resistant)
+M. tuberculosis RMPr
+M. tuberculosis INHr
+M. tuberculosis SMr
+M. tuberculosis KMr
+M. tuberculosis MOXre
+M. tuberculosis CSr
+M. tuberculosis H37Ra (ex vivo)
+M. tuberculosis ATCC25197 H37Ra
+M. tuberculosis ATCC 35822 INH-R
+M. tuberculosis ATCC 35838 Pyr-R
+M. tuberculosis ATCC 35838 Rifa-R
+M. tuberculosis ATCC 35820 Str-R
+M. tuberculosis CDC1551
+M. tuberculosis Delta Rv1625 mutant
+Mycobacterium tuberculosis (MABA)
+M. tuberculosis My 331/88
+Mycobacterium tuberculosis 7357/98
+Mycobacterium tuberculosis 4166/04
+Mycobacterium tuberculosis 4977/03
+Mycobacterium tuberculosis 550/04
+M. tuberculosis clinical isolate V
+M. tuberculosis clinical isolate M
+M. tuberculosis clinical isolate G
+MTB H37Rv ATCC 27294
+MDR-MTB 09710
+M. tuberculosis 433 (SDR)
+M. tuberculosis TB-2506/06 (SDR)
+M. tuberculosis 2643 (MDR)
+M. tuberculosis TB-1678/05 (MDR)
+M. tuberculosis 2280
+M. tuberculosis Isolate A (All-susceptible)
+M. tuberculosis Isolate B (Single-resistant INH)
+M. tuberculosis Isolate C (Single-resistant INH)
+M. tuberculosis Isolate D (MDR RFP, INH)
+M. tuberculosis Isolate E (MDR RFP, INH, SM)
+M. tuberculosis Isolate F (MDR RFP, INH, EMB)
+M. tuberculosis Isolate G (MDR RFP, INH, EMB)
+M. tuberculosis Isolate H (XDR RFP, INH, AM, OLF)
+M. tuberculosis Isolate I (XDR RFP, INH, KN, OLF)
+M. tuberculosis Isolate J (XDR RFP, INH, AM, OLF)
+M. tuberculosis 44
+M. tuberculosis 83
+M. tuberculosis 164
+M. tuberculosis 431
+M. tuberculosis 926
+Mycobacterium tuberculosis MDR strain 43
+M. tuberculosis clinical isolates IC1
+M. tuberculosis clinical isolates IC2
+M. tuberculosis clinical isolates IC3
+M. tuberculosis INH-R
+M. tuberculosis RMP-R
+M. tuberculosis OFX-R
+M. tuberculosis H37Rv ATCC27294
+M. tuberculosis katG S315T
+M. tuberculosis H37Rv delta-katG
+M. tuberculosis INH resistant strain
+M. tuberculosis MDR TB isolates
+M. tuberculosis H37Rv-ETA-R ATCC 35830
+M. tuberculosis H37Rv-PAS-R ATCC 35821
+M. tuberculosis H37Rv-PZA-R ATCC 35828
+M. tuberculosis (H37Rv and resistant strains)
+M. tuberculosis clinical isolate A
+M. tuberculosis clinical isolate B
+M. tuberculosis clinical isolate C
+M. tuberculosis clinical isolate D
+M. tuberculosis clinical isolate E
+M. tuberculosis clinical isolate F
+M. tuberculosis INHR
+Mycobacterium tuberculosis resistant strain (RifR)
+Mycobacterium tuberculosis resistant strain (INHR)
+Mycobacterium tuberculosis resistant strain (MDR)
+Mycobacterium tuberculosis RifR
+Mycobacterium tuberculosis INHR
+Mycobacterium tuberculosis MDR
+MDR-MTB 6133
+M. tuberculosis 51
+M. tuberculosis 304
+M. tuberculosis 598
+M. tuberculosis 110
+M. tuberculosis 277
+M. tuberculosis 300
+M. tuberculosis 925
+M. tuberculosis 958
+M. tuberculosis 277b
+M. tuberculosis 620
+M. tuberculosis 396
+M. tuberculosis 681
+M. tuberculosis 780
+M. tuberculosis 914
+M. tuberculosis 675
+M. tuberculosis 122
+M. tuberculosis 501
+M. tuberculosis H37Ra (Extracellular, Dormant Stage)
+M. tuberculosis H37Ra (Extracellular, Active Stage)
+M. tuberculosis H37Ra (Intracellular Ex Vivo, Dormant Stage)
+M. tuberculosis H37Ra (Intracellular Ex Vivo, Active Stage)
+M. tuberculosis MDR-MTB11168
+M. tuberculosis MDR-MTB9160
+M. tuberculosis MDR-TB 16995
+M. tuberculosis MDR-TB 16883
+M. tuberculosis 12611
+M. tuberculosis 14231
+M. tuberculosis 1358
+M. tuberculosis 1670
+M. tuberculosis 512
+M. tuberculosis 7
+M. tuberculosis 231
+M. tuberculosis 1574
+M. tuberculosis 1777
+M. tuberculosis 147
+M. tuberculosis 1726
+M. tuberculosis 203
+M. tuberculosis 204
+M. tuberculosis 157
+M. tuberculosis 368
+M. tuberculosis 571
+M. tuberculosis 1120
+M. tuberculosis 1657
+M. tuberculosis 600
+M. tuberculosis 1535
+M. tuberculosis 1567
+M. tuberculosis 952
+M. tuberculosis 1097
+RR-MTB
+MDR-MTB1
+MDR-MTB2
+M. tuberculosis RR
+M. tuberculosis 19
+M. tuberculosis 91
+M. tuberculosis BRF45
+M. tuberculosis BRF57
+M. tuberculosis BRF14
+M. tuberculosis BRF16
+M. tuberculosis gfp
+M. tuberculosis DprE1 mutant
+M. tuberculosis MDR I (BLG3381)
+M. tuberculosis MDR II (RF21212)
+M. tuberculosis MDR III (RF21250)
+M. tuberculosis MDR I BLG3381
+M. tuberculosis MDR II RF21212
+M. tuberculosis MDR III RF21250
+M. tuberculosis rpoB-
+M. tuberculosis M22
+M. tuberculosis M23
+M. tuberculosis P887
+M. tuberculosis X24
+M. tuberculosis X59
+M. tuberculosis (drug-susceptible)
+Mycobacterium tuberculosis clinical isolate G (INH-R)
+Mycobacterium tuberculosis clinical isolate K (INH-R)
+Mycobacterium tuberculosis clinical isolate L (RIF-R)
+Mycobacterium tuberculosis clinical isolate E (MDR)
+Mycobacterium tuberculosis clinical isolate L-53 (MDR)
+Mycobacterium tuberculosis clinical isolate 375 (MDR)
+Mycobacterium tuberculosis H37Rv strain MC2 6230
+Mycobacterium tuberculosis SQ109 Mutant (MC2 6230)
+M. tuberculosis H37Ra MTCC 300
+M. tuberculosis H37Rv (GAST)
+M. tuberculosis H37Rv (7H9)
+M. tuberculosis EMB-R
+M. tuberculosis KM-R
+M. tuberculosis CIP-R
+Mtb mc2 7000
+M. tuberculosis ATCC 35338
+M. tuberculosis ssNRP(18b) (REMA)
+M. tuberculosis ssNRP(18b) (CFU)
+M. tuberculosis H37Rv (Intracellular macrophage J774)
+M. tuberculosis SS18b
+M. tuberculosis 18b
+M. tuberculosis 192 (sensitive to TB drugs)
+M. tuberculosis 210 (multidrug-resistant)
+M. tuberculosis 800 (INH-monoresistant resulting from mutation in inhA promotor region)
+M. tuberculosis MDR isolate
+M. tuberculosis (Resistant to I and R)
+M. tuberculosis (Resistant to S, I and E1)
+M. tuberculosis (Resistant to S, I, R and E1)
+M. tuberculosis (Resistant to I, S, R, T1 and C)
+M. tuberculosis (Resistant to I, R, E2, T1, T2 and O)
+M. tuberculosis (Resistant to I, S, E1, E2, K, R, and T1)
+M. tuberculosis (INH-resistant)
+M. tuberculosis (RMP-resistant)
+M. tuberculosis (PZA-resistant)
+M. tuberculosis (EMB-resistant)
+M. tuberculosis (KM-resistant)
+M. tuberculosis (ETA-resistant)
+M. tuberculosis (PAS-resistant)
+M. tuberculosis (TAC-resistant)
+M. tuberculosis (CS-resistant)
+M. tuberculosis CIP 103471
+M. tuberculosis H37RvMa (GAST/Fe)
+M. tuberculosis H37RvMa (7H9)
+M. tuberculosis mc26230 (ΔRD1 ΔpanCD)
+M. tuberculosis mc2 6230
+M. tuberculosis gyrA hypomorph
+M. tuberculosis (drug-resistant clinical isolates)
+M. tuberculosis H37Rv_atpE_D28G
+M. tuberculosis H37Rv_atpE_A63P
+M. tuberculosis H37Rv_atpE_E61D
+M. tuberculosis Rv0678 R38stop
+MDR-MTB 6-45
+MDR-MTB 6-47
+Mycobacterium tuberculosis (H37Rv)
+M. tuberculosis (Wayne model)
+M. tuberculosis MDR patient isolates
+Replicating sensitive Mtb
+Dormant (Wayne Model) Mtb
+MDR Mtb (05TB42059)
+MDR Mtb (DQ707(S315N kat G))
+M. tuberculosis H37Rv BioA-UE
+M. tuberculosis H37Rv BioA-OE
+M. tuberculosis H37Rv (biotin-free)
+M. tuberculosis H37Rv (biotin-containing)
+M. tuberculosis V4207/DS
+M. tuberculosis V2475/MDR
+M. tuberculosis KZN494/MDR
+M. tuberculosis TF274/XDR
+M. tuberculosis R506/XDR
+M. tuberculosis H37Rv::pMV261
+M. tuberculosis H37Rv::pMVinhA
+M. tuberculosis (DprE1 OE)
+M. tuberculosis SS18b (replicating state with streptomycin)
+M. tuberculosis SS18b (nonreplicating state without streptomycin)
+M. tuberculosis mc2 8243 (InhR)
+M. tuberculosis mc2 8247 (RifR)
+M. tuberculosis mc2 8259 (InhR RifR)
+M. tuberculosis mc2 6230 mutant TCA1r-1
+M. tuberculosis mc2 6230 mutant TCA1r-2
+M. tuberculosis mc2 6230 mutant TCA1r-3
+M. tuberculosis mc2 6230 mutant 6ar-1
+M. tuberculosis mc2 6230 mutant 6ar-2
+M. tuberculosis mc2 6230 mutant 6ar-3
+M. tuberculosis H37Rv mc2 6230
+M. tuberculosis mc2 8243 (INH-R)
+M. tuberculosis mc2 8247 (RIF-R)
+M. tuberculosis mc2 8259 (MDR)
+M. tuberculosis mutant Cr-3
+M. tuberculosis mutant Cr-5
+M. tuberculosis H37Rv (Hypoxic)
+M. tuberculosis H37Rv (Normal)
+MDR-MTB 12S25
+MDR-MTB 14231
+M. tuberculosis MDR-MTB12525
+M. tuberculosis MDR-MTB14231
+M. tuberculosis r-RMP
+M. tuberculosis r-INH
+M. tuberculosis r-SM
+M. tuberculosis 11 677
+M. tuberculosis 13 923
+M. tuberculosis 10 975
+M. tuberculosis (MDR)
+M. tuberculosis H37Rv (rpoB S450L)
+M. tuberculosis H37Rv (gyrA D94K)
+M. tuberculosis mc27000
+Mtb 7357/1998
+Mtb 234/2005
+Mtb 9449/2007
+Mtb 8666/2010
+Mtb Praha 1
+Mtb Praha 4
+Mtb Praha 131
+MDR-MTB 16892
+MDR-MTB 16802
+M. tuberculosis H37Ra (Active)
+M. tuberculosis H37Ra (Dormant)
+M. tuberculosis MTB
+M. tuberculosis N0145
+M. tuberculosis H37Ralux
+M. tuberculosis inhA mutant
+M. tuberculosis katG mutant
+M. tuberculosis ATCC 35823
+M. tuberculosis (ATCC 25177)
+M. tuberculosis (MDR) (ATCC 35822)
+M. tuberculosis (XDR) (RCMB 2674)
+MTB H37Ra
+M. tuberculosis MDR-1
+M. tuberculosis MDR-2
+M. tuberculosis MDR-3
+M. tuberculosis H37Rv (Medium A)
+M. tuberculosis H37Rv (Medium B)
+M. tuberculosis H37Rv (Medium C)
+M. tuberculosis H37Rv (Medium D)
+INH resistant M. tuberculosis strain
+Ethambutol (ETB) resistant M. tuberculosis strain
+RIF resistant M. tuberculosis strain
+Streptomycin (STR) resistant M. tuberculosis strain
+M. tuberculosis H37Ra (active)
+M. tuberculosis H37Ra (dormant)
+M. tuberculosis CCKO28469V
+M. tuberculosis C84
+M. tuberculosis CGT1237617
+M. tuberculosis H37Ra (Dormant In Vitro)
+M. tuberculosis H37Ra (Active In Vitro)
+M. tuberculosis H37Ra (Ex vivo Dormant)
+M. tuberculosis H37Ra (Ex vivo)
+M. tuberculosis M3
+M. tuberculosis M4
+M. tuberculosis M5
+M. tuberculosis M6
+M. tuberculosis M8
+M. tuberculosis M11
+M. tuberculosis M16
+M. tuberculosis M21
+M. tuberculosis M27
+M. tuberculosis Clin1
+M. tuberculosis Clin2
+M. tuberculosis Clin3
+M. tuberculosis Clin4
+M. tuberculosis Clin5
+M. tuberculosis Clin6
+M. tuberculosis Clin7
+M. tuberculosis Clin8
+M. tuberculosis Beijing 1237
+M. tuberculosis Wild-type
+M. tuberculosis LepB-UE
+M. tuberculosis (intracellular)
+M. tuberculosis MDR strain 257
+M. tuberculosis MDR strain 373
+M. tuberculosis MDR strain 559
+M. tuberculosis MDR strain 164
+M. tuberculosis MDR strain 87
+M. tuberculosis MDR strain 192
+M. tuberculosis MDR strain 262
+M. tuberculosis MDR strain 266
+Mycobacterium tuberculosis (RCMB 010126)
+M. tuberculosis LP-0458690-RM1
+M. tuberculosis LP-0458690-RM2
+M. tuberculosis LP-0458690-RM3
+M. tuberculosis LP-0458690-RM4
+M. tuberculosis LP-0458690-RM5
+M. tuberculosis LP-0458690-RM6
+M. tuberculosis LP-0458686-RM1
+M. tuberculosis LP-0458686-RM2
+M. tuberculosis LP-0458686-RM3
+Clinical sample of MTB
+M. tuberculosis T113 resistant strain
+M. tuberculosis 35837
+M. tuberculosis Stn1
+M. tuberculosis Stn2
+M. tuberculosis Stn3
+Multidrug-resistant M. tuberculosis
+M. tuberculosis Clinical Isolate A
+M. tuberculosis Clinical Isolate B
+M. tuberculosis Clinical Isolate C
+M. tuberculosis (low oxygen-adapted)
+M. tuberculosis ICI1
+M. tuberculosis ICI2
+M. tuberculosis Ty1 (Rv3405c, c190t)
+M. tuberculosis DR1 (mmpL3, V681I)
+M. tuberculosis NTB1 (dprE1, G387S)
+M. tuberculosis 53.3 (Rv2466c, W28S)
+M. tuberculosis 53.8 (Rv0579, L240V; Rv0158, V48A; esxD, M41R)
+M. tuberculosis 88.1 (coaA, Q207R)
+M. tuberculosis 88.7 (pyrG, V186G)
+M. tuberculosis H37Rv (pH 6.8)
+M. tuberculosis H37Rv (pH 6.0)
+M. tuberculosis 49
+M. tuberculosis 64A
+M. tuberculosis 109
+M. tuberculosis 309
+M. tuberculosis clinical isolate 24
+M. tuberculosis H37Ra (ATCC 25177)
+M. tuberculosis H37Ra/pVV2
+M. tuberculosis H37Ra/pVV2-glmU
+M. tuberculosis Sensitive 3326
+M. tuberculosis Sensitive 5103
+M. tuberculosis Sensitive 5148
+M. tuberculosis Sensitive 8246
+M. tuberculosis Sensitive 10307
+M. tuberculosis Sensitive 10308
+M. tuberculosis Sensitive 11204
+M. tuberculosis Sensitive 14301
+M. tuberculosis Sensitive 13231
+M. tuberculosis Sensitive 15201
+M. tuberculosis MDR 16360
+M. tuberculosis MDR 15334
+M. tuberculosis MDR 15353
+M. tuberculosis MDR 15447
+M. tuberculosis MDR 18128
+M. tuberculosis MDR 16424
+M. tuberculosis MDR 18442
+M. tuberculosis MDR 22230
+M. tuberculosis MDR 30124
+M. tuberculosis MDR 17174
+M. tuberculosis MDR 17146
+M. tuberculosis MDR 14165
+M. tuberculosis MDR 14220
+M. tuberculosis MDR 14306
+M. tuberculosis MDR 14315
+M. tuberculosis MDR 13512
+M. tuberculosis Rifa-R
+M. tuberculosis Pyr-R
+M. tuberculosis Str-R
+Mtb H37Rv (MABA)
+Mtb H37Rv (LORA)
+M. tuberculosis MOXr
+M. tuberculosis H37Rv (TAACF)
+M. tuberculosis MDR-MTB 20161
+M. tuberculosis RCMB 010126
+M. tbc 9449/2007
+M. tbc 234/2005
+M. tbc PRAHA 1
+M. tbc PRAHA 4
+M. tbc PRAHA 131
+Mycobacterium tuberculosis 331/88
+Mtb. Praha 1
+Mtb. H37Rv
+M. Tuberculosis
+M. tuberculosis (MABA)
+M. tuberculosis H37RV
+M. tuberculosis (Susceptible to RIF and ISN)
+M. tuberculosis (Susceptible to RIF and resistant to ISN)
+M. tuberculosis (Susceptible to ISN and resistant to RIF)
+M. tuberculosis (Resistant to RIF and ISN)
+M. tuberculosis (Susceptible, pH 5.5)
+M. tuberculosis (PZA-resistant, pH 5.5)
+M. tuberculosis (Susceptible, pH 6.0)
+M. tuberculosis (PZA-resistant, pH 6.0)
+M. tuberculosis (Susceptible, pH 6.8)
+M. tuberculosis (PZA-resistant, pH 6.8)
+M. tuberculosis 12525
+M. tuberculosis L-R
+M. tuberculosis H37Rv pMH29:inhA
+M. tuberculosis TN587
+M. tuberculosis NHN382
+M. tuberculosis MTB H37Ra
+M. tuberculosis bg 1972
+M. tuberculosis bg 206
+Mycobacterium tuberculosis H37RV
+M. tuberculosis ATCC 35801
+M. tuberculosis ERDMAN
+M. tuberculosis H124300778
+M. tuberculosis H124300779
+M. tuberculosis H124300780
+M. tuberculosis H124300781
+M. tuberculosis H124300782
+M. tuberculosis H124300783
+M. tuberculosis H124300784
+M. tuberculosis H124300785
+M. tuberculosis H124300786
+M. tuberculosis H124300787
+M. tuberculosis H124300788
+M. tuberculosis H124300789
+M. tuberculosis H124300790
+M. tuberculosis H124300791
+M. tuberculosis H124300792
+M. tuberculosis H124300793
+M. tuberculosis H124300794
+M. tuberculosis H124300795
+M. tuberculosis H124300796
+M. tuberculosis H124300797
+Mycobacterium tuberculosis mc27000
+M. tuberculosis ARC1
+M. tuberculosis ARC2
+M. tuberculosis ARC3
+M. tuberculosis ARC4
+M. tuberculosis ARC5
+M. tuberculosis ARC6
+M. tuberculosis ARC7
+M. tuberculosis ARC8
+M. tuberculosis ARC9
+M. tuberculosis ARC10
+M. tuberculosis ARC11
+M. tuberculosis H37Rv::Rec-wag31Q201R
+M. tuberculosis H37Rv:: pTT1B (control)
+M. tuberculosis H37Rv:: pTTwag31
+M. tuberculosis H37Rv:: pTTwag31Q201R
+M. tuberculosis ARC4:: pTT1B (control)
+M. tuberculosis ARC4:: pTTwag31
+M. tuberculosis ARC4:: pTTwag31Q201R
+M. tuberculosis Erdman::wag31-gfp
+M. tuberculosis (planktonic)
+M. tuberculosis (biofilm)
+M. tuberculosis pncA A146V mutant
+M. tuberculosis (POA-resistant isolate)
+M. tuberculosis Type strain H37Rv
+M. tuberculosis Clinical isolate 900145
+M. tuberculosis Clinical isolate 900216
+RFP-s M. tuberculosis
+RFP-r M. tuberculosis
+M. tuberculosis H37Rv (0.3 mM B12)
+M. tuberculosis H37Rv RvΔmetH (0.3 mM B12)
+M. tuberculosis H37Rv RvΔmetH (0.3 mM B12, 1 mM Methionine)
+M. tuberculosis H37Rv RvΔmetH/metH (0.3 mM B12)
+M. tuberculosis H37Rv RvΔcobIJ (0.3 mM B12)
+M. tuberculosis IHMT149/09
+M. tuberculosis HPV115/08
+M. tuberculosis HPV65/08
+Mycobacterium tuberculosis (ATCC 25177)
+M. tuberculosis MDR (I)
+M. tuberculosis R
+MTB All Drug Sensitive
+MDR MTB
+Mycobacterium tuberculosis (GAST-D)
+Mycobacterium tuberculosis (GAST-D-Fe)
+RIF-resistant H37Rv
+M. tuberculosis (DprE1C387S)
+M. tuberculosis LAM3
+M. tuberculosis EAI
+M. tuberculosis clinical isolates (Wild type Rv0678)
+M. tuberculosis clinical isolate (Rv0678 Val1Ala/Gly37fs/Arg89Trp)
+M. tuberculosis clinical isolate (Rv0678 Val20Gly)
+M. tuberculosis clinical isolate (Rv0678 Gln22Pro/Asp47fs)
+M. tuberculosis clinical isolate (Rv0678 Cys46fs)
+M. tuberculosis clinical isolate (Rv0678 Cys46fs/Asp47fs)
+M. tuberculosis clinical isolate (Rv0678 Asp47fs)
+M. tuberculosis clinical isolate (Rv0678 Asp47fs/Ile67fs/Leu136Arg)
+M. tuberculosis clinical isolate (Rv0678 Glu49fs)
+M. tuberculosis clinical isolate (Rv0678 Ile67fs)
+M. tuberculosis clinical isolate (Rv0678 Phe93Ser)
+M. tuberculosis clinical isolate (Rv0678 Arg109Leu/Arg156fs)
+M. tuberculosis clinical isolate (Rv0678 Ala118Thr)
+M. tuberculosis clinical isolate (Rv0678 Glu147fs)
+M. tuberculosis clinical isolate (Rv0678 Phe93Leu)
+Mycobacterium tuberculosis H37Rv (ATCC 27294, BACTEC)
+Mycobacterium tuberculosis H37Rv (ATCC 27294, Alamar)
+Mycobacterium tuberculosis Erdman (ATCC 35801)
+Mycobacterium tuberculosis EMB-resistant
+Mycobacterium tuberculosis INH-resistant (ATCC 35822)
+Mycobacterium tuberculosis RIF-resistant (ATCC 35838)
+Mycobacterium tuberculosis CIP-resistant
+Mycobacterium tuberculosis KAN-resistant
+Mycobacterium tuberculosis XDR 576W1
+Mycobacterium tuberculosis XDR 587W1
+Mycobacterium tuberculosis (EMB-resistant)
+M. tuberculosis K48T
+M. tuberculosis Q10P/Q10R
+M. tuberculosis D49N
+M. tuberculosis H51R
+M. tuberculosis H37Rv-GFP (Extracellular)
+M. tuberculosis H37Rv-GFP (Intracellular)
+M. tuberculosis W210
+M. tuberculosis NHN20
+M. tuberculosis NHN335
+M. tuberculosis ΔsigI
+M. tuberculosis Ico
+M. tuberculosis ΔkatG
+M. tuberculosis pSCW
+M. tuberculosis pSCW-sigI
+M. tuberculosis 2199
+M. tuberculosis atpE (C188T/A63V) + Rv0678 (G71A/G24D)
+M. tuberculosis atpE (G187A/A63T) + Rv0678 (G197A/G66E)
+M. tuberculosis atpE (G187A/A63T) + Rv0678 (G196A/G66E)
+M. tuberculosis atpE (G187C/A63P) + Rv0678 (G74A/G25D)
+M. tuberculosis atpE (G187C/A63P) + Rv0678 (G196A/G66E)
+M. tuberculosis atpE (C188T/A63V) + Rv0678 (G196A/G66E)
+M. tuberculosis BDQ 1000-0.125B
+M. tuberculosis BDQ 1000-1B
+M. tuberculosis CIBIN 687
+M. tuberculosis CIBIN 650
+M. tuberculosis CIBIN 675
+M. tuberculosis CIBIN 234
+M. tuberculosis H37Rv INH-resistant
+M. tuberculosis H37Rv RFP-resistant
+M. tuberculosis (Drug Sensitive)
+M. tuberculosis Hy331/88
+M. tuberculosis H37Rv (ADC)
+M. tuberculosis H37Rv (CAS)
+M. tuberculosis strain 1
+M. tuberculosis strain 2
+Rif-resistant M. tuberculosis isolate
+M. tuberculosis 27294
+Mycobacterium tuberculosis 9449/06
+Mycobacterium tuberculosis 2092/05
+M. tuberculosis clinical strain 1 (MDR)
+M. tuberculosis clinical strain 2 (MDR)
+M. tuberculosis H37Rv ATCC 2794
+XDR-TB
+MTB (H37Rv strain)
+M. tuberculosis susceptible to TB drugs
+M. tuberculosis MDR Strain
+M. tuberculosis drug-sensitive strains
+M. tuberculosis MDR strains
+M. tuberculosis H37Rv (7H9 broth)
+Mtb IZAK
+Mtb MATI
+Mtb SORO
+Mtb TIAS
+Mtb YAGY
+Mtb TURZ
+Mtb H37Rv MC2 6230
+Isoniazid-resistant Mtb mc28243
+Rifampicin-resistant Mtb mc28247
+Multidrug-resistant Mtb mc28259
+M. tuberculosis H37Ra (Active state)
+M. tuberculosis H37Ra (Dormant state)
+M. tuberculosis (MDR) Sputum
+M. tuberculosis (MDR) Pleural fluid
+M. tuberculosis (XDR) Sputum (Sl. no. 4)
+M. tuberculosis (XDR) Sputum (Sl. no. 5)
+M. tuberculosis MDR-MT
+M. tuberculosis H37Ra MDR (Active)
+M. tuberculosis H37Ra MDR (Dormant)
+M. tuberculosis H37Ra ex vivo (Active)
+M. tuberculosis H37Ra ex vivo (Dormant)
+M. tuberculosis isolate 20
+M. tuberculosis isolate 98
+M. tuberculosis isolate 228
+M. tuberculosis isolate 336
+M. tuberculosis isolate 575
+M. tuberculosis isolate 1702
+M. tuberculosis isolate 2321M
+M. tuberculosis isolate 3135
+M. tuberculosis isolate 4179
+M. tuberculosis isolate 6665
+M. tuberculosis isolate 7069
+M. tuberculosis (RIF Resistant)
+M. tuberculosis (INH Resistant)
+M. tuberculosis (ETB Resistant)
+M. tuberculosis (STR Resistant)
+Mycobacterium tuberculosis (Human Sensitive)
+Mycobacterium tuberculosis (Human Resist)
+H37RV control isolate
+MDR-TB clinical isolate
+M. tuberculosis H37Rv (CAS medium)
+M. tuberculosis H37Rv (ADC medium)
+M. tuberculosis (Strain SZ)
+M. tuberculosis (Strain C)
+M. tuberculosis (Strain G)
+M. tuberculosis (Strain A)
+M. tuberculosis (Strain L-53)
+M. tuberculosis (Strain E)
+M. tuberculosis (Rifampin-resistant)
+M. tuberculosis (Isoniazid-resistant)
+M. tuberculosis (Streptomycin-resistant)
+M. tuberculosis (Kanamycin-resistant)
+M. tuberculosis (Cycloserine-resistant)
+M. tuberculosis NIHJ 3002
+M. tuberculosis NIHJ 3003
+M. tuberculosis NIHJ 3004
+M. tuberculosis NIHJ 3005
+M. tuberculosis NIHJ 3012
+M. tuberculosis NIHJ 3014
+M. tuberculosis NIHJ 3019
+M. tuberculosis H37Ra ATCC25177
+M. tuberculosis MC2 6230
+M. tuberculosis INH-res (MC2 8243)
+M. tuberculosis RIF-res (MC2 8247)
+M. tuberculosis INH-res and RIF-res (MC2 8259)
+M. tuberculosis H37Rv (MC2 6230)
+M. tuberculosis SQ109 Mutant (MC2 6230)
+M. tuberculosis H37Rv-INH-R (ATCC 35822)
+M. tuberculosis H37Rv-RIF-R (ATCC 35838)
+Resistant M. tuberculosis
+M. tuberculosis ΔkatG mutant
+M. tuberculosis (MTB)
+M. tuberculosis (RCMB 010126)
+M. tuberculosis H37RvΔkatG
+M. tuberculosis 103471
+intramacrophagic Mycobacterium tuberculosis
+isoniazid resistant M. tuberculosis H37Rv
+M. tuberculosis MDR TB clinical isolates
+M. tuberculosis H37Rv (isoniazid-resistant)
+MDR-TB strain T113
+M. tuberculosis MS-115
+M. tuberculosis 331/88 (H37Rv)
+M. tuberculosis 234/2005
+M. tuberculosis 9449/2007
+M. tuberculosis 242/2015
+M. tuberculosis Praha 1
+M. tuberculosis Praha 4
+M. tuberculosis Praha 131
+M. tuberculosis H37Rv (Aerobic)
+M. tuberculosis INHR1
+M. tuberculosis INHR2
+M. tuberculosis clinical isolate A-1-1 (Drug-susceptive)
+M. tuberculosis clinical isolate A-3-17 (Drug-susceptive)
+M. tuberculosis clinical isolate A-2-3 (Drug-resistant INH, RFP)
+M. tuberculosis clinical isolate N-5-2 (Drug-resistant INH, RFP, SM, EB)
+MDR Mycobacterium tuberculosis
+M. tuberculosis H37-Rv
+drug-resistant M. tuberculosis
+Mycobacterium tuberculosis MDR-TB
+M. tuberculosis strain H37Rv
+M. tuberculosis LORA
+M. tuberculosis Rif-R1
+M. tuberculosis Rif-R2
+M. tuberculosis ATC 25197
+M. tuberculosis SRMV2.6
+M. tuberculosis (H37Ra)
+M. tuberculosis (non-replicating)
+M. tuberculosis V4207
+M. tuberculosis KZN494
+M. tuberculosis R506
+M. tuberculosis TF274
+M. tuberculosis clinical isolate (SHRE resistant)
+M. tuberculosis clinical isolate (SHRE sensitive)
+M. tuberculosis H37 Ra
+Mycobacterium tuberculosis H37Rv ATCC 27294
+Mycobacterium tuberculosis Clinical isolates (Sensitive)
+Mycobacterium tuberculosis Clinical isolates (Resistant)
+rifampicin-resistant M. tuberculosis
+M. tuberculosis (unspecified)
+Mycobacterium tuberculosis (MTB)
+Multidrug-resistant Mycobacterium tuberculosis (MDR-TB)
+M. tuberculosis (NRP-TB LORA)
+M. tuberculosis (MDR-TB)
+M. tuberculosis Drug susceptible isolate 1
+M. tuberculosis Drug susceptible isolate 2
+M. tuberculosis XDR isolate
+M. tuberculosis RMF resistant 1
+M. tuberculosis RMF resistant 2
+M. tuberculosis C110/09
+M. tuberculosis clinical isolate IC1
+M. tuberculosis clinical isolate IC2
+M. tuberculosis clinical isolate IC3
+Mycobacterium tuberculosis (H37 RV)
+M. tuberculosis 8666/2010
+M. tuberculosis MDR-MTB 6133
+M. tuberculosis MDR-MTB 11277
+Mycobacterium tuberculosis H37Ra (Active)
+Mycobacterium tuberculosis H37Ra (Dormant)
+M. tuberculosis mc2 6030
+M. tuberculosis PE-003
+M. tuberculosis Susc. (CF73)
+M. tuberculosis MDR-TB CF104
+M. tuberculosis MDR-TB CF81
+MTB 09710
+M. tuberculosis 9449/2006
+M. tuberculosis Praha 131 (XDR-TB)
+M. tuberculosis CDCT10
+M. tuberculosis CDCT16
+M. tuberculosis CDCT27
+M. tuberculosis CDCT28
+M. tuberculosis MDR-MTB1 (16995)
+M. tuberculosis MDR-MTB2 (16833)
+M. tuberculosis H37Ra_lux
+MDR-MTB 16995 (MDR-1)
+MDR-MTB 16833 (MDR-2)
+M. tuberculosis MDR-MTB1
+M. tuberculosis MDR-MTB2
+M. tuberculosis PT2
+M. tuberculosis PT12
+M. tuberculosis PT20
+M. tuberculosis qcrB- T313A
+M. tuberculosis H37Rv (7H9/glucose)
+M. tuberculosis H37Rv (GAST/Fe)
+M. tuberculosis bedaquiline-resistant strain
+M. tuberculosis gyrA Ala-90-Val
+M. tuberculosis gyrA Asp-94-Gly
+M. tuberculosis gyrA Gly-88-Cys
+M. tuberculosis gyrA Ser-91-Pro
+M. tuberculosis gyrA Ala-90-Val gyrB Glu-540-Val
+M. tuberculosis gyrA Asp-94-Gly gyrB Asp-500-Asn
+Sensitive Mycobacterium tuberculosis
+XDR Mycobacterium tuberculosis
+M. tuberculosis UAlRa
+M. tuberculosis 6c-16-6B
+M. tuberculosis 6c-16-1B
+M. tuberculosis 6c-8-8B
+M. tuberculosis 6c-16-4B
+M. tuberculosis (resistant strain)
+M. tuberculosis PZA-R 35828
+M. tuberculosis STR-R 35820
+M. tuberculosis RIF-R 35838
+M. tuberculosis INH-R 35822
+M. tuberculosis clinical isolate Ba
+M. tuberculosis (intracellular in J774A.1)
+M. tuberculosis CX1
+M. tuberculosis CX2
+M. tuberculosis CX3
+M. tuberculosis CX4
+M. tuberculosis H37 Rv
+M. tuberculosis XDR
+M. tuberculosis (DS)
+M. tuberculosis (XDR)
+H37Rv
+M. tuberculosis lab generated RIF resistant strain
+M. tuberculosis SK JAL7782
+M. tuberculosis STB-FJ05349
+M. tuberculosis STB-FJ05060
+M. tuberculosis MDR-FJ05120
+M. tuberculosis MDR-FJ05189
+M. tuberculosis XDR-FJ05195
+M. tuberculosis XDR-XZ06008
+M. tuberculosis H38Rv
+M. tuberculosis H37Rv (fbiC mutant)
+M. tuberculosis H37Rv (fgd mutant)
+M. tuberculosis H37Rv (rv3547 mutant)
+M. tuberculosis H37Rv (rv3547:A76E mutant)
+M. tuberculosis 13946 (clinical isolate)
+M. tuberculosis 14862 (clinical isolate)
+M. tuberculosis PBTZ169-resistant strain
+Mtb[N1640S]
+Mtb[N1640K]
+Mtb[D1644G]
+Mtb[A1667V]
+M. tuberculosis H37Rv (cholesterol media)
+M. tuberculosis Erdman (mixed media)
+M. tuberculosis H37Rv (intracellular in THP-1)
+M. tuberculosis H37Rv (glucose media)
+M. tuberculosis H37Rv (glycerol media)
+M. tuberculosis H37Rv (7H9/ADC)
+M. tuberculosis H37Rv (GBSA/DBSA)
+M. tuberculosis H37Rv (Nitrate/Butyrate)
+M. tuberculosis H37Rv (Chol)
+M. tuberculosis cydC::aph
+M. tuberculosis H37Rv cydC::aph (CydKO)
+M. tuberculosis H37Rv (GCas)
+M. tuberculosis TB456 (5 ng/ml pristinamycin)
+M. tuberculosis TB456 (15 ng/ml pristinamycin)
+M. tuberculosis TB456 (25 ng/ml pristinamycin)
+M. tuberculosis TB456 (50 ng/ml pristinamycin)
+M. tuberculosis rRMP
+M. tuberculosis rINH
+M. tuberculosis H37Rv (bactec)
+M. tuberculosis H37Rv (alamar)
+M. tuberculosis erdman (alamar)
+M. tuberculosis EMB-R (alamar)
+M. tuberculosis INH-R (alamar)
+M. tuberculosis RMP-R (alamar)
+M. tuberculosis ETA-R (alamar)
+M. tuberculosis TAC-R (alamar)
+M. tuberculosis CIP-R (alamar)
+M. tuberculosis KM-R (alamar)
+Intracellular M. tuberculosis
+M. tuberculosis clinical isolate 149/03
+M. tuberculosis clinical isolate 326/04
+M. tuberculosis H37Rv 20 resistant mutant Clone 8.1
+M. tuberculosis H37Rv 20 resistant mutant Clone 8.2
+M. tuberculosis H37Rv (ATCC27294)
+M. tuberculosis Beijing (E-47/94)
+M. tuberculosis D-211
+M. tuberculosis STRR (136570)
+M. tuberculosis INHR (912253)
+M. tuberculosis RIFR (19000)
+M. tuberculosis ETMR (17003)
+M. tuberculosis OFLR (12119)
+M. tuberculosis H37Rv WT
+M. tuberculosis DprE1 OE strain
+M. tuberculosis BTZ res mutant (C-G)
+M. tuberculosis BTZ Res mutant (C-S)
+M. tuberculosis 14.Clone8.1
+M. tuberculosis 14.Clone8.2
+M. tuberculosis 14.Clone8.3
+M. tuberculosis rifampicin-resistant
+M. tuberculosis isoniazid-resistant
+M. tuberculosis H37Rv (Fe-rich)
+M. tuberculosis H37Rv (Fe-deficient)
+M. tuberculosis (MDR-MTB)
+M. tuberculosis H37Rv MABA/GAS
+M. tuberculosis H37Rv MABA/GAST
+M. tuberculosis (RifR)
+M. tuberculosis (INHR)
+M. tuberculosis RMP-R1
+M. tuberculosis RMP-R2
+M. tuberculosis H37Rv (aerobic)
+M. tuberculosis H37Ra-lux
+M. tuberculosis \Delta KatG mutant
+M. tuberculosis mc27902
+M. tuberculosis mc28247
+M. tuberculosis mc28245
+M. tuberculosis mc28250
+M. tuberculosis mc28256
+INH-r MTB
+RIF-r MTB
+Mtb RIF resistant
+Mtb INH resistant
+Mtb ETB resistant
+Mtb STR resistant
+M. tuberculosis (clinical isolates)
+M. tuberculosis 7357/1998
+M. tuberculosis H37Rv ATCC 25618
+6-week-starved Mycobacterium tuberculosis H37Rv
+M. tuberculosis MDR (strain R1097)
+M. tuberculosis XDR (strain X149)
+M. tuberculosis (replicating, fluorescent assay)
+M. tuberculosis (dormant, fluorescent assay)
+M. tuberculosis Mtb-Lux (replicating)
+M. tuberculosis Mtb-Lux (dormant)
+M. tuberculosis NTB1
+M. tuberculosis ss18b
+M. tuberculosis (PyrBTZ01-resistant mutant)
+M. tuberculosis wild-type control strains (PT3, PT6, PT7)
+M. tuberculosis M319T mutant (PT1, PT2, PT5)
+M. tuberculosis alr C-8T promoter mutant (PBm0, PBm14)
+M. tuberculosis alr Y364D mutant
+M. tuberculosis Praha 1 (MDR)
+M. tuberculosis Praha 4 (MDR)
+M. tuberculosis Praha 131 (XDR)
+M. tuberculosis 234/2005 (MDR)
+M. tuberculosis H37Ra (pVV2)
+M. tuberculosis H37Ra (pVV2-dprE2)
+M. tuberculosis H37Ra (pVV2-dprE1/dprE2)
+M. tuberculosis 9449/2007 (MDR)
+M. tuberculosis 8666/2010 (MDR)
+M. tuberculosis (r-RMP)
+M. tuberculosis (r-INH)
+M. tuberculosis (r-SM)
+M. tuberculosis (pH 6.0)
+M. tuberculosis (pH 6.8)
+M. tuberculosis SR 2571/0215
+Mycobacterium tuberculosis MDR-MTB
+Mycobacterium tuberculosis ATCC 27294
+Mycobacterium tuberculosis (ATCC 25618)
+M. tuberculosis H37Ra (Active Stage)
+M. tuberculosis H37Ra (Dormant Stage)
+Drug-susceptible M. tuberculosis H37Rv
+Mtb strain resistant to INH
+Mtb strain resistant to RIF
+Mtb strain resistant to ETB
+Mtb strain resistant to STR
+M. tuberculosis H37Rv (INH-resistant)
+M. tuberculosis H37Rv (RIF-resistant)
+isoniazid-resistant M. tuberculosis (SRI 1369)
+rifampicin-resistant M. tuberculosis (SRI 1367)
+ofloxacin-resistant M. tuberculosis (SRI 4000)
+M. tuberculosis S315T
+M. tuberculosis SRI 1369 (INHR)
+M. tuberculosis SRI 1367 (RIFR)
+M. tuberculosis SRI 4000 (OXNR)
+M. tuberculosis IZAK
+M. tuberculosis MATI
+M. tuberculosis 53.8 (Rv0579, L240V)
+M. tuberculosis NTB1 (DprE1 C387S)
+M. tuberculosis NTB9 (DprE1 C387G)
+M. tuberculosis H37Rv-pSODIT:dprE1
+M. tuberculosis 81.10 (ethA, D1109-37)
+M. tuberculosis IC1
+M. tuberculosis IC2
+M. tuberculosis H37Rv-pSODIT
+M. tuberculosis Orphan strain
+M. tuberculosis Haarlem
+M. tuberculosis LAM9 SIT 42
+M. tuberculosis Beijing
+M. tuberculosis ATCC 35822
+M. tuberculosis ATCC 35838
+M. tuberculosis [H37Ra]
+M. tuberculosis H37RvEr
+M. tuberculosis H37RvIr
+M. tuberculosis H37RvRr
+M. tuberculosis H37RvSr
+M. tuberculosis MMDO
+M. tuberculosis MTY147
+M. tuberculosis SIN452
+M. tuberculosis Mtb
+MDR-Mtb
+MDR-Mtb Strain K12
+MDR-Mtb Strain K16
+MDR-Mtb Strain K18
+MDR-Mtb Strain V4
+M. tuberculosis H37Rv (LORA / NRP)
+M. tb H37Rv
+M. tb H37Rv IR
+M. tb H37Rv ER
+M. tb H37Rv SR
+M. tb H37Rv RR
+M. tuberculosis (NRP)
+M. tuberculosis H37Rv IR
+M. tuberculosis H37Rv ER
+M. tuberculosis H37Rv SR
+M. tuberculosis H37Rv RR
+Mycobacterium tuberculosis strain H37Rv (MABA)
+Mycobacterium tuberculosis (LORA - nonreplicating)
+M. tuberculosis (multidrug-resistant strains)
+M. tuberculosis INH/RIFR (strain T113/09)
+Mycobacterium tuberculosis (MDR11)
+M. tuberculosis INH-resistant
+M. tuberculosis RIF-resistant
+M. tuberculosis XDR P1
+M. tuberculosis MDR P3
+Mycobacterium tuberculosis mc2 6230
+Mycobacterium tuberculosis mc2 8243 (INH resistant)
+Mycobacterium tuberculosis mc2 8247 (Rif resistant)
+Mycobacterium tuberculosis mc2 8259 (MDR)
+Mycobacterium tuberculosis XDR-1
+M. tuberculosis (Isolate 261312 Baseline)
+M. tuberculosis (Isolate 261312 Last)
+M. tuberculosis (Isolate 082626 Baseline)
+M. tuberculosis (Isolate 082626 Last)
+M. tuberculosis (Isolate 121925 Baseline)
+M. tuberculosis (Isolate 121925 Last)
+M. tuberculosis (Isolate 120403 Baseline)
+M. tuberculosis (Isolate 120403 Last)
+M. tuberculosis (Isolate 121025 Baseline)
+M. tuberculosis (Isolate 121025 Last)
+M. tuberculosis (Isolate 240306 Baseline)
+M. tuberculosis (Isolate 240306 Last)
+M. tuberculosis (Isolate 262419 Baseline)
+M. tuberculosis (Isolate 262419 Last)
+M. tuberculosis (Isolate 262625 Baseline)
+M. tuberculosis (Isolate 262625 Last)
+M. tuberculosis (Isolate 2610 Baseline)
+M. tuberculosis (Isolate 2610 Last)
+M. tuberculosis (Isolate 232008 Baseline)
+M. tuberculosis (Isolate 232008 Last)
+M. tuberculosis (Isolate 2625 Baseline)
+M. tuberculosis (Isolate 2625 Last)
+M. tuberculosis (Isolate 171026 Baseline)
+M. tuberculosis (Isolate 171026 Last)
+M. tuberculosis (Isolate 0704 Baseline)
+M. tuberculosis (Isolate 0704 Last)
+M. tuberculosis (Isolate 100623 Baseline)
+M. tuberculosis (Isolate 100623 Last)
+M. tuberculosis (Isolate 1912 Baseline)
+M. tuberculosis (Isolate 1912 Last)
+M. tuberculosis (Isolate 0710 Baseline)
+M. tuberculosis (Isolate 0710 Last)
+M. tuberculosis (Isolate 230804 Baseline)
+M. tuberculosis (Isolate 230804 Last)
+M. tuberculosis (Isolate 082619 Baseline)
+M. tuberculosis (Isolate 082619 Last)
+M. tuberculosis (Isolate 1203 Baseline)
+M. tuberculosis (Isolate 1203 Last)
+M. tuberculosis PT-2
+M. tuberculosis PT-20
+Mycobacterium tuberculosis H 37 Ra
+M. tuberculosis CNCTC My 331/8
+MDR Mycobacterium tuberculosis (ATCC 35822)
+XDR M. tuberculosis (RCMB 2674)
+Mycobacterium tuberculosis isolate
+M. tuberculosis mc26230 R1
+M. tuberculosis mc26230 R2
+M. tuberculosis mc26230 R3
+M. tuberculosis mc26230_R1
+M. tuberculosis mc26230_R2
+M. tuberculosis mc26230_R3
+M. tuberculosis (Erdman wt)
+M. tuberculosis (CAS Media)
+M. tuberculosis (ADC Media)
+M. tuberculosis strain mc26230
+M. tuberculosis (MTCC 300)
+M. tuberculosis MTB-1
+M. tuberculosis MTB-2
+M. tuberculosis isolate
+M. tuberculosis sensitive to INH (strain nr 192)
+M. tuberculosis resistant to INH (strain nr 210)
+M. tuberculosis INH-res
+M. tuberculosis ETB-res
+M. tuberculosis STR-res
+M. tuberculosis RIF-res
+M. tuberculosis MDR strain
+MDR strain of M. tuberculosis
+Mycobacterium tuberculosis CIBIN/UMF15:99
+M. tuberculosis H37Ra (Active stage)
+M. tuberculosis H37Ra (Dormant stage)
+H37RV
+M. tuberculosis H37RA
+M. tb mc2 6230
+M. tuberculosis clinical isolate 820
+M. tuberculosis clinical isolate 1143
+M. tuberculosis clinical isolate 1083
+M. tuberculosis mc2 8243 (Isoniazid-resistant)
+M. tuberculosis mc2 8247 (Rifampicin-resistant)
+M. tb H37Ra
+M. tuberculosis H37Ra pMV261/pVV2
+M. tuberculosis H37Ra pMV261-inhA(1)
+M. tuberculosis H37Ra pMV261-inhA(2)
+M. tuberculosis H37Ra pVV2-katG
+M. tuberculosis CSU 19
+M. tuberculosis CSU 33
+M. tuberculosis H37Rv-INH-R
+M. tuberculosis CSU 36
+M. tuberculosis CSU 38
+M. tuberculosis H37Rv-EMB-R
+M. tuberculosis BC-248 (MDR)
+M. tuberculosis BC-283 (MDR)
+M. tuberculosis VA-101 (MDR)
+M. tuberculosis BC-426 (MDR)
+M. tuberculosis BC-437 (MDR)
+M. tb. H37Rv ATCC 27294
+M. tb. clinical isolates Sensitive
+M. tb. clinical isolates Resistant
+M. tuberc. H37Rv
+M. tuberculosis (MTB H37Ra)
+M. tuberculosis MDR-MTB 16995
+M. tuberculosis MDR-MTB 16833
+M. tuberculosis MDR/XDR PRAHA 1
+M. tuberculosis spoligotype T1 911
+M. tuberculosis ATCC 25177/H37Ra
+M. tuberculosis RMtb
+M. tuberculosis Tn-196
+M. tuberculosis H37Rv pMV261
+M. tuberculosis H37Rv pOLYG
+M. tuberculosis Tn-196 pOLYG-ksgA
+M. tuberculosis H37Rv-rifampicin-resistant
+M. tuberculosis H37Rv-isoniazid-resistant
+M. tuberculosis H37Rv-streptomycin-resistant
+M. tuberculosis H37Rv-moxifloxacin-resistant
+Non-replicating M. tuberculosis H37Rv
+Mycobacterium tuberculosis strain H37Ra
+M. tuberculosis Ural region
+M. tuberculosis CDCT-16
+M. tuberculosis CDCT-27
+MtbH37Rv
+M. tuberculosis INH-resistant (ATCC-35822)
+M. tuberculosis clinical isolate 11
+M. tuberculosis clinical isolate 27
+M. tuberculosis clinical isolate 49
+M. tuberculosis clinical isolate 13,638
+M. tuberculosis clinical isolate 4851
+M. tuberculosis clinical isolate 57
+M. tuberculosis clinical isolate 17
+M. tuberculosis clinical isolate 73-A
+M. tuberculosis clinical isolate 91
+M. tuberculosis clinical isolate 3614
+M. tuberculosis (MTCC 200)
+M. tuberculosis H37Rv (Extracellular)
+M. tuberculosis 0045-D1-21 (XDR)
+M. tuberculosis 116-47 (MDR)
+M. tuberculosis 0201-D1-21 (XDR)
+M. tuberculosis H37Rv (Intracellular iMACs)
+M. tuberculosis H37Rv (Intracellular hMDMs)
+M. tuberculosis MDR/XDR
+M. tuberculosis Susceptible
+M. tuberculosis H37Rv-GFP
+M. tuberculosis My 332/88
+M. tuberculosis H6/99
+M. tuberculosis INH-R ATCC35822
+M. tuberculosis INH-R clinical isolates
+intramacrophagic M. tuberculosis
+M. tuberculosis (extracellular)
+M. tuberculosis 2-RM1 (ethA mutant)
+M. tuberculosis 3-RM1 (mymA mutant)
+M. tuberculosis Rv3083::Tn (mymA mutant)
+M. tuberculosis SG2 (ethA and mymA mutant)
+M. tuberculosis H37Rv mc26206
+Mtb Strain H37Rv
+Mtb V4207/DS
+Mtb V2475/MDR
+Mtb KZN494/MDR
+Mtb TF274/XDR
+Mtb R506/XDR
+M. tuberculosis K4
+M. tuberculosis K5
+M. tuberculosis K12
+M. tuberculosis K16
+M. tuberculosis 70P3 (MenG V20A)
+M. tuberculosis 70P7 (MenG F118L)
+M. tuberculosis H37Rv 70P3 (MenG V20A)
+M. tuberculosis PptT cKD
+M. tuberculosis pyridomycin resistant H37Rv (InhAM161L)
+M. tb INH^R
+M. tb RIF^R
+M. tb INH^R RIF^R
+M. tb INH^R RIF^R ETH^R
+M. tuberculosis QcrB T313I
+M. tuberculosis QcrB M342T
+M. tuberculosis H37Rv (GAST-Fe)
+M. tuberculosis H37Rv (7H9/DPPC)
+M. tuberculosis H37Rv (MABA GAS)
+M. tuberculosis H37Rv (MABA 7H12)
+M. tuberculosis rSM
+M. tuberculosis rCs
+M. tuberculosis rMox
+M. tuberculosis rKM
+M. tuberculosis K204
+M. tuberculosis (Non-replicating)
+M. tuberculosis (Replicating)
+M. tuberculosis (pH 5.5)
+M. tuberculosis (pH 6.7)
+Mtb rpoB+ (clinical isolate)
+M. tuberculosis QcrB_M342 mutant
+M. tuberculosis CDC1551 (Acetate)
+M. tuberculosis CDC1551 (Butyrate)
+M. tuberculosis CDC1551 (Cholesterol)
+M. tuberculosis H37Rv (Cholesterol)
+M. tuberculosis H37Rv (OADC)
+M. tuberculosis H37Rv (Intramacrophage THP-1)
+M. tuberculosis CMDS1
+M. tuberculosis CMDS2
+M. tuberculosis CMDR1
+M. tuberculosis CMDR2
+M. tuberculosis CMDR3
+M. tuberculosis CXDR1
+M. tuberculosis CXDR2
+M. tuberculosis BDQR H37Rv
+M. tuberculosis PA-824R CDC1551
+M. tuberculosis MMPL3R H37Rv
+M. tuberculosis BTZR H37Rv
+M. tuberculosis Q203R H37Rv
+M. tuberculosis H37Rv (Intramacrophage)
+MTB H37Ra (Ex vivo, Active)
+MTB H37Ra (Ex vivo, Dormant)
+Drug Resistant MTB H37Ra (Ex vivo, Active)
+Drug Resistant MTB H37Ra (Ex vivo, Dormant)
+MTB H37Ra (In vitro, Active)
+MTB H37Ra (In vitro, Dormant)
+M. tuberculosis H37Rv (intracellular macrophage model)
+M. tuberculosis H37Rv rv3405c mutant TRC4
+M. tuberculosis H37Rv Δrv3406 dprE1 L368P
+M. tuberculosis rv3405c mutant TRC4
+M. tuberculosis Δrv3406 dprE1 L368P
+M. tuberculosis PII-1
+M. tuberculosis PII-2
+M. tuberculosis PII-3
+M. tuberculosis PII-37
+M. tuberculosis PII-39
+M. tuberculosis PII-9
+M. tuberculosis PII-10
+M. tuberculosis PII-12
+M. tuberculosis PII-17
+M. tuberculosis PII-18
+M. tuberculosis PII-40
+M. tuberculosis PII-20
+M. tuberculosis PII-21
+M. tuberculosis PII-22
+M. tuberculosis PII-23
+M. tuberculosis PII-24
+M. tuberculosis PII-27
+M. tuberculosis PII-28
+M. tuberculosis PII-29
+M. tuberculosis PII-30
+M. tuberculosis PII-31
+M. tuberculosis PII-32
+M. tuberculosis PII-33
+M. tuberculosis PII-35
+M. tuberculosis (7H9-Tw-OADC)
+M. tuberculosis (7H9-Ty-10BT)
+M. tuberculosis (7H9-Ty-BT)
+M. tuberculosis mc26020
+MtbΔsecY 3AA
+M. tuberculosis ClpC1 Q17R mutant
+Extracellular M. tuberculosis
+M. tuberculosis M9483
+M. tuberculosis M6600
+M. tuberculosis M3551
+M. tuberculosis V4 (clinical MDR-TB)
+M. tuberculosis K4 (clinical MDR-TB)
+M. tuberculosis K5 (clinical MDR-TB)
+M. tuberculosis K12 (clinical MDR-TB)
+M. tuberculosis K16 (clinical MDR-TB)
+M. tuberculosis K18 (clinical MDR-TB)
+M. tuberculosis inh233
+Mycobacterium tuberculosis Erdman
+Mycobacterium tuberculosis HN878
+Mycobacterium tuberculosis MDR 59744
+M. tb H37Rv (ex vivo THP-1 macrophages)
+M. tb strain 18b
+M. tuberculosis Mtb-209
+M. tuberculosis ATCC-35838
+M. tuberculosis S94A (INH-resistant)
+M. tuberculosis C(-15)T (INH-resistant)
+M. tuberculosis 665/514
+M. tuberculosis T113/09
+M. tuberculosis SR 5110/1116
+M. tuberculosis BRF04
+M. tuberculosis 23
+M. tuberculosis 49 (pH 6.8)
+M. tuberculosis KatGS315T
+M. tuberculosis inhA -15C→T
+M. tuberculosis FJ05349
+M. tuberculosis FJ05060
+M. tuberculosis FJ05195
+M. tuberculosis FJ05120
+M. tuberculosis FJ05189
+M. tuberculosis xz
+M. tuberculosis (Extracellular)
+M. tuberculosis (Intracellular)
+M. tuberculosis clinical isolate Mtb-A
+M. tuberculosis clinical isolate Mtb-B
+M. tuberculosis clinical isolate Mtb-C
+M. tuberculosis clinical isolate Mtb-D
+M. tuberculosis clinical isolate Mtb-E
+M. tuberculosis clinical isolate Mtb-F
+M. tuberculosis clinical isolate Mtb-G
+M. tuberculosis clinical isolate Mtb-H
+M. tuberculosis clinical isolate Mtb-I
+M. tuberculosis clinical isolate Mtb-J
+M. tuberculosis CDC 1551
+M. tuberculosis LIID-28-99
+M. tuberculosis LIID-582-15
+M. tuberculosis LIID-619-15
+M. tuberculosis LIID-853-15
+M. tuberculosis CIPTIR-F296
+M. tuberculosis CIPTIR -D152
+M. tuberculosis CIPTIR -C131
+Isoniazide-resistant TB 242 (M. tuberculosis)
+Rifampicin-resistant TB 261 (M. tuberculosis)
+M. tuberculosis ATCC 25177
+Mycobacterium tuberculosis (Mtb)
+Mycobacterium tuberculosis ΔkatG (mutant)
+drug-sensitive M. tuberculosis
+M. tuberculosis RG500
+M. tuberculosis RGH102
+M. tuberculosis RGH103
+M. tuberculosis RGH113
+M. tuberculosis MC26230
+M. tuberculosis (MC26230)
+INH-resistant Mycobacterium tuberculosis
+Mtb HR37Rv
+M. tuberculosis H37Rv (7H9 medium)
+M. tuberculosis H37Rv (GAST medium)
+M. tuberculosis HREZSKPTh (MDR-TB Isolate 1) in 7H9 medium
+M. tuberculosis HREZSKPTh (MDR-TB Isolate 2) in 7H9 medium
+M. tuberculosis HREZSKPTh (MDR-TB Isolate 2) in GAST medium
+M. tuberculosis HREKO (MDR-TB) in 7H9 medium
+M. tuberculosis HREKO (MDR-TB) in GAST medium
+M. tuberculosis HREP (XDR-TB) in 7H9 medium
+M. tuberculosis HREP (XDR-TB) in GAST medium
+M. tuberculosis HRESPOCTH (XDR-TB) in 7H9 medium
+M. tuberculosis HRESPOCTH (XDR-TB) in GAST medium
+M. tuberculosis H37Ra (MABA)
+M. tuberculosis H37Rv (non-replicating)
+H37Rv (ATCC 27294)
+H37Rv-INH-R (ATCC 35822)
+H37Rv-RIF-R (ATCC 35838)
+Mtb. 331/88
+Mtb. Praha 4
+Mtb. Praha 131
+Mtb. 234/2005
+Mtb. 9449/2007
+Mtb. 7357/1998
+Mtb. 8666/2010
+M. tuberculosis H37Ra pMV261/pVV16
+M. tuberculosis H37Ra pMV261-inhA
+M. tuberculosis H37Ra pVV16-katGsmeg
+M. tuberculosis H37Rv (+ verapamil)
+M. tuberculosis H37Rv (+ PAβN)
+M. tuberculosis H37Rv KO Tap
+M. tuberculosis H37Rv KO Mmr
+M. tuberculosis CF16
+M. tuberculosis CF61
+M. tuberculosis CF76
+M. tuberculosis CF152
+M. tuberculosis CF161
+M. tuberculosis H37Rv-wild type
+M. tuberculosis ΔqcrB mutant
+M. tuberculosis gfp (CAS, GLU, TX)
+M. tuberculosis gfp (ADC, GLU, TW)
+M. tuberculosis MoxR
+M. tuberculosis DprE1-P116S
+M. tuberculosis DprE1-C387S
+M. tuberculosis IAR2
+mutant of Mtb IAR2
+M. tuberculosis H37Rv (iron-deficient)
+M. tuberculosis H37Rv (iron-rich)
+M. tuberculosis H37Rv (Replicating)
+M. tuberculosis H37Rv (Non-replicating)
+Multidrug resistant Mycobacterium tuberculosis
+M. tuberculosis H37Rv-CA-lux AB (LORA)
+M. tuberculosis #37892293
+M. tuberculosis #3688023
+M. tuberculosis Who-185
+M. tuberculosis Who-1841
+Mycobacterium tuberculosis ATCC 25177
+M. tuberculosis Kurono
+M. tuberculosis clinical isolates (n=21)
+M. tuberculosis H37Rv INHr
+M. tuberculosis H37Rv RFPr
+Mtb H37Rv strain
+Mtb H37Rv strain (freshly passaged from guinea pig)
+M. tuberculosis SIR Ciprofloxacin susceptible 168/22
+M. tuberculosis SIRE Ciprofloxacin resistant 22/22
+M. tuberculosis H37Rv Pasteur
+M. tuberculosis CV37
+M. tuberculosis H37Rv pCVGA30
+M. tuberculosis H37Rv pSD5
+M. tuberculosis H37Rv [media: GAST Fe]
+M. tuberculosis H37Rv [media: 7H9 GLU ADC]
+M. tuberculosis ΔcydKO [media: GAST Fe]
+M. tuberculosis qcrBA317T [media: GAST Fe]
+M. tuberculosis MDR-MTB
+Erdman Mtb (ATCC 35801)
+Mycobacterium tuberculosis (H37Rv strain: ATCC no. 27294)
+M. tuberculosis (replicating)
+INH resistant M. tuberculosis
+Mycobacterium tuberculosis H37Rv mc2 6230
+Mycobacterium tuberculosis mc2 8243
+Mycobacterium tuberculosis mc2 8247
+Mycobacterium tuberculosis mc2 8259
+M. tuberculosis isolate 3185
+M. tuberculosis isolate 2482
+Mycobacterium tuberculosis mc26230
+M. tuberculosis pMSp12::GFP (CAS medium)
+M. tuberculosis pMSp12::GFP (ADC medium)
+M. tuberculosis pMSp12::GFP
+M. tuberculosis PT-12
+M. tuberculosis mc26230 M1
+M. tuberculosis mc26230 M2
+M. tuberculosis mc26230 M3
+M. tuberculosis CDCT-1
+M. tuberculosis CDCT-2
+M. tuberculosis CDCT-3
+M. tuberculosis CDCT-4
+M. tuberculosis CDCT-5
+M. tuberculosis CDCT-10
+M. tuberculosis CDCT-28
+M. tuberculosis IQG1
+M. tuberculosis IQG2
+M. tuberculosis IQG3
+M. tuberculosis IQG4
+M. tuberculosis IQG5
+M. tuberculosis IQG6
+M. tuberculosis pNIP::furA+katG(WT)
+M. tuberculosis pNIP::furA+katG(S315T)
+M. tuberculosis pNIP::Ø
+M. tuberculosis pNIP::InhA(WT)
+M. tuberculosis pNIP::InhA(S94A)
+CDC1551
+M. tuberculosis strain HRV37
+M. tuberculosis MDR-TB, 104/14
+M. tuberculosis XDR-TB, 220/19
+M. tuberculosis mc26030
+M. tuberculosis RIF-R
+M. tuberculosis KAN-R
+M. tuberculosis ETA-R
+M. tuberculosis TAC-R
+M. tuberculosis H37Rv (actively growing)
+M. tuberculosis INHR-TB
+M. tuberculosis CN-40
+M. tuberculosis H37Ra (broth)
+M. tuberculosis H37Ra (macrophage)
+M. tuberculosis Erdman (7H9)
+M. tuberculosis H37Rv (7H12)
+M. tuberculosis Erdman (7H12)
+M. tuberculosis MDR-TB 16833
+M. tuberculosis H37Rv overexpressing DprE1
+M. tuberculosis MTCC 300 (MDR-TB)
+M. tuberculosis Erdmann ATCC 35801
+M. tuberculosis A8 MDR
+M. tuberculosis Wt
+M. tuberculosis 81.10 (ethA, Δ1109-37)
+M. tuberculosis (rRMP)
+M. tuberculosis (rINH)
+M. tuberculosis 2712
+M. tuberculosis 5023
+M. tuberculosis 7106
+M. tubercolosis
+Clinical TB isolate (M. tuberculosis)
+Clinical TB isolate
+M. tuberculosis H37Rv (7H9_CAS_GLU)
+M. tuberculosis H37Rv (7H9_ADC_GLU)
+M. tuberculosis H37Rv (isoniazid resistant)
+M. tuberculosis UAlRv
+M. tuberculosis Y6 (MDR)
+M. tuberculosis Y7 (MDR)
+M. tuberculosis LM2 (INH-resistant)
+M. tuberculosis LM8 (MDR)
+M. tuberculosis LM11 (MDR)
+M. tuberculosis L3 (MDR)
+M. tuberculosis L6 (INH-resistant)
+M. Tuberculosis H37Rv
+M. tuberculosis 20920
+M. tuberculosis 14356
+Mycobacterium tuberculosis pMSP12::GFP (7H9 CAS GLU Tx)
+Mycobacterium tuberculosis pMSP12::GFP (7H9 ADC GLU Tw)
+M. tuberculosis RCMB 2674
+Mycobacterium tuberculosis H37Rv MC^2 6230
+M. tuberculosis H37Rv ΔblaC
+M. tuberculosis (Liquid)
+M. tuberculosis (Solid)
+M. tuberculosis H37Rv (STR-resistant)
+M. tuberculosis H37Rv (EMB-resistant)
+Mycobacterium tuberculosis mdrtb
+Isoniazid-resistant MTB (SRI 1367)
+Rifampin-resistance MTB (SRI 1369)
+Ofloxacin-resistance MTB (SRI 4000)
+M. tuberculosis WT mc27902
+M. tuberculosis INHR mc28245
+M. tuberculosis RIFR mc28247
+M. tuberculosis INHR RIFR mc28250
+M. tuberculosis INHR RIFR mc28258
+M. tuberculosis H37Rv (GAST/Fe medium)
+M. tuberculosis CIBIN/UMF15:99
+Mycobacterium tuberculosis Beijing W MDR
+Mycobacterium tuberculosis Beijing F29 MDR
+Mycobacterium tuberculosis Clinical MDR isolate 1
+Mycobacterium tuberculosis Clinical MDR isolate 2
+Mycobacterium tuberculosis Clinical MDR isolate 3
+MTB Spec. 192
+MTB Spec. 210
+Mycobacterium tuberculosis H37Ra/ATCC 25177
+M. tuberculosis DS Mtb (ATCC 25177/H37Ra)
+M. tuberculosis MDR Mtb (ATCC 35822)
+M. tuberculosis XDR Mtb (RCMB 2674)
+Mtb (H37Ra)
+Rifampicin-resistant M. tuberculosis H37Rv
+M. tuberculosis H37RvMA
+PanC-depleted M. tuberculosis
+M. tuberculosis RM1
+M. tuberculosis RM2
+M. tuberculosis RM7
+M. tuberculosis H37Rv (log phase)
+M. tuberculosis (starved phase)
+M. tuberculosis (7H9 medium)
+M. tuberculosis (High iron conditions)
+M. tuberculosis (Low iron conditions)
+Mycobacterium tuberculosis (replicating)
+Mycobacterium tuberculosis (non-replicating)
+M. tuberculosis (intramacrophagic)
+M. tuberculosis XDR 194
+M. tuberculosis (dormant)
+M. tuberculosis LAM-1 (MDR)
+M. tuberculosis H37Rv (intracellular in J774 macrophages)
+M. tuberculosis (NR-Mtb)
+M. tuberculosis (R-Mtb)
+M. tuberculosis H37Rv (katG mutant)
+M. tuberculosis strain ATCC35822
+M. tuberculosis H37Rv (rpoB mutant)
+M. tuberculosis strain ATCC35828
+M. tuberculosis H37Rv (gyrB mutant)
+M. tuberculosis (MDR isolates)
+M. tuberculosis clinical isolate (KatG mutation)
+M. tuberculosis SR 2571/0215 (KatG mutation)
+M. tuberculosis T113/09 (KatG and rpoB mutation)
+M. tuberculosis (log-phase)
+M. tuberculosis (starved-phase)
+MDR-TB A8 241
+M.tb H37Rv
+M. tuberculosis H37Ralux (intracellular)
+MDR-TB isolate
+Pre-XDR-TB isolate
+M. tuberculosis MDR-TB isolate
+M. tuberculosis Pre-XDR-TB isolate
+M. tuberculosis Inh Resistant
+M. tuberculosis H37Rv (GAST (Fe(+)))
+M. tuberculosis H37Rv (GAST (Fe(-)))
+M. tuberculosis wild type
+M. tuberculosis MDR-MTB (FJ05120)
+M. tuberculosis XDR-MTB (FJ05195)
+M. tuberculosis H37Rv (c7H9)
+M. tuberculosis H37Rv (7H9-Low BSA)
+M. tuberculosis H37Rv (MMM-Ch)
+M. tuberculosis H37Rv (c7H9 medium)
+M. tuberculosis H37Rv (7H9-Low BSA medium)
+M. tuberculosis H37Rv (MMM-Ch medium)
+M. tuberculosis H37Rv InhA (S94 A)
+M. tuberculosis H37Rv PmabAinhA (C-15T)
+M. tuberculosis H37Rv ΔkatG
+M. tuberculosis Clinical isolate 12081
+M. tuberculosis Clinical isolate 5071
+M. tuberculosis mc2 4914
+M. tuberculosis mc2 4977
+M. tuberculosis mc2 5855
+M. tuberculosis (RIF-resistant)
+INH-R MTB
+RFP-R MTB
+SM-R MTB
+PZ-R MTB
+XDR MTB
+M. tuberculosis 18b (ss18b)
+M. tuberculosis kk11-2488
+M. tuberculosis kk11-2489
+M. tuberculosis kk11-2490
+M. tuberculosis kk11-2491
+M. tuberculosis kk11-2492
+M. tuberculosis kk11-2494
+M. tuberculosis kk11-2496
+M. tuberculosis kk11-2497
+M. tuberculosis kk11-2498
+M. tuberculosis kk11-2499
+M. tuberculosis CX5
+M. tuberculosis (11 isolates)
+M. tuberculosis clinical isolate 6
+M. tuberculosis clinical isolate 13
+M. tuberculosis clinical isolate 25
+M. tuberculosis clinical isolate 50
+M. tuberculosis clinical isolate 79
+Mycobacterium H37Ra
+Mycobacterium tuberculosis (Mtb-RA)
+M. tuberculosis INH-r
+M. tuberculosis RIF-r
+M. tuberculosis PYR-r
+M. tuberculosis SM-r
+M. tuberculosis H37Rv (Replicating, Normal)
+M. tuberculosis H37Rv (Replicating, Acid pH 6.0)
+M. tuberculosis H37Rv (Replicating, BSA)
+M. tuberculosis H37Rv (Replicating, FBS)
+M. tuberculosis H37Rv (Latency state)
+M. tuberculosis 100 (Mono-resistant)
+M. tuberculosis 110 (MDR)
+M. tuberculosis 172 (XDR)
+M. tuberculosis 176 (XDR)
+M. tuberculosis STB-30248
+M. tuberculosis STB-30308
+M. tuberculosis MDR-30611
+M. tuberculosis MDR-30141
+M. tuberculosis XDR-28127
+M. tuberculosis XDR-27830
+drug-resistant Mycobacterium tuberculosis
+M. tuberculosis MDR2
+M. tuberculosis MDR1
+MDR M. tuberculosis 234/2005
+MDR M. tuberculosis 9449/2007
+MDR M. tuberculosis 8666/2010
+MDR M. tuberculosis Praha 1
+MDR M. tuberculosis Praha 4
+MDR M. tuberculosis Praha 131
+INH-resistant M. tuberculosis
+M. tuberculosis (actively growing)
+M. tuberculosis KO Tap
+M. tuberculosis KO Mmr
+M. tuberculosis wt (H37Rv)
+M. tuberculosis MTB315T (S315T KatG mutation)
+M. tuberculosis MTB315N (S315N KatG mutation)
+M. tuberculosis MTB735 (D735A KatG mutation)
+M. tuberculosis H37Ra (pVV16)
+M. tuberculosis H37Ra (pVV166-hadABC)
+M. tuberculosis H37Ra (pMV261)
+M. tuberculosis H37Ra (pMV261-inhA)
+Mtb - H37Rv (7H9/OADC/Tw)
+Mtb - H37Rv (7H9/Glu/ADC/Tw)
+Mtb - H37Rv (7H9/OADC/Tx)
+Mtb - H37Rv (Gast/Tw)
+Mtb - CDC1551 (7H9/OADC/Tw)
+Mtb - HN878 (7H9/OADC/Tw)
+Drug-resistant M. tuberculosis rRMP
+Drug-resistant M. tuberculosis rINH
+Drug-resistant M. tuberculosis rSM
+Drug-resistant M. tuberculosis rKM
+Drug-resistant M. tuberculosis rCS
+M. tuberculosis DHFR-oe
+M. tuberculosis H37RvMa
+M. tuberculosis (Non-replicating phase)
+M. tuberculosis CCM 11.1
+M. tuberculosis CCM 10.1
+M. tuberculosis Mtb-lux (Replicating)
+M. tuberculosis Mtb-lux (Dormant)
+wt-M. tuberculosis H37Rv
+RifR-M. tuberculosis H37Rv
+M. tuberculosis H37Rv (rifampicin-resistant)
+M. tuberculosis H37Ra (intracellular)
+M. tuberculosis MDR TB
+M. tuberculosis MT H37-Rv ATCC
+M. tuberculosis MT-1
+M. tuberculosis MT-2
+M. tuberculosis (hypoxic shiftdown)
+M. tuberculosis CDC1551 (hypoxic shiftdown)
+Mycobacterium tuberculosis (CM)
+M. tuberculosis H37Ra ATCC NRS22
+M. tuberculosis H37Ra RFP
+M. tuberculosis CDC1551 (replicating)
+M. tuberculosis CDC1551 (dormant)
+M. tuberculosis H37Ra Dormant
+M. tuberculosis AC83
+M. tuberculosis AC45
+M. tuberculosis 192
+M. tuberculosis-MDR 210
+M. tuberculosis H37Rv (in 7H9/ADC/Tween 80)
+M. tuberculosis H37Rv (in 7H9/glucose/casitone/Tyloxapol)
+M. tuberculosis K33b00MR (MDR+)
+M. tuberculosis 202293 (MDR+)
+M. tuberculosis 053K113 (XDR)
+M. tuberculosis 0K113 (XDR)
+M. tuberculosis 0K116 (XDR)
+M. tuberculosis strain 23797
+M. tuberculosis H37Rv LuxG13
+M. tuberculosis H37Rv hsp
+M. tuberculosis H37Rv hspFFluc
+M. tuberculosis 212 LuxG13
+M. tuberculosis 212 hsp
+M. tuberculosis 232 LuxG13
+M. tuberculosis 232 hsp
+M. tuberculosis 355 LuxG13
+M. tuberculosis 355 hsp
+M. tuberculosis WT clinical strain FJ05349
+M. tuberculosis WT clinical strain FJ05060
+M. tuberculosis MDR clinical strain MDR-FJ05120
+M. tuberculosis MDR clinical strain MDR-FJ05189
+M. tuberculosis XDR clinical strain XDR-FJ05195
+M. tuberculosis (susceptible strains)
+M. tuberculosis H37
+M. tuberculosis Mtb::gfp
+M. tuberculosis MDR3
+M. tuberculosis Beijing MDR
+M. tuberculosis W-Beijing MDR
+M. tuberculosis Beijing F29 MDR
+M. tuberculosis Inhr SDR
+M. tuberculosis Strr SDR
+M. tuberculosis Rifr SDR
+M. tuberculosis Pzar SDR
+M. tuberculosis Clinical MDR
+M. tuberculosis (wild-type extracellular)
+M. tuberculosis (wild-type intracellular)
+M. tuberculosis MmpL3 mutant (F255L, V646M, F644I)
+M. tuberculosis MmpL3 mutant (S591I)
+M. tuberculosis H37Rv Wild-type
+M. tuberculosis H37Rv Rv3161c (C115W)
+M. tuberculosis /pNIP40b-hadABC
+M. tuberculosis HadA C61S
+M. tuberculosis HadC V85I
+M. tuberculosis HadC T123A
+M. tuberculosis HadC A151V
+M. tuberculosis HadC K157R
+M. tuberculosis /pNIP40b-hadAB
+M. tuberculosis /pNIP40b-hadBC
+M. tuberculosis ΔhadABC/pNIP40b-hadAB
+M. tuberculosis MTB5B
+M. tuberculosis MTB4
+M. tuberculosis MTB3
+M. tuberculosis MTB5A
+M. tuberculosis MTB-GFP
+M. tuberculosis H37Rv (BDT)
+M. tuberculosis H37Rv (SFA)
+M. tuberculosis (INHR + RIFR)
+M. tuberculosis (INHR + RIFS)
+M. tuberculosis (INHS + RIFS)
+M. tuberculosis (pre-XDR Strain 1)
+M. tuberculosis (pre-XDR Strain 2)
+M. tuberculosis (pre-XDR Strain 3)
+M. tuberculosis (pre-XDR Strain 4)
+M. tuberculosis (pre-XDR Strain 5)
+M. tuberculosis (pre-XDR Strain 6)
+M. tuberculosis MDR-4
+M. tuberculosis MDR-5
+M. tuberculosis MDR-6
+M. tuberculosis MDR-7
+M. tuberculosis XDR-1
+M. tuberculosis XDR-2
+M. tuberculosis TDR-1
+PP1S-resistant M. tuberculosis
+PP2S-resistant M. tuberculosis
+M. tuberculosis H37Rv (broth growth)
+M. tuberculosis H37Rv (intracellular macrophage growth)
+M. tuberculosis H37Rv (extracellular)
+M. tuberculosis MDR Vertulo
+M. tuberculosis 149/03
+M. tuberculosis 421/96
+M. tuberculosis 586/98
+M. tuberculosis 43/05
+M. tuberculosis 158/97
+M. tuberculosis 134/02
+M. tuberculosis 520/98
+M. tuberculosis 326/04
+M. tuberculosis 296/04
+M. tuberculosis 482/98
+M. tuberculosis 275/05
+latent M. tuberculosis pFCA-luxABCDE
+Rifampin-monoresistant M. tuberculosis
+Isoniazid-monoresistant M. tuberculosis
+M. tuberculosis ATCC 35822 (INHR)
+M. tuberculosis ATCC 35838 (RMPR)
+M. tuberculosis GC 1237
+M. tuberculosis HMS1553
+M. tuberculosis HMS 1292
+M. tuberculosis HMS1278
+M. tuberculosis HMS 1498
+M. tuberculosis HMS 1500
+M. tuberculosis HMS 1536
+M. tuberculosis HMS 1546
+M. tuberculosis H37Rv (Wild type)
+M. tuberculosis H37Rv (Δ138)
+M. tuberculosis H37Rv (Δ138-C)
+M. tuberculosis HU-LIID 159
+M. tuberculosis HU-LIID 386-98
+M. tuberculosis HU-LIID 41-99
+M. tuberculosis HU-LIID 90-99
+M. tuberculosis HU-LIID C-131
+M. tuberculosis HU-LIID 428-98
+M. tuberculosis HU-LIID F-353
+M. tuberculosis HU-LIID 434-98
+M. tuberculosis HU-LIID 168-99
+M. tuberculosis HU-LIID 142-99
+M. tuberculosis HU-LIID 376-98
+M. tuberculosis ATCC H37Rv
+M. tuberculosis INH-resistant (inhA mutant)
+M. tuberculosis INH-resistant (katG mutant)
+M. tuberculosis susceptible to Rifampicin and Isoniazid
+M. tuberculosis resistant to Isoniazid
+M. tuberculosis resistant to both Rifampicin and Isoniazid
+M. tuberculosis 25,177
+M. tuberculosis H3
+M. tuberculosis H37Ra Active
+M. tuberculosis (Negative genotype for tested mutations)
+M. tuberculosis (inhA -15T mutant)
+M. tuberculosis Bajaj
+M. tuberculosis J15
+M. tuberculosis N23
+M. tuberculosis H37Rv102
+M. tuberculosis H37Ra16
+M. tuberculosis K1
+M. tuberculosis K2
+M. tuberculosis 911928
+M. tuberculosis 912447
+M. tuberculosis 912234
+M. tuberculosis 912359
+M. tuberculosis 906909
+M. tuberculosis BTA1
+M. tuberculosis BTA2
+M. tuberculosis BTA3
+M. tuberculosis BTA4
+M. tuberculosis BTA5
+M. tuberculosis BTA6
+M. tuberculosis BTA7
+M. tuberculosis BTA8
+M. tuberculosis BTA9
+M. tuberculosis BTA 10
+M. tuberculosis 905574
+M. tuberculosis 905358
+M. tuberculosis 910657
+M. tuberculosis 912042
+M. tuberculosis 911831
+M. tuberculosis 911447
+M. tuberculosis 911677
+M. tuberculosis 911454
+M. tuberculosis 910708
+M. tuberculosis 911884
+M. tuberculosis 912056
+M. tuberculosis 911053
+M. tuberculosis 911337
+M. tuberculosis 912073
+M. tuberculosis H37Rv:gfp (7H9-ADC)
+M. tuberculosis H37Rv:gfp (GAST-Fe)
+M. tuberculosis isolates
+M. tuberculosis 8A
+M. tuberculosis 10B
+M. tuberculosis 18B (MDR)
+M. tuberculosis 1C1 (MDR)
+M. tuberculosis 2D (MDR)
+M. tuberculosis 3D3 (MDR)
+M. tuberculosis 6C (MDR)
+M. tuberculosis 7C4 (MDR)
+M. tuberculosis 9C (MDR)
+M. tuberculosis 12D4 (MDR)
+M. tuberculosis 18D3 (MDR)
+M. tuberculosis (rrs A13G, eis WT, whiB7 WT mutant)
+M. tuberculosis (rrs A514C, eis WT, whiB7 WT mutant)
+M. tuberculosis (rrs A514C+A1401G, eis WT, whiB7 WT mutant)
+M. tuberculosis (rrs A514C+A1401G, eis G723A, whiB7 WT mutant)
+M. tuberculosis (rrs A906G, eis WT, whiB7 WT mutant)
+M. tuberculosis (rrs A908G, eis WT, whiB7 WT mutant)
+M. tuberculosis (rrs C1357T, eis WT, whiB7 WT mutant)
+M. tuberculosis (rrs A1401G, eis WT, whiB7 WT mutant)
+M. tuberculosis (rrs A1401G, eis G702T, whiB7 WT mutant)
+M. tuberculosis (rrs A1401G, eis G723A, whiB7 WT mutant)
+M. tuberculosis (rrs WT, eis WT, whiB7 G14A mutant)
+M. tuberculosis (rrs WT, eis WT, whiB7 C710G mutant)
+katGW328L Mtb
+WT Mtb
+M. tuberculosis 1461/23 sens
+M. tuberculosis 1890 sens
+M. tuberculosis 33/19 R INH
+M. tuberculosis 1183 RINH
+M. tuberculosis 262/19 R RMP
+M. tuberculosis 235/18 R RMP
+M. tuberculosis 221/21 MDR
+M. tuberculosis 158/20 MDR
+M. tuberculosis 5880 pXDR
+M. tuberculosis 2373 pXDR
+M. tuberculosis 5228 XDR
+M. tuberculosis 2240/21 XDR
+M. tuberculosis (MDR strains)
+M. tuberculosis (susceptible group)
+M. tuberculosis (resistant strains)
+M. tuberculosis Y314C
+M. tuberculosis (DAUFPE 82)
+M. tuberculosis 35838
+M. tuberculosis 35822
+M. tuberculosis MTB411
+Mycobacterium tuberculosis SORO
+Mycobacterium tuberculosis IZAK
+Mycobacterium tuberculosis MATI
+M. tuberculosis H37Rv (LORA non-replicating)
+M. tuberculosis H37Rv (intracellular THP-1)
+M. tuberculosis (FQ resistant)
+M. tuberculosis (INH resistant 1)
+M. tuberculosis (INH resistant 2)
+M. tuberculosis (RIF resistant 1)
+M. tuberculosis (RIF resistant 2)
+Intracellular M. tuberculosis H37Rv
+M. tuberculosis Isolate 1
+M. tuberculosis Isolate 2
+M. tuberculosis Isolate 3
+M. tuberculosis Isolate 4
+M. tuberculosis Isolate 5
+M. tuberculosis Isolate 6
+M. tuberculosis Isolate 7
+M. tuberculosis Isolate 8
+M. tuberculosis PYR7::pMV261
+M. tuberculosis PYR7::pMVinhA
+M. tuberculosis 18b (non-replicating)
+M. tuberculosis PYR7
+M. tuberculosis H37Rv (MTCC 200)
+M. tuberculosis H37Rv (Neutral pH 7.2)
+M. tuberculosis H37Rv (Low pH 6.3)
+M. tuberculosis OfloxR (Neutral pH 7.2)
+M. tuberculosis OfloxR (Low pH 6.3)
+M. tuberculosis MoxR (Neutral pH 7.2)
+M. tuberculosis MoxR (Low pH 6.3)
+M. tuberculosis (X2 resistant mutant)
+M. tuberculosis (O1 resistant mutant)
+M. tuberculosis (I1 resistant mutant)
+M. tuberculosis (Q1 resistant mutant)
+M. tuberculosis (A1 resistant mutant)
+M. tuberculosis (P1 resistant mutant)
+M. tuberculosis (E1 resistant mutant)
+M. tuberculosis (Sensitive)
+M. tuberculosis H37Ra (Dormant, XRMA)
+M. tuberculosis H37Ra (Active state, THP-1 infection model)
+M. tuberculosis H37Ra (Dormant state, THP-1 infection model)
+M. tuberculosis 2327
+M. tuberculosis 2337
+M. tuberculosis 1762
+M. tuberculosis SRICK1
+M. tuberculosis SRICK1::adoK
+RR-TB
+M. tuberculosis MmpL3 Y252C mutant 1
+M. tuberculosis MmpL3 Y252C mutant 4
+M. tuberculosis MmpL3 Y252C mutant 15
+M. tuberculosis MmpL3 Y252C mutant 3
+M. tuberculosis ATCC 35820
+M. tuberculosis ATCC 35828
+M. tuberculosis ATCC 35837
+Intramacrophagic M. tuberculosis
+M. tuberculosis MDR Strain A
+M. tuberculosis MDR Strain B
+non-replicating M. tuberculosis (NRP-MTB)
+M. tuberculosis M.tb-Lux (H37Rv derivative)
+M. tuberculosis H37Rv-T3
+M. tuberculosis H37Rv-5A1
+M. tuberculosis H37Rv-T2
+Clinical isolate: S, H, R and E resistant M. tuberculosis
+Clinical isolated Isoniazid-resistant M. tuberculosis H37Rv
+Clinical isolated MDR-TB
+Clinical isolated XDR-TB
+M. tuberculosis (aerobic)
+M. tuberculosis (low oxygen)
+Mtb 115R
+Mtb 124R
+M. tuberculosis InhA-OE
+M. tuberculosis (high iron conditions)
+M. tuberculosis (low iron conditions)
+M. tuberculosis BBMT01
+M. tuberculosis BBMT04
+M. tuberculosis BBMT05
+M. tuberculosis BBMT06
+M. tuberculosis M46
+M. tuberculosis M48
+M. tuberculosis M53
+INH-MTB
+M. tuberculosis 357/2005
+M. tuberculosis 53/2009
+M. tuberculosis 362/1998
+intracellular M. tuberculosis H37Rv
+M. tuberculosis HN878
+MDR M. tuberculosis strain 43
+M. tuberculosis TN675*
+M. tuberculosis TN913
+M. tuberculosis TN994*
+M. tuberculosis TN1008
+M. tuberculosis TN1037
+M. tuberculosis TN1040
+M. tuberculosis TN1051
+M. tuberculosis TN1082
+M. tuberculosis TN2351
+M. tuberculosis TN2524
+M. tuberculosis TN3183
+M. tuberculosis TN3979
+M. tuberculosis TN4259
+M. tuberculosis AH9584
+M. tuberculosis BE11677
+M. tuberculosis E8133
+M. tuberculosis W4
+M. tuberculosis TN565
+M. tuberculosis TN576
+M. tuberculosis TN702
+M. tuberculosis TN715
+M. tuberculosis TN768
+M. tuberculosis TN772
+M. tuberculosis TN1195
+M. tuberculosis TN1314
+M. tuberculosis TN1618
+M. tuberculosis TN1811
+M. tuberculosis TN2557
+M. tuberculosis Spec. 800
+M. tuberculosis mc26230 (pMV261-inhA)
+M. tuberculosis KMA 1354
+M. tuberculosis KMA 3899
+M. tuberculosis KMA 4244
+M. tuberculosis KMA 4439
+M. tuberculosis KMA 5282
+M. tuberculosis mc²6230
+M. tuberculosis H37Rv Ddn-
+M. tuberculosis H37Rv FbiC-
+M. tuberculosis H37Ra pVV2 (Agar plate)
+M. tuberculosis H37Ra pVV2 (Broth)
+M. tuberculosis H37Ra DprE1/2 (Agar plate)
+M. tuberculosis H37Ra DprE1/2 (Broth)
+M. tuberculosis H37Ra DprE2 (Agar plate)
+M. tuberculosis H37Ra DprE2 (Broth)
+M. tuberculosis H37Ra MmpL3 (Agar plate)
+M. tuberculosis H37Ra MmpL3 (Broth)
+M. tuberculosis H37Ra Ddn (Agar plate)
+M. tuberculosis H37Ra Ddn (Broth)
+M. tuberculosis NTB1 (C387S)
+M. tuberculosis NTB9 (C387G)
+M. tuberculosis H37Rv MABA
+M. tuberculosis H37Rv LORA
+M. tuberculosis Global clades
+M. tuberculosis H37Rv (logarithmic phase)
+M. tuberculosis H37Rv (hypoxia-induced latency)
+M. tuberculosis 10:104
+M. tuberculosis GyrA point mutant
+M. tuberculosis Compound 21 mutant
+M. tuberculosis H37Rv INH-R
+M. tuberculosis H37Rv ETAM-R
+M. tuberculosis H37Rv SM-R
+M. tuberculosis H37Rv RIF-R
+M. tuberculosis Is.cl. SIN-4
+M. tuberculosis Is.cl. MMDO
+M. tuberculosis Is.cl. SIN-3
+M. tuberculosis D461N
+M. tuberculosis A90V
+M. tuberculosis D94G
+Mycobacterium tuberculosis (M.tb)
+Aged non-growing M. tuberculosis
+M. tuberculosis 199-00
+M. tuberculosis 581-17
+M. tuberculosis 410-11
+M. tuberculosis 742-0
+M. tuberculosis 666-0
+M. tuberculosis 383-0
+M. tuberculosis 152-0
+M. tuberculosis 427-18
+M. tuberculosis 775-0
+M. tuberculosis 124-0
+M. tuberculosis FJ05436
+M. tuberculosis H37Rv (GAS)
+M. tuberculosis H37Rv (GAS, pH 6.0)
+M. tuberculosis H37Rv (7H12, pH 6.0)
+M. tuberculosis H37Rv (LORA, pH 6.0)
+M. tuberculosis r-PZA (pH 6.6)
+M. tuberculosis r-PZA (pH 6.0)
+M. tuberculosis INM 27833
+M. tuberculosis TCH-resistant/INH-resistant mutants
+M. tuberculosis TCH25.1 mutant
+M. tuberculosis INM27833 (KatG S315T)
+M. tuberculosis H37Rv pMV361::katG
+M. tuberculosis TCH R25.1
+M. tuberculosis TCH R25.12, TCH R25.13, TCH R25.10
+M. tuberculosis TCH R25.11
+M. tuberculosis TCH R50.6, TCH R50.7, TCH R50.8, TCH R50.9
+M. tuberculosis TCH R50.1, TCH R50.2, TCH R50.3, TCH R50.4, TCH R25.2, TCH R25.3
+M. tuberculosis DAS PptT -ATC
+M. tuberculosis DAS PptT +ATC
+M. tuberculosis PptH KO
+M. tuberculosis Mtb-lux (mc26206)
+M. tuberculosis qcrB-T313A
+M. tuberculosis mc2 8243 (INH^r)
+M. tuberculosis mc2 8247(Rif^r)
+M. tuberculosis Mtb::gfp (GAST/Fe)
+M. tuberculosis Mtb::gfp (7H9)
+M. tuberculosis 2371 Haarlem
+M. tuberculosis 3385 Cas1/Delhi
+M. tuberculosis 3906 Atyp-Beijing
+M. tuberculosis H37RvMa ΔcydKO
+M. tuberculosis H37RvMa Ala317Thr
+M. tuberculosis 3933 LCC
+M. tuberculosis N0145 (+Q203)
+M. tuberculosis N0145 (-Q203)
+M. tuberculosis (+Q203)
+M. tuberculosis (-Q203)
+M. tuberculosis N0145 (Oxygen Consumption)
+M. tuberculosis H37Rv (Oxygen Consumption)
+M. tuberculosis BSG001 (H37Rv)
+M. tuberculosis H37Rv (with 0.01% SDS)
+M. tuberculosis H37Rv pJV53
+M. tuberculosis H37Rv pMV361
+M. tuberculosis H37Rv ΔCYP135B1
+M. tuberculosis H37Rv ΔCYP135B1 comp:pMV361_CYP135B1
+Mycobacterium tuberculosis XDR
+M. tuberculosis clinical isolate CI1 (MDR-TB)
+M. tuberculosis clinical isolate CI2
+M. tuberculosis clinical isolate CI3 (pre-XDR-TB)
+M. tuberculosis clinical isolate CI4 (susceptible)
+M. tuberculosis (Clinical isolates)
+M. tuberculosis (INH_R, RIF_R, EMB_R)
+M. tuberculosis InhA OE
+M. tuberculosis DprE1 OE
+M. tuberculosis H37RvGFP
+M. tuberculosis MmpL3 F255L
+M. tuberculosis MmpL3 G253E
+M. tuberculosis MmpL3 Y252C
+M. tuberculosis MmpL3 Y252S
+M. tuberculosis QcrB A396T
+M. tuberculosis H37Rv (7H9/ADC/Tw)
+M. tuberculosis H37Rv (7H9/glucose/casitone/Tx)
+M. tuberculosis H37Rv (mmpL3-V684G)
+M. tuberculosis H37Rv (mmpL3-V684A)
+M. tuberculosis H37Rv (rv1254-L74R)
+M. tuberculosis H37Rv (rv1254-AA1-352*)
+M. tuberculosis H37Rv (rv1254-AA1-350*)
+M. tuberculosis H37Rv (rv1254-L284P)
+M. tuberculosis H37Rv (rv1254-A42T)
+M. tuberculosis OSDD 55 (H526T)
+M. tuberculosis OSDD 206 (S531L)
+M. tuberculosis OSDD 321 (S531L)
+M. tuberculosis OSDD 209
+M. tuberculosis mc26230 (L567P)
+M. tuberculosis mc26230 (I292T)
+M. tuberculosis mc26230 (Y252D)
+M. tuberculosis H37Rv and clinical isolates
+M. tubereolosis H37Rv ATCC 27294
+M. tubereolosis H37Rv clinical
+M. tubereolosis (MDR)
+M. tubereolosis H37Ra
+M. tuberculosis H37Ra (dormant phase)
+M. tuberculosis H37Ra (active phase)
+M. tuberculosis 47S
+M. tuberculosis BRF4
+M. tuberculosis 18
+M. tuberculosis MDR-TB 34 789
+M. tuberculosis MDR-TB 34 832
+M. tuberculosis MDR-TB 34 796
+M. tuberculosis MDR-TB 34 816
+M. tuberculosis MDR-TB 34 786
+M. tuberculosis type strain H37Rv
+M. tuberculosis clinical isolate 900145
+M. tuberculosis clinical isolate 900201
+M. tuberculosis clinical isolate 900216
+M. tuberculosis clinical isolate 900233
+M. tuberculosis clinical isolate 900240
+M. tuberculosis clinical isolate 900241
+M. tuberculosis (rifampicin-resistant) clinical isolate 880902
+M. tuberculosis (rifampicin-resistant) clinical isolate 910328
+M. tuberculosis (rifampicin-resistant) clinical isolate 920492
+M. tuberculosis HBD 40
+M. tuberculosis INH-R ATCC 35822
+M. tuberculosis RMP-R ATCC 35838
+M. tuberculosis PZA-R ATCC 35828
+M. tuberculosis SM-R ATCC 35820
+M. tuberculosis H37Ra (nutrient-rich)
+M. tuberculosis H37Rv (nutrient-rich)
+M. tuberculosis CDC1551 (nutrient-rich)
+M. tuberculosis H37Rv.gfp
+M. tuberculosis N0157
+M. tuberculosis N1283
+M. tuberculosis N0157 (GyrA A90V)
+M. tuberculosis N1283 (GyrA A90V)
+M. tuberculosis H37Rv Δmrx2
+M. tuberculosis H37Rv ΔsigH
+M. tuberculosis MDR Mtb
+M. tuberculosis 1
+M. tuberculosis 2
+M. tuberculosis 3
+M. tuberculosis 4
+M. tuberculosis 5
+M. tuberculosis 6
+M. tuberculosis 8
+M. tuberculosis ATCC 35322
+M. tuberculosis H37Rv (lineage 4)
+Mtb L1.2.1
+M. tuberculosis (embCMt Wild type)
+M. tuberculosis (embCMt M300L)
+M. tuberculosis (embCMt M300I)
+M. tuberculosis (embCMt M300V)
+M. tuberculosis (embCMt T270I)
+M. tuberculosis (embCMt D294G)
+M. tuberculosis (control vector pVV16)
+M. tuberculosis (embCMs M286L)
+M. tuberculosis (embCMs M286I)
+M. tuberculosis (embCMs M286V)
+M. tuberculosis (embCMs D280G)
+M. tuberculosis (embBMs Wild type)
+M. tuberculosis (embBMs M292L)
+M. tuberculosis (embBMs M292I)
+M. tuberculosis (embBMs M292V)
+M. tuberculosis (embAMt Wild type)
+M. tuberculosis (embAMt V280M)
+M. tuberculosis (recovering from starvation)
+M. tuberculosis 14170
+M. tuberculosis 12657
+M. tuberculosis 14130
+M. tuberculosis 14132
+M. tuberculosis 14150
+M. tuberculosis 14175
+M. tuberculosis 14198
+M. tuberculosis 14117
+M. tuberculosis (Log-phase growth cells)
+M. tuberculosis (SDB)
+M. tuberculosis (NRP cells)
+M. tuberculosis (SDB pH 6.0)
+M. tuberculosis (SDB pH 5.8)
+M. tuberculosis strain mc26206
+M. tuberculosis (resistant isolates RM3, RM4, and RM6)
+M. tuberculosis Wild type
+M. tuberculosis ΔmshA
+M. tuberculosis ΔegtA
+M. tuberculosis ΔegtB
+M. tuberculosis ΔegtD
+M. tuberculosis ΔegtE
+M. tuberculosis XTB-09-036
+M. tuberculosis BTB-06-191
+M. tuberculosis XTB-09-105
+M. tuberculosis XTB-09-035
+M. tuberculosis XTB-09-037
+M. tuberculosis XTB-09-106
+M. tuberculosis XTB-09-108
+M. tuberculosis BTB-09-086
+M. tuberculosis BTB-08-309
+M. tuberculosis BTB-08-325
+M. tuberculosis (H37 RV strain)
+M. tuberculosis DHFR kd
+M. tuberculosis MTTR2
+M. tuberculosis MTTR3
+M. tuberculosis MTTR5
+M. tuberculosis MTTR6
+M. tuberculosis MTTR11
+M. tuberculosis MTTR13
+M. tuberculosis MTTR14
+M. tuberculosis MTTR18
+M. tuberculosis MTTR19
+M. tuberculosis MTTR28
+M. tuberculosis Parental
+M. tuberculosis pMK1
+M. tuberculosis pMK1_hadAB
+M. tuberculosis pVV16
+M. tuberculosis pVV16_hadBC
+M. tuberculosis pMV261_hadABC
+Hypoxic M. tuberculosis
+M. tuberculosis H37Rv-wt
+M. tuberculosis H37Rv-14A1
+M. tuberculosis ATCC 25618
+M. tuberculosis S94A
+M. tuberculosis [C(-15)T]
+M. tuberculosis MDR-TB KatG(S315T)
+M. tuberculosis inhA structural gene mutant (S94A)
+M. tuberculosis inhA operon promoter region mutant [C(-15)T]
+M. tuberculosis (H37RV)
+M. tuberculosis (MDR – Clinical isolate)
+M. tuberculosis H37Rv mc2 6206
+M. tuberculosis (gyrA D94G mutant)
+pre-XDR M. tuberculosis
+M. tuberculosis (clinical strain)
+M. tuberculosis multidrug-resistant strains
+M. tuberculosis H37Rv + Fe3+
+M. tuberculosis ΔmbtB
+M. tuberculosis ΔmbtB + Fe3+
+M. tuberculosis MmpS5L5 mutant
+M. tuberculosis Complemented MmpS5L5 mutant
+M. tuberculosis Rv0678 mutant
+M. tuberculosis H37Rv - London
+M. tuberculosis 2441 (res. SM, INH and RMP)
+M. tuberculosis 5318 (res. SM, INH, RMP and EMB)
+M. tuberculosis 9656 (res. SM, INH and RMP)
+M. tuberculosis 14023 (res. SM, INH and RMP)
+M. tuberculosis H37Rv (RMtb)
+M. tuberculosis (NRMtb)
+M. tuberculosis CI-1
+M. tuberculosis CI-2
+M. tuberculosis CI-3
+M. tuberculosis CI-4
+M. tuberculosis CI-5
+M. tuberculosis CI-6
+M. tuberculosis CI-7
+M. tuberculosis CFZ Resistant Mutant
+M. tuberculosis PA824 Resistant Mutant
+M. tuberculosis BDQ Resistant Mutant
+M. tuberculosis mc2 6206 WT
+M. tuberculosis mc2 6206 (CFZ Resistant Mutant)
+M. tuberculosis mc2 6206 (intracellular in THP-1)
+M. tuberculosis mc2 6206 (PA824 Resistant Mutant)
+M. tuberculosis mc2 6206 (BDQ Resistant Mutant)
+M. tuberculosis 303
+M. tuberculosis 1889
+M. tuberculosis 35829
+M. tuberculosis strain Erdman
+M. tuberculosis strain 1889
+M. tuberculosis strain 303
+M. tuberculosis strain 35829
+M. tuberculosis MDR-8
+M. tuberculosis MDR-9
+M. tuberculosis MDR-10
+M. tuberculosis MDR-11
+M. tuberculosis XDR-3
+M. tuberculosis XDR-4
+M. tuberculosis XDR-5
+M. tuberculosis XDR-6
+M. tuberculosis XDR-7
+M. tuberculosis XDR-8
+M. tuberculosis XDR-9
+M. tuberculosis XDR-10
+M. tuberculosis XDR-11
+H37Rv (rpoB S450L)
+H37Rv (katG del)
+H37Rv (gyrA D94K)
+M. tuberculosis H37Ra (Active strain)
+M. tuberculosis H37Ra (Dormant Strain)
+M. tuberculosis clinical isolate MTB-1
+M. tuberculosis clinical isolate MTB-2
+Mycobacterium tuberculosis (LORA)
+M. tuberculosis isolate 1
+M. tuberculosis isolate 2
+M. tuberculosis isolate 3
+M. tuberculosis isolate 4
+M. tuberculosis isolate 5
+M. tuberculosis isolate 6
+M. tuberculosis isolate 7
+M. tuberculosis 209-Mtb (RMR strain)
+MDR M. tuberculosis (ATCC 35822)
+M. tuberculosis 14862 (drug-resistant)
+M. tuberculosis (LORA, non-replicating)
+M. tuberculosis clinical strain #1 (drug sensitive)
+M. tuberculosis clinical strain #2 (drug sensitive)
+M. tuberculosis MDR-TB (resistant to HREZSKP)
+M. tuberculosis MDR-TB (resistant to HREKP)
+M. tuberculosis MDR-TB (resistant to HRERb)
+M. tuberculosis XDR-TB (resistant to HRESKO)
+M. tuberculosis XDR-TB (resistant to HREKO)
+MTB H37Ra (ATCC 25177)
+M. tuberculosis (INHR-MTB)
+M. tuberculosis HR (Isoniazid, Rifampicin-resistant)
+M. tuberculosis HRKS (Isoniazid, Rifampicin, Kanamycin, Streptomycin-resistant)
+M. tuberculosis HRKCpm (Isoniazid, Rifampicin, Kanamycin, Capreomycin-resistant)
+M. tuberculosis HRKSXMfxLev (Isoniazid, Rifampicin, Kanamycin, Streptomycin, Ofloxacin, Moxifloxacin, Levofloxacin-resistant)
+M. tuberculosis HRS (Isoniazid, Rifampicin, Streptomycin-resistant)
+M. tuberculosis (intracellular in RAW 264.7 macrophages)
+M. tuberculosis HR
+M. tuberculosis HRKS
+M. tuberculosis HRKCpm
+M. tuberculosis HRS
+M. tuberculosis Clinical isolate 1
+M. tuberculosis Clinical isolate 2
+M. tuberculosis Clinical isolate 3
+M. tuberculosis Clinical isolate 4
+M. tuberculosis Clinical isolate 5
+M. tb mc26230
+M. tuberculosis folC (E153G)
+M. tuberculosis folC (I43T)
+M. tuberculosis thyX (-16 C->T)
+M. tuberculosis r-MOX
+M. tuberculosis r-CAP
+M. tuberculosis clinical isolate 1
+M. tuberculosis clinical isolate 2
+M. tuberculosis clinical isolate 3
+M. tuberculosis clinical isolate 4
+M. tuberculosis clinical isolate 5
+Mycobacterium tuberculosis Beijing F2
+Mycobacterium tuberculosis H37Rv RifR
+M. tuberculosis H37Rv (replicative)
+M. tuberculosis H37Rv (hypoxic)
+M. tuberculosis H37Rv (intramacrophage)
+M. tuberculosis MDR-MTB 11168
+M. tuberculosis MDR-MTB 9160
+MTB strain
+normoxia MTB
+MTB mc26230 strain
+clinical isolate of M. tuberculosis 14862
+clinical isolate of M. tuberculosis 13946
+M. tuberculosis IC1 (res. to STR, INH, RIF, EMB, ETH)
+M. tuberculosis IC2 (res. to STR, INH, RIF, EMB, PYR, ETH, CM)
+M. tuberculosis Strain 1
+M. tuberculosis Strain 2
+M. tuberculosis Strain 3
+M. tuberculosis Strain 4
+M. tuberculosis Strain 5
+M. tuberculosis Strain 6
+M. tuberculosis Strain 7
+M. tuberculosis Strain 8
+M. tuberculosis Strain 9
+M. tuberculosis Strain 10
+M. tuberculosis Strain 11
+M. tuberculosis Strain 12
+M. tuberculosis Strain 13
+M. tuberculosis Strain 14
+M. tuberculosis Strain 15
+M. tuberculosis Strain 16
+M. tuberculosis CF 93
+M. tuberculosis CF 100
+M. tuberculosis CF 112
+M. tuberculosis CF 169
+M. tuberculosis H37Rv ATTC 27294
+Drug sensitive M. tuberculosis
+Rifampicin resistant M. tuberculosis
+M. tuberculosis strain 331/88
+M. tuberculosis H37Ra (aged non-growing)
+M. tuberculosis (Ref [8])
+M. tuberculosis (THP-1 intracellular)
+M. tuberculosis (RAW intracellular)
+M. tuberculosis ALI 3415
+M. tuberculosis ALI 282
+M. tuberculosis ALI 536
+M. tuberculosis ALI 909
+M. tuberculosis ALI 544
+M. tuberculosis ALI 452
+M. tuberculosis ALI 552
+M. tuberculosis ALI 258
+M. tuberculosis ALI 3082
+M. tuberculosis ALI 3236
+M. tuberculosis 1192/015
+MDR-M. tuberculosis 08/00483E
+M. tuberculosis 16833
+M. tuberculosis 16995
+non-replicating M. tuberculosis
+replicating M. tuberculosis
+M. tuberculosis H37Rv F80I
+M. tuberculosis H37Rv F80L
+M. tuberculosis H37Rv F80S
+M. tuberculosis H37Rv L92S
+M. tuberculosis H37Rv L96P
+M. tuberculosis (108 strains)
+M. tuberculosis normoxia
+M. tuberculosis hypoxia
+M. tuberculosis H37Rv (normoxia)
+M. tuberculosis H37Rv (hypoxia)
+MDR/XDR-TB
+MDR/XDR M. tuberculosis Praha 1
+MDR/XDR M. tuberculosis Praha 4
+MDR/XDR M. tuberculosis Praha 131
+MDR/XDR M. tuberculosis 9449/2007
+MDR/XDR M. tuberculosis 234/2005
+MDR/XDR M. tuberculosis 7357/1998
+MDR/XDR M. tuberculosis 8666/2010
+M. tuberculosis H37Rv (In vitro)
+M. tuberculosis Erdman (NO Tween)
+M. tuberculosis ABG
+M. tuberculosis DBPI1
+M. tuberculosis DBPI3
+M. tuberculosis Erdman NO
+M. tuberculosis (BacTiter)
+M. tuberculosis DBPI2
+M. tuberculosis DBPI4
+M. tuberculosis DBPI4::pMVE_0374
+M. tuberculosis H37Rv (katGdel)
+M. tuberculosis Erdman ΔcydA
+M. tuberculosis Erdman WT
+M. tuberculosis Erdman (FbiC P367S)
+M. tuberculosis H37Rv mc2-6206 WT
+M. tuberculosis H37Rv mc2-6206 [MmpL3 G253E]
+M. tuberculosis H37Rv mc2-6206 [MmpL3 L567P]
+M. tuberculosis Erdman (Ddn R5877del/fs)
+M. tuberculosis Erdman (FbiC I112ins/fs)
+M. tuberculosis H37RvΔrpf
+M. tuberculosis H37RvΔponA2 attB::ponA2
+M. tuberculosis 18b-Lux
+M. tuberculosis H37RvJO
+M. tuberculosis guaB2-guaB3 Tet-OFF
+M. tuberculosis (8 DS)
+M. tuberculosis (7 MDR)
+M. tuberculosis (6 MDR+)
+M. tuberculosis (2 XDR)
+M. tuberculosis cydKO
+M. tuberculosis TB71
+M. tuberculosis TB173 Pi [25 ng/mL]
+M. tuberculosis TB173 Pi [15 ng/mL]
+M. tuberculosis H37Rv (wild-type)
+M. tuberculosis H37Rv (wild-type aTc)
+M. tuberculosis H37Rv (sodC OE)
+M. tuberculosis H37Rv (sodC OE + aTc)
+M. tuberculosis H37Rv MA (wild-type)
+M. tuberculosis H37Rv MA (katG M105FS)
+M. tuberculosis H37Rv MA (katG W198*)
+M. tuberculosis H37Rv (Δcyp125)
+M. tuberculosis H37Rv (cyp125 C')
+M. tuberculosis LP-0105935-RM5
+M. tuberculosis Erdman (wild-type)
+M. tuberculosis Erdman (Δicl1/2)
+M. tuberculosis Erdman (icl1 C')
+M. tuberculosis Erdman (icl1 OE)
+M. tuberculosis Erdman (icl1 OE +aTc)
+M. tuberculosis H37Rv (+ NALC)
+M. tuberculosis H37Rv (+ Tempol)
+M. tuberculosis H37Rv (+ thiourea)
+M. tuberculosis H37Rv (+ catalase)
+MDR and XDR M. tuberculosis
+M. tuberculosis H37Rv (pSODIT-2)
+M. tuberculosis H37Rv 53.3 mutant (pSODIT-2)
+M. tuberculosis H37Rv (pSODIT/Rv2466c)
+M. tuberculosis H37Rv 53.3 mutant (pSODIT/Rv2466c)
+M. tuberculosis H37Rv (pSODIT/Rv2466c (W28S))
+M. tuberculosis H37Rv 53.3 mutant (solid medium)
+M. tuberculosis strain 1 HRESP (MDR)
+M. tuberculosis strain 2 HREZSP (MDR)
+M. tuberculosis strain 3 HCPTTh (MDR)
+M. tuberculosis strain 4 HREKP (MDR)
+M. tuberculosis strain 5 HRERb (MDR)
+M. tuberculosis strain 6 HREZSKPTh (MDR)
+M. tuberculosis strain 7 HREZRbTh (MDR)
+M. tuberculosis strain 8 HRESPOcTh (XDR)
+M. tuberculosis strain 9 HREPKOTh (XDR)
+M. tuberculosis strain 10 HRESPO (XDR)
+M. tuberculosis strain 11 HRESPOcTh (XDR)
+M. tuberculosis H37Rv (SRI)
+M. tuberculosis H37Rv (ITR)
+M. tuberculosis wild-type
+M. tuberculosis M103I
+M. tuberculosis M103L
+M. tuberculosis G96V
+M.tb H37Rvlux
+M. tuberculosis H37Rvlux
+M. tuberculosis Beijing 17919lux
+M.tb H37Rv (intracellular J774 A.1 macrophages)
+M. tuberculosis (compd 2bR mutant A74V)
+M. tuberculosis (compd 17R mutant D89N)
+M. tuberculosis (MoxiR mutant G88N)
+M. tuberculosis KatG S315T
+M. tuberculosis luxABCDE
+M. tuberculosis X001354
+M. tuberculosis X003899
+M. tuberculosis X004244
+M. tuberculosis X004439
+M. tuberculosis X005282
+M. tuberculosis X005319
+M. tuberculosis (SM-resistant)
+M. tuberculosis (MOX-resistant)
+M. tuberculosis (CAP-resistant)
+M. tuberculosis H37Rv (wild type)
+M. tuberculosis (ΔRv1258c)
+M. tuberculosis H37Rv-HL-14
+M. tuberculosis H37Rv-HL-15
+M. tuberculosis (MDR and XDR isolates)
+M. tuberculosis pncA-null
+M. tuberculosis Comp
+M. tuberculosis (MABA aerobic)
+M. tuberculosis (LORA anaerobic)
+M. tuberculosis (MIC aerobic, lit.)
+M. tuberculosis (MAC anaerobic, lit.)
+M. tuberculosis H37Rv (ATCC 25618)
+M. tuberculosis H37Rv (MDR-TB) (ATCC 35822)
+M. tuberculosis mc2 8243
+M. tuberculosis mc2 8247
+M. tuberculosis mc2 8259
+Mycobacterium tuberculosis Praha 131
+Mycobacterium tuberculosis 9449/2007
+Mycobacterium tuberculosis 8666/2010
+Mycobacterium tuberculosis Praha 1
+Mycobacterium tuberculosis Praha 4
+Mycobacterium tuberculosis 234/2005
+Mycobacterium tuberculosis 7357/1998
+M. tuberculosis (pMH29)
+M. tuberculosis (pMH29:kasA)
+M. tuberculosis (pMH29:kasA D66N)
+M. tuberculosis (pMH29:kasA G269S)
+M. tuberculosis (pMH29:kasA G312S)
+M. tuberculosis (pMH29:kasA F413L)
+M. tuberculosis (mc2 6230)
+M. tuberculosis clone 1A
+M. tuberculosis clone 2A
+M. tuberculosis clone 5A
+M. tuberculosis clone 6A
+M. tuberculosis clone 8A
+M. tuberculosis clone 10A
+M. tuberculosis clone 12A
+M. tuberculosis clone 15A
+M. tuberculosis clone 17A
+M. tuberculosis clone 183A
+M. tuberculosis clone 183B
+M. tuberculosis clone 183C
+M. tuberculosis clone 189A
+M. tuberculosis clone 195A
+M. tuberculosis clone 195B
+M. tuberculosis clone 195C
+M. tuberculosis clone 195D
+M. tuberculosis clone 195E
+M. tuberculosis clone 195F
+M. tuberculosis clone 195H
+M. tuberculosis (intracellular THP-1)
+M. tuberculosis PAg85a-embCN638A
+M. tuberculosis PAg85aembCwt
+M. tuberculosis PAg85a-embCN652A
+M. tuberculosis RCMB 01009414-9
+M. tuberculosis (susceptible isolates)
+M. tuberculosis 46/43031
+M. tuberculosis clinical isolate #3426
+M. tuberculosis MDR clinical isolate #591
+Myco. tuberculosis W4
+Myco. tuberculosis 210
+Myco. tuberculosis W*
+Myco. tuberculosis H37Rv
+Myco. tuberculosis CDC1561
+Myco. tuberculosis P*
+Myco. tuberculosis AB
+M. tuberculosis mc26230 (pMV261)
+M. tuberculosis mc26230 (pMV261-mabA)
+M. tuberculosis mc26230 (pMV261-kasA)
+M. tuberculosis mc26230 (pMV261-hadABC)
+M. tuberculosis H37Rv (Wild-type Rv2783c recombinant)
+M. tuberculosis H37Rv (Mutant Rv2783c_D67N recombinant)
+M. tuberculosis H37Rv (Hsp60Rvc vector control)
+M. tuberculosis H37Rv (Parental)
+MDR066 (MDR M. tuberculosis)
+MDR005 (XDR M. tuberculosis)
+MDR044 (XDR M. tuberculosis)
+M. tuberculosis + 400 µM MK4
+M. tuberculosis overexpressing inhA
+M. tuberculosis INH-R CN-40
+M. tuberculosis HN353
+M. tuberculosis ATCC 27294 (H37Rv)
+M. tuberculosis ATCC 35812 (Kurono)
+M. tuberculosis ATCC 35838 (H37Rv RIF-R)
+M. tuberculosis ATCC 35822 (H37Rv INH-R)
+M. tuberculosis ATCC 35837 (H37Rv EMB-R)
+M. tuberculosis ATCC 35820 (H37Rv SM-R)
+M. tuberculosis ATCC 35828 (H37Rv PZA-R)
+M. tuberculosis LP-0106906-RM1 (Rv1339 P121L)
+M. tuberculosis LP-0106906-RM2 (Rv1339 S120P)
+M. tuberculosis LP-0106906-RM3 (Rv1339 P121L)
+M. tuberculosis LP-0106898-RM5 (qcrB T313I)
+M. tuberculosis LP-0106898-RM6 (qcrB T313I)
+M. tuberculosis LP-0106898-RM7 (qcrB T313I)
+M. tuberculosis LP-0106898-RM1 (qcrB T313I)
+M. tuberculosis LP-0106908-RM1 (Rv1339 E219K)
+M. tuberculosis LP-0106908-RM3 (Rv1339 S119W)
+M. tuberculosis LP-0106909-RM1 (Rv1339 T14A)
+M. tuberculosis QcrBT313I
+M. tuberculosis LP-0106908-RM4 (Rv1339 T14A)
+M. tuberculosis LP-0106909-RM4 (Rv1339 T14A)
+M. tuberculosis LP-0106909-RM5 (Rv1339 T14A)
+M. tuberculosis H37Rv (0.5% BSA)
+M. tuberculosis H37Rv (4% BSA)
+M. tuberculosis H37Rv (10% FBS)
+M. tuberculosis (RMP-Resistant)
+M. tuberculosis (INH-Resistant)
+M. tuberculosis (CAP-Resistant)
+M. tuberculosis (MOX-Resistant)
+M. tuberculosis (SM-Resistant)
+M. tuberculosis (CS-Resistant)
+M. tuberculosis (6 global clade representatives)
+M. tuberculosis (3 pan-susceptibles)
+M. tuberculosis (3 MDR strains)
+M. tuberculosis (3 XDR strains)
+M. tuberculosis ECMR ITR6
+M. tuberculosis MDR isolate 1
+M. tuberculosis MDR isolate 2
+M. tuberculosis MDR isolate 3
+M. tuberculosis MDR isolate 4
+M. tuberculosis MDR isolate 5
+M. tuberculosis MDR isolate 6
+M. tuberculosis XDR isolate 7
+M. tuberculosis XDR isolate 8
+M. tuberculosis XDR isolate 9
+M. tuberculosis MDR isolate 10
+M. tuberculosis MDR isolate 11
+M. tuberculosis MDR isolate 12
+M. tuberculosis MDR isolate 13
+M. tuberculosis PMM56
+M. tuberculosis IC1 (resistant to STR, INH, RIF, EMB)
+M. tuberculosis IC2 (resistant to STR, INH, RIF, EMB, PYR, ETH, CM)
+M. tuberculosis NTB1 (DprE1, G387S)
+M. tuberculosis DR1 (Mmpl3, V681I)
+M. tuberculosis 88.1 (CoaA, Q207R)
+M. tuberculosis 88.7 (PyrG, V186G)
+M. tuberculosis 81.10 (EthA, D1109-37)
+M. tuberculosis panB cKD
+M. tuberculosis panB cKD pptH C225R
+M. tuberculosis mc2 6206
+M. tuberculosis 50
+M. tuberculosis 105
+M. tuberculosis 116
+M. tuberculosis 151
+M. tuberculosis 217
+M. tuberculosis H37Rv (R1_BPD-9 mutant)
+M. tuberculosis H37Rv (R2_BPD-9 mutant)
+M. tuberculosis H37Rv (R3_BPD-9 mutant)
+M. tuberculosis H37Rv (R4_BPD-9 mutant)
+M. tuberculosis H37Rv (Δrv3066_5 mutant)
+M. tuberculosis H37Rv (Δrv3066_9 mutant)
+M. tuberculosis H37Rv (Δmmr-rv3066_2 mutant)
+M. tuberculosis H37Rv (Δmmr-rv3066_8 mutant)
+M. tuberculosis TBRP 17
+M. tuberculosis TBRP 171
+M. tuberculosis TBRP 204
+M. tuberculosis TBRP 229
+M. tuberculosis TBRP 274
+M. tuberculosis TBRP 321
+M. tuberculosis MTCS1
+M. tuberculosis MTCS2
+M. tuberculosis H37Rv I
+M. tuberculosis MtS1
+M. tuberculosis MtS2
+M. tuberculosis MtS3
+M. tuberculosis 20
+M. tuberculosis 20-1
+M. tuberculosis 20-2
+M. tuberculosis 20-3
+M. tuberculosis 21
+M. tuberculosis 21-1
+M. tuberculosis 21-2
+M. tuberculosis 21-3
+M. tuberculosis 22
+M. tuberculosis 22-1
+M. tuberculosis 22-2
+M. tuberculosis 22-3
+M. tuberculosis 23-1
+M. tuberculosis 23-2
+M. tuberculosis 23-3
+M. tuberculosis 24
+M. tuberculosis 24-1
+M. tuberculosis 24-2
+M. tuberculosis 24-3
+M. tuberculosis 26
+M. tuberculosis 26-1
+M. tuberculosis 26-2
+M. tuberculosis 26-3
+M. tuberculosis 28
+M. tuberculosis 28-1
+M. tuberculosis 28-2
+M. tuberculosis 28-3
+M. tuberculosis 30
+M. tuberculosis 30-1
+M. tuberculosis 30-2
+M. tuberculosis 30-3
+M. tuberculosis 31
+M. tuberculosis 31-1
+M. tuberculosis 31-2
+M. tuberculosis 31-3
+M. tuberculosis 32
+M. tuberculosis 32-1
+M. tuberculosis 32-2
+M. tuberculosis 32-3
+M. tuberculosis 33
+M. tuberculosis 33-1
+M. tuberculosis 33-2
+M. tuberculosis 33-3
+M. tuberculosis 35
+M. tuberculosis 35-1
+M. tuberculosis 35-2
+M. tuberculosis 35-3
+M. tuberculosis 3-1
+M. tuberculosis 3-2
+M. tuberculosis 3-3
+M. tuberculosis 9
+M. tuberculosis 9-1
+M. tuberculosis 9-2
+M. tuberculosis 9-3
+M. tuberculosis 15
+M. tuberculosis 15-1
+M. tuberculosis 15-2
+M. tuberculosis 15-3
+M. tuberculosis 6-1
+M. tuberculosis 6-2
+M. tuberculosis 6-3
+M. tuberculosis 8-1
+M. tuberculosis 8-2
+M. tuberculosis 8-3
+M. tuberculosis 10
+M. tuberculosis 10-1
+M. tuberculosis 10-2
+M. tuberculosis 10-3
+M. tuberculosis 11
+M. tuberculosis 11-1
+M. tuberculosis 11-2
+M. tuberculosis 11-3
+M. tuberculosis PII-26
+M. tuberculosis PII-15
+M. tuberculosis PII-6
+M. tuberculosis PII-8
+M. tuberculosis PII-11
+M. tuberculosis 210
+M. tuberculosis 692
+M. tuberculosis 36
+M. tuberculosis XDR-Mtb5
+M. tuberculosis XDR-Mtb44
+M. tuberculosis H37Rv (Intracellular in BMDM)
+M. tuberculosis H37Rv (Intracellular in THP1)
+M. tuberculosis Ra
+M. tuberculosis ATTC 27294
+M. tuberculosis INH/RIFR-Mtb
+M. tuberculosis MtbPT4 (MDR)
+M. tuberculosis MtbPT5 (XDR)
+M. tuberculosis Orphan
+M. tuberculosis LAM 9
+MDR-Mycobacterium tuberculosis
+M. tuberculosis PafA
+M. tuberculosis ATCC 25618 (H37Rv)
+M. tuberculosis H37Rv reference strain (ATCC 27294)
+Clinical MDR M. tuberculosis strain (K2903531, resistant to SM, INH, RFP and EMB)
+Clinical MDR M. tuberculosis strain (0907961, resistant to SM and EMB)
+Clinical drug-resistant M. tuberculosis strain (K0903557, resistant to INH)
+Clinical drug-sensitive M. tuberculosis strain (0907762)
+Mtb. 7357/1988
+Mtb. 9449/2006
+Mtb. 53/2009
+Mtb. Praha 131 (XDR-TB)
+M. tuberculosis Rif R
+M. tuberculosis INH R
+Mycobacterium tuberculosis CDC1551
+MBT H37Rv
+DS MTB H37Rv
+Mycobacterium tuberculosis (strain H37Rv)
+M. tuberculosis H37RV CNCTC My 331/88
+M. tuberculosis H37Rv Standard
+M. tuberculosis 168/22 SIR
+M. tuberculosis 22/22 SIRE
+M. tuberculosis/pSMT1
+M. tuberculosis CSU 18
+M. tuberculosis CSU 32
+M. tuberculosis CSU 81
+M. tub. H37Rv
+M. tuberculosis MDR_CHUV
+M. tuberculosis typus humanus ATCC 27294
+M. tuberculosis patient strain
+M. tuberculosis clinical mutant IC1
+M. tuberculosis clinical mutant IC2
+M. tuberculosis SHRE resistant
+M. tuberculosis SHRE sensitive
+M. tuberculosis MDR01
+M. tuberculosis MDR02
+M. tuberculosis MDR03
+M. tuberculosis MDR04
+M. tuberculosis MDR05
+M. tuberculosis MDR06
+M. tuberculosis MDR07
+M. tuberculosis MDR08
+M. tuberculosis MDR09
+M. tuberculosis MDR10
+M. tb H37Rv ATCC 27294
+Mycobacterium tuberculosis H37Ra 7131
+M. tuberculosis Rif-R
+M. tuberculosis H37Rv (Latent LORA)
+M. tuberculosis H37Rv (Acid pH 6.0)
+M. tuberculosis H37Rv (FBS 10%)
+M. tuberculosis H37Rv (BSA 4%)
+M. tuberculosis CI110
+M. tuberculosis CI104
+M. tuberculosis CI97
+M. tuberculosis CI85
+M. tuberculosis BDQr
+M. tuberculosis CAPr
+M. tuberculosis (ATCC 25618)
+Mycobacterium tuberculosis Beijing
+Mycobacterium tuberculosis INH resistant
+Mycobacterium tuberculosis RIF resistant
+Mycobacterium tuberculosis H160
+Mycobacterium tuberculosis H190
+INHR-TB
+M. tuberculosis FURG-2
+M. tuberculosis H37Rv (starved)
+M. tuberculosis KZN 06
+M. tuberculosis KZN 07
+M. tuberculosis KZN 13
+M. tuberculosis KZN 14
+M. tuberculosis KZN 15
+M. tuberculosis KZN 16
+M. tuberculosis KZN 17
+M. tuberculosis Erdman (macrophage model)
+M. tuberculosis H37Ra (in macrophages)
+M. tuberculosis multidrug resistant clinical isolate 591
+M. tuberculosis MDR 16883
+M. tuberculosis MDR 16995
+M. tuberculosis 16883
+M. tuberculosis 13946 (XDR-TB)
+M. tuberculosis 14862 (XDR-TB)
+M. tuberculosis (DR strains)
+M. tuberculosis HN-878
+M. tuberculosis RpoBS522L
+M. tbc. 331/88
+XDR-MTB
+M. tuberculosis H37Ra (Ex vivo, Dormant)
+M. tuberculosis H37Ra (Ex vivo, Active)
+M. tuberculosis CF 105
+M. tuberculosis CF 175
+M. tuberculosis IST-16
+M. tuberculosis pansusceptible strain
+M. tuberculosis rifampicin-resistant strain
+M. tuberculosis CI 74
+M. tuberculosis CI 85
+M. tuberculosis CI 114
+M. tuberculosis CII 121
+M. tuberculosis MDR A8
+M. tuberculosis clinical MDR isolate
+Drug-susceptible M. tuberculosis clinical isolates
+Multidrug-resistant M. tuberculosis clinical isolates
+M. tuberculosis Rv
+M. tuberculosis mc2 7901
+Mtb Rif-R
+Mtb MDR
+Mtb CP-1
+Mtb ss18b
+M. tuberculosis (WT)
+M. tuberculosis (resistant mutant)
+Mtb H37Ra pVV2
+M. tuberculosis (H37Rv, CDC1551, 001 K113)
+M. tuberculosis 053 K113 (rrlG2576T)
+M. tuberculosis 026 K111 (rrlG2447T)
+M. tuberculosis K04b00_1 WT
+M. tuberculosis K04b00_2 (rplC T460C)
+M. tuberculosis K04b00_3 (rrl A2741G)
+M. tuberculosis H37Rv (rrlG2270T)
+M. tuberculosis HUGMB6726
+M. tuberculosis HUGMB3649
+M. tuberculosis CHUV80045776
+M. tuberculosis HUGMI1020
+M. tuberculosis CHUV80059744
+M. tuberculosis CHUV80037024
+M. tuberculosis strain SPAM13C
+M. tuberculosis strain (wt)
+M. tuberculosis SPAM13C
+M. tuberculosis Spec. 192 (sensitive to tuberculostatics)
+M. tuberculosis Spec 210 (multidrug-resistant)
+M. tuberculosis (inhA mutant clinical isolate)
+M. tuberculosis (katG mutant clinical isolate)
+M. tuberculosis ΔpanCDΔlysA
+M. tuberculosis WT (Erdman)
+M. tuberculosis Δstf0 (Erdman)
+M. tuberculosis Δstf0 + pstf0 (Erdman)
+M. tuberculosis DprE1 C387S
+M. tuberculosis DprE1 C387G
+M. tuberculosis DprE1 Y314H
+M. tuberculosis DprE Y314H Rv1937 F426C
+M. tuberculosis wtH37Rv
+M. tuberculosis Class B1 mutant
+M. tuberculosis Class C mutant
+M. tuberculosis rKAN
+M. tuberculosis rCS
+M. tuberculosis H37Rv (streptomycin resistant)
+M. tuberculosis H37Rv (rifampin resistant)
+M. tuberculosis H37Rv (cycloserine resistant)
+M. tb H37Rv TMC102
+M. tb resistant to STR, INH, RIF, PZA
+M. tb resistant to STR, INH, RIF, PZA, FQ (isolate # 1)
+M. tb resistant to STR, INH, RIF, PZA, FQ (isolate # 2)
+M. tb resistant to EMB, INH, RIF, PZA, FQ
+M. tb H37Ra ATCC 25177
+M. tuberculosis MDR800
+M. tuberculosis MDR4557
+M. tuberculosis MDR10571
+M. tuberculosis MDR116
+M. tuberculosis mc2 6206/mLux
+M. tuberculosis mc2 6206/mLux (in macrophage)
+M. tuberculosis MDR-TB M3
+M. tuberculosis MDR-TB M4
+M. tuberculosis MDR-TB M8
+M. tuberculosis MDR-TB M18
+M. tuberculosis XDR-TB X15
+M. tuberculosis XDR-TB X17
+M. tuberculosis pabC::Tn
+M. tuberculosis folCE153A
+M. tuberculosis folCE153A pabB::hyg
+M. tuberculosis STB-960
+M. tuberculosis STB-825
+M. tuberculosis STB-9102
+M. tuberculosis MDR-699
+M. tuberculosis MDR-843
+M. tuberculosis MDR-6233
+M. tuberculosis XDR-83
+M. tuberculosis XDR-164
+M. tuberculosis XDR-926
+M. tuberculosis M262
+M. tuberculosis M269
+M. tuberculosis M304
+M. tuberculosis M306
+M. tuberculosis M307
+M. tuberculosis PAS-R
+M. tuberculosis M10
+M. tuberculosis M14
+M. tuberculosis H37Rv (ATCC 25177)
+M. tuberculosis MDR4
+M. tuberculosis MDR5
+M. tuberculosis MDR6
+M. tuberculosis MDR isolate with inhA mutation
+M. tuberculosis H37Rv (pVV16)
+M. tuberculosis H37Rv (pVVethA)
+M. tuberculosis H37Rv (pVVethR)
+M. tuberculosis Mt103 (pVV16)
+M. tuberculosis Mt103 (pVVethA)
+M. tuberculosis Mt103 (pVVethR)
+M. tuberculosis MT1K ISO-R22 (pVV16)
+M. tuberculosis MT1K ISO-R22 (pVVethA)
+M. tuberculosis MT1K ISO-R22 (pVVethR)
+M. tuberculosis MT1K ISO-R33 (pVV16)
+M. tuberculosis MT1K ISO-R33 (pVVethA)
+M. tuberculosis MT1K ISO-R33 (pVVethR)
+M. tuberculosis ISO-resistant mutants
+M. tuberculosis parent strains
+M. tuberculosis mmpL3 Mutant Pool
+M. tuberculosis ppk2::Tn mutant
+M. tuberculosis ppk2::Tn Comp strain
+M. tuberculosis ppx1::Tn mutant
+M. tuberculosis ppx1::Tn Comp strain
+M. tuberculosis fully susceptible clinical isolates
+M. tuberculosis resistant to RIF
+M. tuberculosis resistant to INH and RIF
+M. tuberculosis resistant to INH and STR
+M. tuberculosis resistant to RIF and EMB
+M. tuberculosis resistant to INH, RIF and LVX
+M. tuberculosis resistant to INH, RIF and STR
+M. tuberculosis resistant to RIF, STR and EMB
+M. tuberculosis resistant to INH, RIF and EMB
+M. tuberculosis resistant to RIF, STR, LVX and EMB
+M. tuberculosis resistant to INH, RIF, LVX and EMB
+M. tuberculosis resistant to INH, RIF, STR and EMB
+M. tuberculosis resistant to INH, RIF, STR, LVX and EMB
+M. tuberculosis clinical isolates (drug-sensitive)
+M. tuberculosis clinical isolates (drug-resistant)
+M. tuberculosis BDQ-1
+M. tuberculosis BDQ-2
+M. tuberculosis BDQ-3
+M. tuberculosis H37Rv (actively replicating)
+M. tuberculosis (oxygen-starved nonreplicating)
+M. tuberculosis H37Rv mc26206 (actively replicating)
+M. tuberculosis H37Rv mc26206 (oxygen-starved nonreplicating)
+M. tuberculosis CSU 93
+M. tuberculosis 42-1C9383
+M. tuberculosis 10129-3
+M. tuberculosis GHTB136
+M. tuberculosis GHTB146
+M. tuberculosis GHTB149
+M. tuberculosis katGF56
+M. tuberculosis katGW328L
+M. tuberculosis katGW198*
+M. tuberculosis inhA I202S
+M. tuberculosis inhA G205C
+M. tuberculosis (7H9-glucose)
+M. tuberculosis (7H9-acetate)
+M.tb JAL2287
+M.tb 1934
+MDR-MTB isolate
+M. tuberculosis H37RV isolate
+M. tuberculosis MDR-MTB isolate
+M. tuberculosis H37Ra ΔpabB
+M. tuberculosis (Hr1)
+M. tuberculosis (Hr2)
+M. tuberculosis (Hr3)
+M. tuberculosis (Hr4)
+M. tuberculosis (Hr5)
+MTBH37Ra
+M. tuberculosis S17
+M. tuberculosis S23
+M. tuberculosis S31
+M. tuberculosis M9
+M. tuberculosis M20
+M. tuberculosis M34
+M. tuberculosis M7
+Mtb-Rif-R
+Mtb-Inh-R
+Mtb-InhRif-S
+M. tuberculosis AIRa
+M. tuberculosis UAIRv
+M. tuberculosis AlRa
+M. tuberculosis WT H37Rv
+M. tuberculosis mmpL3-TetON +ATc
+M. tuberculosis mmpL3-TetON -ATc
+M. tuberculosis mmpL3-OE +ATc
+M. tuberculosis mmpL3-OE -ATc
+M. tuberculosis H37Rv MC2 6230
+M. tuberculosis KatG-1
+M. tuberculosis KatG-2
+M. tuberculosis KatG-3
+M. tuberculosis KatG-4
+M. tuberculosis MDR 2712
+M. tuberculosis MDR 5023
+M. tuberculosis MDR 7106
+M. tuberculosis (MDR-TB clinical isolates)
+M. tuberculosis R5401
+M. tuberculosis X_61
+M. tuberculosis X_60
+M. tuberculosis (sensitive)
+M. tuberculosis (GAST-D-Fe)
+M. tuberculosis (GAST-D)
+M. tuberculosis drug-susceptible
+M. tuberculosis H37Rv (Low oxygen)
+M. tuberculosis H37Rv (Low Oxygen)
+M. tuberculosis H37Ra (ATCC 25177) Dormant
+M. tuberculosis H37Ra (ATCC 25177) Active
+M. tuberculosis MDR Dormant
+M. tuberculosis MDR Active
+M. tuberculosis (active)
+MDR-M. tuberculosis (active)
+MDR-M. tuberculosis (dormant)
+MDR-Mtb (dormant)
+MDR-Mtb (active)
+M. tuberculosis RGH101
+M. tuberculosis RGH104
+M. tuberculosis (S94A)
+M. tuberculosis (promoter region C(-15)T)
+M. tuberculosis MDR 1
+M. tuberculosis MDR 2
+M. tuberculosis MDR 3
+M. tuberculosis MDR 4
+M. tuberculosis MDR 5
+M. tuberculosis MDR 6
+M. tuberculosis MDR 7
+M. tuberculosis MDR 8
+M. tuberculosis MDR 9
+M. tuberculosis MDR 10
+M. tuberculosis MDR 11
+M. tuberculosis XDR 1
+M. tuberculosis XDR 2
+M. tuberculosis XDR 3
+M. tuberculosis XDR 4
+M. tuberculosis XDR 5
+M. tuberculosis XDR 6
+M. tuberculosis XDR 7
+M. tuberculosis XDR 8
+M. tuberculosis XDR 9
+M. tuberculosis XDR 10
+M. tuberculosis XDR 11
+Mycobacterium tuberculosis (MRC 3366)
+M. tuberculosis H37Rv::GFP
+M. tuberculosis (Rv0678 R82G mutant)
+Mycobacterium tuberculosis ATCC (27294)
+Mycobacterium tuberculosis CI (2781)
+M. tuberculosis MDR (CMUL 157)
+M. tuberculosis 170470
+M. tuberculosis 149643
+M. tuberculosis 30744
+M. tuberculosis 30685
+M. tuberculosis 28198
+M. tuberculosis 29943
+M. tuberculosis 30611
+M. tuberculosis 28337
+M. tuberculosis 14011
+M. tuberculosis 30196
+M. tuberculosis 30183
+M. tuberculosis 29118
+M. tuberculosis 28350
+M. tuberculosis 28422
+M. tuberculosis 90-221387
+M.tbc H37Rv
+M. tbc 234
+M. tuberculosis I-78
+M. tuberculosis I-101
+M. tuberculosis I-127
+M. tuberculosis I-173
+M. tuberculosis I-202
+M. tuberculosis I-262
+M. tuberculosis I-327
+MDR clinical isolate 591
+Mycobacterium tuberculosis Strain H37Rv
+M. tuberculosis H37Pv (MABA)
+M. tuberculosis H37Pv (LORA)
+M. tuberculosis pre-XDR (THX-0001)
+M. tuberculosis XDR (THX-0002)
+M. tuberculosis XDR (THX-0003)
+M. tuberculosis (clinical lineage 2)
+M. tuberculosis (clinical lineage 4)
+Mycobacterium tuberculosis Ra
+M. tuberculosis H37Rv (intracellular THP1)
+M. tuberculosis (PncA E37V mutation)
+M. tuberculosis (PncA D110G mutation)
+M. tuberculosis (PncA T114M mutation)
+M. tuberculosis (PncA A170V mutation)
+M. tuberculosis (PncA V130A mutation)
+M. tuberculosis (PncA L35R mutation)
+M. tuberculosis (PncA V163A mutation)
+M. tuberculosis (PncA V180I mutation)
+M. tuberculosis ATCC 27294 (7H9 medium)
+M. tuberculosis ATCC 27294 (High Fe)
+M. tuberculosis ATCC 27294 (Low Fe)
+M. tuberculosis CI 81
+M. tuberculosis CI 105
+M. tuberculosis CI 162
+M. tuberculosis CI 165
+M. tuberculosis CI 169
+M. tuberculosis CI 171
+M. tuberculosis MshB mutant
+Mycobacterium tuberculosis H37Rv (replicating)
+Mycobacterium tuberculosis (replicating, 0.5% BSA)
+Mycobacterium tuberculosis (replicating, low BSA)
+Mycobacterium tuberculosis (streptomycin-resistant)
+Mycobacterium tuberculosis (ethionamide-resistant)
+Mycobacterium tuberculosis (isoniazid-resistant)
+Mycobacterium tuberculosis (p-aminosalicylate-resistant)
+Mycobacterium tuberculosis (kanamycin-resistant)
+Mycobacterium tuberculosis (ethambutol-resistant)
+M. tuberculosis MTB::asadh (pristinamycin 10^-5 µg/mL)
+M. tuberculosis MTB::asadh (pristinamycin 10^-1 µg/mL)
+M. tuberculosis 97-983
+M. tuberculosis 97-826
+M. tuberculosis 97-1052
+M. tuberculosis 94-735
+M. tuberculosis 97-1069
+M. tuberculosis 8251
+M. tuberculosis 98-36
+M. tuberculosis 98-32
+M. tuberculosis 97-553
+M. tuberculosis 97-854
+ethambutol-resistant M. tuberculosis
+isoniazid-resistant M. tuberculosis
+M. tuberculosis AI55
+M. tuberculosis AI57
+M. tuberculosis (ATTC-27294)
+M. tuberculosis (sputum isolate)
+M. tuberculosis mc26230 + pSMT3_6754
+M. tuberculosis (H37Rv Pan sensitive)
+M. tuberculosis H37Ra mutant S1-1
+M. tuberculosis H37Ra mutant S1-2
+M. tuberculosis H37Ra mutant S1-3
+M. tuberculosis H37Ra mutant S1-4
+M. tuberculosis H37Ra mutant S0.5-1
+M. tuberculosis H37Ra mutant S0.5-2
+M. tuberculosis H37Ra mutant S0.5-3
+M. tuberculosis H37Rv (UAIRv)
+M. tuberculosis lux strain
+M. tuberculosis KAM-R
+M. tuberculosis H37Rv (LORA Anaerobic)
+M. tuberculosis mc2 7092
+M. tuberculosis (neutral pH)
+M. tuberculosis (neutral pH, ectopic PzaA expression)
+M. tuberculosis (non-growing)
+M. tuberculosis 18b with STR
+M. tuberculosis 18b without STR
+M. tuberculosis V9124
+M. tuberculosis H37Rv/pMV261::dhfr
+M. tuberculosis CI5447
+M. tuberculosis CI5297
+M. tuberculosis mc24986
+M. tuberculosis CVOF1
+M. tuberculosis mc24997
+M. tuberculosis mc25854
+M. tuberculosis mc25857
+M. tuberculosis mc25858
+M. tuberculosis CI5058
+M. tuberculosis CI5324
+M. tuberculosis CI5400
+M. tuberculosis mc25856
+M. tuberculosis CI5072
+M. tuberculosis CI5071
+M. tuberculosis CI5358
+M. tuberculosis CI5459
+M. tuberculosis CI5483
+M. tuberculosis TF275
+M. tuberculosis susceptible strain
+PZA-resistant M. tuberculosis
+Mycobacterium tuberculosis PZAR 1
+Mycobacterium tuberculosis PZAR 2
+M. tuberculosis RM1leuS Y435C
+M. tuberculosis RM2leuS S311L
+M. tuberculosis RM3leuS D450Y
+M. tuberculosis RM4leuS S311L
+M. tuberculosis rRIF
+M. tuberculosis rSTR
+M. tuberculosis MDR I
+M. tuberculosis H37Rv (Log-phase)
+M. tuberculosis H37Rv (Acid-phase)
+M. tuberculosis 18b (NRP-phase)
+M. tuberculosis 18b (Log-phase)
+M. tuberculosis H37Rv (Intracellular THP-1 primary assay)
+M. tuberculosis Erdman (Intracellular THP-1 secondary assay)
+M. tuberculosis (KatG A245V)
+M. tuberculosis (KatG Q295P)
+M. tuberculosis (KatG G297V)
+M. tuberculosis (KatG T324P)
+M. tuberculosis (KatG L48Q-R463L)
+M. tuberculosis (KatG L141F-R463L)
+M. tuberculosis (KatG R463L)
+M. tuberculosis (KatG L390 CTA insertion)
+M. tuberculosis H37Rv (pknB depleted)
+M. tuberculosis DS-1
+M. tuberculosis DS-2
+M. tuberculosis DS-3
+M. tuberculosis DS-4
+M. tuberculosis DS-5
+M. tuberculosis RR-1
+M. tuberculosis RR-2
+M. tuberculosis RR-3
+M. tuberculosis RR-4
+M. tuberculosis RR-5
+M. tuberculosis ΔponA1
+M. tuberculosis ΔponA1 L5::ponA1wt
+M. tuberculosis ΔponA1 L5::ponA1_TG-
+M. tuberculosis ΔponA1 L5::ponA1_TP-
+M. tuberculosis ΔponA1 L5::ponA1_TG-TP-
+M. tuberculosis ΔponA1 L5::ponA1_T34A
+M. tuberculosis ΔponA1 L5::ponA1_T34D
+M. tuberculosis H37Rv (Susceptible)
+M. tuberculosis H37Ra (Susceptible)
+M. tuberculosis CR1 (RIF-R)
+M. tuberculosis CR2 (RIF-R)
+M. tuberculosis CR3 (INH-R)
+M. tuberculosis CR4 (INH-R)
+M. tuberculosis CR5 (EMB-R)
+M. tuberculosis CR6 (MDR)
+M. tuberculosis clinical strain
+Mycobacterium tuberculosis H37Ra ATCC 25177
+M. tuberculosis Beijing MTB 985*
+M. tuberculosis Beijing MTB 2556*
+M. tuberculosis Beijing MTB 4000*
+M. tuberculosis Beijing MTB 1472*
+M. tuberculosis (GHTB136)
+M. tuberculosis (GHTB146)
+M. tuberculosis (GHTB149)
+M. tuberculosis (katG^FS6)
+M. tuberculosis (katG^W328L)
+M. tuberculosis (katG^W198*)
+M. tuberculosis R37Rv
+M. tuberculosis H37Rv (Cholesterol medium)
+multi-resistant M. tuberculosis
+M. tuberculosis RM22
+Mtb E1380/94
+Mtb P34/95
+M. tuberculosis T3609
+M. tuberculosis T113
+M. tb
+M. tuberculosis (Drug susceptible)
+M. tuberculosis (Multidrug resistant)
+M. tuberculosis (Extensively drug resistant)
+M. tuberculosis (PAS resistant: FolC mutants)
+M. tuberculosis Q1
+M. tuberculosis Q2
+M. tuberculosis Q3
+M. tuberculosis Q4
+M. tuberculosis Q5
+M. tuberculosis Q6
+M. tuberculosis Q7
+M. tuberculosis Q8
+M. tuberculosis Q9
+M. tuberculosis Q10
+M. tuberculosis Q11
+M. tuberculosis S1
+M. tuberculosis S2
+M. tuberculosis S3
+M. tuberculosis pheS-FDAS
+M. tuberculosis PAN sensitive isolate
+M. tuberculosis MDR strain-1
+M. tuberculosis MDR strain-2
+Mtb strain mc²6230
+M. tuberculosis DS-TB strains 1-3
+M. tuberculosis MDR-TB strains 1-2 (2 x R)
+M. tuberculosis MDR-TB strains 3-5 (3 x R)
+M. tuberculosis MDR-TB strains 6-9 (4 x R)
+M. tuberculosis MDR-TB-6 (4 x R)
+M. tuberculosis #13 (Clinical isolate)
+Mycobacterium tuberculosis MTCC 300
+M. tuberculosis mc25886
+M. tuberculosis KZN11
+M. tuberculosis H37Ra (vector control)
+M. tuberculosis H37Ra (carrying wildtype ubiA / Rv3806c:pOLYG)
+M. tuberculosis H37Ra (singly mutated ubiA genes)
+M. tuberculosis (67 clinical isolates)
+M. tuberculosis (460 clinical isolates)
+Intracellular M. tuberculosis H37Ra
+M. tuberculosis INH resistant (7153)
+M. tuberculosis RMP resistant (262/19)
+M. tuberculosis INH and RMP resistant (561/17)
+M. tuberculosis S419
+M. tuberculosis H37Rv (normoxic)
+M. tuberculosis H37Ra (normoxic)
+M. tuberculosis (H37Rv) (hypoxic)
+Mtb H37Rv (normoxic)
+Mtb H37Ra (normoxic)
+Mtb H37Rv (hypoxic)
+H37Rv normoxia
+H37Rv hypoxia
+M. tuberculosis P887 (H37Rv)
+M. tuberculosis M22 (MDR)
+M. tuberculosis M23 (MDR)
+M. tuberculosis X24 (XDR)
+M. tuberculosis X59 (XDR)
+M. tuberculosis (MDR and XDR)
+M. tuberculosis S456L
+M. tuberculosis 2745/09 MDR
+M. tuberculosis H37Rv (NRP-TB)
+M. tuberculosis K04b00DS
+M. tuberculosis K10b00DS
+M. tuberculosis NIH_G251
+M. tuberculosis 053K113
+M. tuberculosis 028K111
+M. tuberculosis Mutant B6
+M. tuberculosis Mutant A3
+M. tuberculosis Mutant D6
+M. tuberculosis Mutant B1
+M. tuberculosis Mutant A6
+M. tuberculosis Mutant A1
+M. tuberculosis Asc-1.2 II
+M. tuberculosis Asc-1.3 II
+M. tuberculosis Asc-1.3V
+M. tuberculosis Cst-t-10
+M. tuberculosis (rifampicin-resistant)
+M. tuberculosis (multi-drug-resistant)
+Mycobacterium tuberculosis (H37Ra)
+M. tuberculosis MmpL3 mutant
+M. tuberculosis M305
+M. tuberculosis M290
+M. tuberculosis TN7791
+M. tuberculosis TN5038
+M. tuberculosis TN6117
+M. tuberculosis TN5369
+M. tuberculosis TN6134
+M. tuberculosis Mtb 411
+M. tuberculosis CSU87
+M. tuberculosis-infected THP1 macrophages
+M. tuberculosis Rv0678_2 mutant
+M. tuberculosis Rv0678_J4 mutant
+M. tuberculosis H37Rv (parent strain)
+M. tuberculosis isolate BA019a (Rv2983 mutant, +C in aa 27)
+M. tuberculosis isolate BA032 (Rv2983 mutant, G147C)
+M. tuberculosis isolate BA043 (Rv2983 mutant, A132V)
+M. tuberculosis isolate BA060 (Rv2983 mutant, -ATC in aa 129)
+M. tuberculosis isolate BA078-82 (Rv2983 mutant, R25S)
+M. tuberculosis isolate B101 (Rv2983 mutant, A198P)
+M. tuberculosis isolate BA120 (Rv2983 mutant, C152R)
+M. tuberculosis isolate KA003 (Rv2983 mutant, A68E)
+M. tuberculosis isolate KA016 (Rv2983 mutant, Q114R)
+M. tuberculosis isolate BA026a (fbiB mutant, L15P)
+M. tuberculosis isolate BA069 (fbiB mutant, W397R)
+M. tuberculosis isolate BA070 (fbiB mutant, L173P)
+M. tuberculosis isolate KA006 (fbiB mutant, -T in aa 684)
+M. tuberculosis isolate BA074 (fbiA mutant, S219G)
+M. tuberculosis isolate BA084 (fbiA mutant, Q27*)
+M. tuberculosis isolate KA043 (fbiA mutant, D49G)
+M. tuberculosis isolate KA058 (fbiA mutant, -G in aa 47)
+M. tuberculosis isolate KA067 (fbiA mutant, L308P)
+M. tuberculosis isolate KA085 (fbiA mutant, Q120P)
+M. tuberculosis isolate KA096 (fbiA mutant, D286A)
+M. tuberculosis isolate BA017 (fbiC mutant, C562W)
+M. tuberculosis isolate BA035 (fbiC mutant, R25G)
+M. tuberculosis isolate BA075 (fbiC mutant, M776T)
+M. tuberculosis isolate KA004 (fbiC mutant, G194D)
+M. tuberculosis isolate KA014 (fbiC mutant, -C in aa 20)
+M. tuberculosis isolate KA017 (fbiC mutant, K684T)
+M. tuberculosis isolate KA026a (fbiC mutant, IS6110 ins. 85bp upstream of fbiC)
+M. tuberculosis isolate KA031 (fbiC mutant, L377P)
+M. tuberculosis isolate KA073 (fbiC mutant, A827G)
+M. tuberculosis isolate BA002 (fgd mutant, K9N)
+M. tuberculosis isolate KA050 (fgd mutant, G191D)
+M. tuberculosis isolate KA088 (ddn mutant, R112W)
+M. tuberculosis isolate KA091 (ddn mutant, IS6110 ins. in D108)
+M. tuberculosis isolate KA093 (ddn mutant, -G in aa 39)
+M. tuberculosis (Drug sensitive clinical isolates)
+M. tuberculosis (INHR, RIFR clinical isolates)
+M. tuberculosis (DprE1 over-expression strain)
+M. tuberculosis (DprE1 C387S/G (BTZ043R))
+M. tuberculosis Rv0678 M139I
+Mycobacterium tuberculosis (H37Rv reference strain)
+M. tuberculosis FQ res
+M. tuberculosis INH res1
+M. tuberculosis INH res2
+M. tuberculosis RIF res1
+M. tuberculosis RIF res2
+Mycobacterium Tuberculosis (H37Ra)
+Mycobacterium tuberculosis ATCC 25618
+Mtb mc2 6220
+M. tuberculosis typus humanus ATCC 27,294
+Mtb IZAK (MDR)
+Mtb MATI (MDR)
+Clinical isolate of M. tuberculosis
+M. tuberculosis H37Rv mc26020 mCherry
+M. tuberculosis H37Rv metB::hyg
+M. tuberculosis XDR-Mtb
+M. tuberculosis MDR-Mtb
+M. tuberculosis strains
+M. tuberculosis (sensitive strains)
+M. tuberculosis Delta pncA
+M. tuberculosis Delta blaC
+M. tuberculosis Delta blaC::blaC
+M. tuberculosis panD::Tn
+M. tuberculosis ΔpncA
+M. tuberculosis ΔblaC
+M. tuberculosis ΔblaC::blaC
+M. tuberculosis H37Rv inhA (S94A)
+Mycobacterium tuberculosis (H37Rv strain)
+M. tuberculosis clinical isolate 591
+M. tuberculosis clinical isolate 591 (MDR)
+M. tuberculosis (H37RV) MTCC 200
+M. tuberculosis CIBIN-99
+M. tuberculosis 040
+M. tuberculosis 004
+M. tuberculosis QcrBM342T
+M. tuberculosis H37Rv (Wild-type)
+Mtb H37Ra ATCC25177
+M. tuberculosis INH-res MC2 8243
+M. tuberculosis RIF-res MC2 8247
+M. tuberculosis INH and RIF-res MC2 8259
+M. tuberculosis SQ109-resistant
+Mtb (MC2 6230)
+M. tuberculosis (MC2 6230)
+H37Rv (MC2 6230)
+M. tuberculosis INH & RIF-res (MC2 8259)
+Mtb PRAHA 131
+M. tuberculosis PRAHA 131
+Mtb-XDR-TB strains
+M. tuberculosis 7357/98
+M. tuberculosis 9449/06
+M. tuberculosis 2092/05
+M. tuberculosis Praha 128
+Mycobacterium tuberculosis 331/88 (H37Rv)
+Mtb. 331/88 (H37Rv)
+M. tuberculosis H37Rv (Agar micro dilution)
+M. tuberculosis H37Rv (BACTEC)
+M. tuberculosis A-1-1
+M. tuberculosis A-1-2
+M. tuberculosis A-1-3
+M. tuberculosis A-2-5
+M. tuberculosis A-3-1
+M. tuberculosis A-3-2
+M. tuberculosis A-3-5
+M. tuberculosis A-3-9
+M. tuberculosis A-2-1
+M. tuberculosis U-4-6
+Clinical isolates: S, H, R, and E resistant M. tuberculosis
+INH-R M. tuberculosis (SRI 1369)
+RMP-R M. tuberculosis (SRI 1367)
+OFX-R M. tuberculosis (SRI 4000)
+M. tuberculosis (LORA / non-replicating)
+M. tuberculosis RMP-R (SRI 1367)
+M. tuberculosis (NRP / LORA)
+M. tuberculosis (replicating/MABA)
+M. tuberculosis (non-replicating/LORA)
+M. tuberculosis H37Rv (Isoniazid resistant ATCC-35822)
+M. tuberculosis H37Rv (Rifampin resistant ATCC-35838)
+M. tuberculosis H37Rv (isoniazid resistant ATCC-35822)
+M. tuberculosis H37Rv (rifampin resistant ATCC-35838)
+M. tuberculosis (replicating Mtb)
+M. tb strain H37Rv (MABA)
+M. tb strain H37Rv (LORA)
+M. tuberculosis (nutrient-deficient, persistent)
+Mtb strain H37Rv
+M. tuberculosis MDR/XDR-TB
+Mtb IAR2
+M. tuberculosis H37Ra (pVV2) - Agar plate
+M. tuberculosis H37Ra (pVV2) - Broth
+M. tuberculosis H37Ra (DprE1/2) - Agar plate
+M. tuberculosis H37Ra (DprE1/2) - Broth
+M. tuberculosis H37Ra (DprE2) - Agar plate
+M. tuberculosis H37Ra (DprE2) - Broth
+M. tuberculosis H37Ra (MmpL3) - Agar plate
+M. tuberculosis H37Ra (MmpL3) - Broth
+M. tuberculosis H37Ra (Ddn) - Agar plate
+M. tuberculosis H37Ra (Ddn) - Broth
+M. tuberculosis pMV261:inhAMTB
+M. tuberculosis 16dx5
+M. tuberculosis 16fx5
+M. tuberculosis 16g20x
+M. tuberculosis 16d^R_5X
+M. tuberculosis 16f^R_5X
+M. tuberculosis 16g^R_20X
+M. tuberculosis mc26230 WT
+M. tuberculosis mc26230 16d^R_5X KatG mutant
+M. tuberculosis mc26230 16f^R_5X KatG mutant
+M. tuberculosis mc26230 16g^R_20X KatG mutant
+M. tuberculosis MDR & XDR-TB
+M. tuberculosis (Intramacrophage)
+MDR-Mtb 14862
+MDR-Mtb 13946
+MDR-Mtb 16833
+MDR-Mtb 16995
+MDR-Mtb 12525
+M. tuberculosis H37Rv::lux (intracellular in J774)
+M. tuberculosis 4536 8X2
+M. tuberculosis 4668 8X8
+M. tuberculosis 4536 8X2 (menG C146R)
+M. tuberculosis 4536 8X3 (menG A60 V)
+M. tuberculosis SAWC 2371 Haarlem
+M. tuberculosis SAWC 3385 Cas1/Delhi
+M. tuberculosis SAWC 3906 Atyp-Beijing
+M. tuberculosis H37RvMa AcydKO
+M. tuberculosis H37RvMa Ala317Thr point mutant
+M. tuberculosis H37RvMa (Delta_cydKO)
+M. tuberculosis H37RvMa (Ala317Thr point mutant)
+M. tuberculosis ΔcydKO
+M. tuberculosis Ala317Thr point mutant
+M. tuberculosis SAWC 3933 LCC
+M. tuberculosis Pks13-TE R1563H mutant
+M. tuberculosis Pks13-TE A1561V mutant
+M. tuberculosis Pks13-TE A1564D mutant
+M. tuberculosis MmpL3 F25SL mut.
+M. tuberculosis MmpL3 F255L mut.
+M. tuberculosis N0157 L1
+M. tuberculosis N0052 L2
+M. tuberculosis N0004 L3
+M. tuberculosis N0136 L4
+M. tuberculosis RMPR
+M. tuberculosis EMBR
+M. tuberculosis KMR
+M. tuberculosis CIPR
+M. tuberculosis Erdman (Macrophages)
+M. tuberculosis RMP-resistant
+M. tuberculosis EMB-resistant
+M. tuberculosis KM-resistant
+M. tuberculosis CIP-resistant
+Mtb NHN382
+Mtb TN587
+Mtb W210
+M. tuberculosis H37Rv (Nonreplicating)
+M. tuberculosis (Nonreplicating)
+M. tuberculosis Harlingen
+M. tuberculosis ATCC 35811
+M. tuberculosis DKU76
+M. tuberculosis DKU97A
+M. tuberculosis DKU211
+M. tuberculosis DKU220
+M. tuberculosis JAL
+M. tuberculosis InhR
+M. tuberculosis ATCC27294
+M. tuberculosis ATCC25618
+M. tuberculosis ATCC35811
+wild-type M. tuberculosis
+M. tuberculosis (solid medium)
+M. tuberculosis mc2 6230-K204
+M. tuberculosis T 113
+M. tuberculosis T 113 (Resistant)
+M. tuberculosis sensitive (H37Rv; ATCC 27294)
+M. tuberculosis resistant (T 113)
+M. tuberculosis (SS)
+M. tuberculosis (RS)
+M. tuberculosis (Resistant)
+M. tuberculosis (sensitive strain)
+M. tuberculosis H37Rv-mmpL3
+multidrug-resistant M. tuberculosis
+6-week-starved M. tuberculosis
+M. tuberculosis (6-week-starved)
+Mtb. Praha 1 (MDR-TB)
+Mtb (MC26230)
+Mycobacterium tuberculosis MC26230
+Mycobacterium tuberculosis 64A
+Mycobacterium tuberculosis 71A
+Mycobacterium tuberculosis 109
+Mycobacterium tuberculosis 3614
+M. tuberculosis PRAHA 131 (MDR)
+M. tuberculosis XDR-TB strains

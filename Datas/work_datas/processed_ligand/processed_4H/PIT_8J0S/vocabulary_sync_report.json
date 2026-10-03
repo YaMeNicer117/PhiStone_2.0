@@ -1,0 +1,46 @@
+{
+  "format_version": "condition_vocabulary_sync_v1",
+  "status": "complete",
+  "started_at_utc": "2026-08-31T17:03:33.667281+00:00",
+  "finished_at_utc": "2026-08-31T17:03:35.563192+00:00",
+  "device": "auto",
+  "condition_paths": [
+    "/home/node233/miniconda3/envs/PhiStone/project/PhiStone_2.0/Datas/work_datas/processed/PIT_8J0S/PIT_8J0S.pt"
+  ],
+  "condition_file_count": 1,
+  "report_path": "/home/node233/miniconda3/envs/PhiStone/project/PhiStone_2.0/Datas/work_datas/processed/PIT_8J0S/vocabulary_sync_report.json",
+  "stage": "complete",
+  "conditions": [
+    {
+      "path": "/home/node233/miniconda3/envs/PhiStone/project/PhiStone_2.0/Datas/work_datas/processed/PIT_8J0S/PIT_8J0S.pt",
+      "node_count": 221,
+      "non_global_smiles_count": 220
+    }
+  ],
+  "non_global_smiles_occurrence_count": 220,
+  "unique_smiles_count": 13,
+  "fragment": {
+    "requested_count": 13,
+    "cache_hits": 13,
+    "checkpoint_results": 0,
+    "newly_added_to_standard_table": [],
+    "newly_added_to_raw_corpus": []
+  },
+  "atom": {
+    "requested_count": 13,
+    "cache_hits": 13,
+    "checkpoint_results": 0,
+    "newly_added_to_standard_table": [],
+    "newly_added_to_raw_corpus": [],
+    "compatibility_anchors_path": "/home/node233/miniconda3/envs/PhiStone/project/PhiStone_2.0/Datas/Processed_datas/SE3TD_128_Shared_data/fragment_atom_embeddings_64d_compatibility_anchors.json"
+  },
+  "verification": {
+    "fragment_table_path": "/home/node233/miniconda3/envs/PhiStone/project/PhiStone_2.0/Datas/Processed_datas/SE3TD_128_Shared_data/fragment_embeddings_128d.npz",
+    "fragment_num_smiles": 2811,
+    "fragment_table_sha256": "cbd26161a0d92ea25981321a01f174f7d97899ffc36fd334fa7b212582d596d0",
+    "atom_table_path": "/home/node233/miniconda3/envs/PhiStone/project/PhiStone_2.0/Datas/Processed_datas/SE3TD_128_Shared_data/fragment_atom_embeddings_64d.npz",
+    "atom_num_smiles": 2811,
+    "atom_num_atoms": 23904,
+    "atom_table_sha256": "3172f89068a4f2353ab51f9698f5b2301da086b6c351f41e01462fec73c52b04"
+  }
+}

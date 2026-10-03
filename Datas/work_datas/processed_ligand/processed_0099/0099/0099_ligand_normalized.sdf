@@ -1,0 +1,111 @@
+PIT_8J0S_global_combination_1
+     RDKit          3D
+
+ 24 27  0  0  0  0  0  0  0  0999 V2000
+   -1.9330   -1.8350   -2.3442 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3975   -2.8879   -3.0978 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1942   -2.7859   -3.7029 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6070   -1.7132   -3.3883 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2189   -0.7079   -2.4699 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1291   -0.7186   -1.9927 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3218    0.1787   -2.0119 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4081    0.9405   -0.9301 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4377    2.6427    1.1666 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1530    3.1778    1.3091 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2284    2.6144    0.4440 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6174    1.6912   -0.5381 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9355    1.3523   -0.7602 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8811    1.8513    0.1130 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3689    2.8541    2.1980 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4067   -1.9206   -2.2327 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3997   -1.0243   -2.8116 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6203   -1.5072   -2.5647 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3715   -2.8555   -2.1837 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0062   -3.0954   -1.9947 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0437    3.2110    1.1865 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7624    2.3918    0.6403 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4855    1.1072    0.1124 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9392    0.1716    1.1614 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  1  1  0
+  7  8  2  3
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14  9  1  0
+ 16 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  1  0
+ 20 16  2  0
+ 21 22  2  0
+ 22 23  1  0
+ 23 24  1  0
+  5  7  1  0
+  8 12  1  0
+  1 16  1  0
+  8 23  1  0
+  9 15  1  0
+ 11 22  1  0
+M  END
+>  <ReconstructionMode>  (1) 
+global_combination_1
+
+>  <SourceFile>  (1) 
+/home/node233/miniconda3/envs/PhiStone/project/PhiStone_2.0/Datas/work_datas/processed_2P/PIT_8J0S/PIT_8J0S.pt
+
+>  <SampleID>  (1) 
+PIT_8J0S
+
+>  <Checkpoint>  (1) 
+/home/node233/miniconda3/envs/PhiStone/project/PhiStone_2.0/ChemLinker/training_artifacts/checkpoints/atom_pair_global_20260822_213505/best_model.pt
+
+>  <InterFragmentBondType>  (1) 
+SINGLE
+
+>  <InterFragmentBondCount>  (1) 
+6
+
+>  <SanitizationStatus>  (1) 
+ok
+
+>  <SanitizationError>  (1) 
+
+
+>  <TotalFormalCharge>  (1) 
+0
+
+>  <ChargeNeutralizationStatus>  (1) 
+not_required_already_neutral
+
+>  <ChargeNeutralizationJSON>  (1) 
+{"status":"not_required_already_neutral","method":"net_charge_proton_transfer","site_priority":"farthest_from_opposite_formal_charge_then_atom_index","initial_total_formal_charge":0,"final_total_formal_charge":0,"added_hydrogen_count":0,"removed_hydrogen_count":0,"remaining_charge_separated_atom_count":0,"remaining_charge_separated_atoms":[],"steps":[]}
+
+>  <ConnectionsJSON>  (1) 
+[{"node_a":0,"node_b":1,"original_atom_a_id":4,"original_atom_b_id":0,"resolved_atom_a_id":4,"resolved_atom_b_id":0,"atom_a_id":4,"atom_b_id":0,"symmetry_adjusted":false,"original_bond_length_angstrom":1.4644216554247456,"resolved_bond_length_angstrom":1.4644216554247456,"bond_type":"SINGLE","atom_a_consumed_hydrogen":"implicit_h_count","atom_b_consumed_hydrogen":"implicit_h_count","atom_a_hydrogen_selection":null,"atom_b_hydrogen_selection":null,"connection_source":"condition_pt_fixed_fixed_ground_truth"},{"node_a":1,"node_b":2,"original_atom_a_id":1,"original_atom_b_id":3,"resolved_atom_a_id":1,"resolved_atom_b_id":3,"atom_a_id":1,"atom_b_id":3,"symmetry_adjusted":false,"original_bond_length_angstrom":1.466490479786444,"resolved_bond_length_angstrom":1.466490479786444,"bond_type":"SINGLE","atom_a_consumed_hydrogen":"implicit_h_count","atom_b_consumed_hydrogen":"implicit_h_count","atom_a_hydrogen_selection":null,"atom_b_hydrogen_selection":null,"connection_source":"condition_pt_fixed_fixed_ground_truth"},{"node_a":0,"node_b":219,"original_atom_a_id":0,"original_atom_b_id":0,"resolved_atom_a_id":0,"resolved_atom_b_id":0,"atom_a_id":0,"atom_b_id":0,"symmetry_adjusted":false,"original_bond_length_angstrom":2.0365135699745522,"resolved_bond_length_angstrom":2.0365135699745522,"bond_type":"SINGLE","atom_a_consumed_hydrogen":"implicit_h_count","atom_b_consumed_hydrogen":"implicit_h_count","atom_a_hydrogen_selection":null,"atom_b_hydrogen_selection":null,"pair_probability":0.8094602823257446,"connection_source":"atom_pair_model_global_prediction","candidate_rank":1},{"node_a":1,"node_b":220,"original_atom_a_id":1,"original_atom_b_id":2,"resolved_atom_a_id":1,"resolved_atom_b_id":2,"atom_a_id":1,"atom_b_id":2,"symmetry_adjusted":false,"original_bond_length_angstrom":1.936482978808731,"resolved_bond_length_angstrom":1.936482978808731,"bond_type":"SINGLE","atom_a_consumed_hydrogen":"explicit_h_count","atom_b_consumed_hydrogen":"implicit_h_count","atom_a_hydrogen_selection":null,"atom_b_hydrogen_selection":null,"pair_probability":0.9088202118873596,"connection_source":"atom_pair_model_global_prediction","candidate_rank":1},{"node_a":2,"node_b":218,"original_atom_a_id":0,"original_atom_b_id":0,"resolved_atom_a_id":0,"resolved_atom_b_id":0,"atom_a_id":0,"atom_b_id":0,"symmetry_adjusted":false,"original_bond_length_angstrom":2.785777782428536,"resolved_bond_length_angstrom":2.785777782428536,"bond_type":"SINGLE","atom_a_consumed_hydrogen":"implicit_h_count","atom_b_consumed_hydrogen":"implicit_h_count","atom_a_hydrogen_selection":null,"atom_b_hydrogen_selection":null,"pair_probability":0.3849797546863556,"connection_source":"atom_pair_model_global_prediction","candidate_rank":1},{"node_a":2,"node_b":220,"original_atom_a_id":2,"original_atom_b_id":1,"resolved_atom_a_id":2,"resolved_atom_b_id":1,"atom_a_id":2,"atom_b_id":1,"symmetry_adjusted":false,"original_bond_length_angstrom":1.8266526578568822,"resolved_bond_length_angstrom":1.8266526578568822,"bond_type":"SINGLE","atom_a_consumed_hydrogen":"implicit_h_count","atom_b_consumed_hydrogen":"implicit_h_count","atom_a_hydrogen_selection":null,"atom_b_hydrogen_selection":null,"pair_probability":0.9983510971069336,"connection_source":"atom_pair_model_global_prediction","candidate_rank":1}]
+
+>  <SymmetryResolutionJSON>  (1) 
+{"method":"whole_fragment_automorphism_minimum_total_bond_length","component_combination_limit":10240,"connection_count":6,"adjusted_connection_count":0,"original_total_bond_length_angstrom":11.516339124279892,"resolved_total_bond_length_angstrom":11.516339124279892,"bond_length_reduction_angstrom":0.0,"components":[{"nodes":[0,1,2,218,219,220],"connection_count":6,"choice_counts":{"0":12,"1":2,"2":12,"218":1,"219":2,"220":1},"combination_count":576,"status":"identity_optimal","original_total_bond_length_angstrom":11.516339124279892,"resolved_total_bond_length_angstrom":11.516339124279892,"bond_length_reduction_angstrom":0.0}]}
+
+>  <NonTetrahedralHydrogenReplacementJSON>  (1) 
+{"method":"ordinary_atom_level_hydrogen_consumption","removed_explicit_hydrogen_count":0,"stereo_reassignments":[]}
+
+>  <OptimizationStage>  (1) 
+ligand_internal_relaxation
+
+>  <SelectedForceField>  (1) 
+MMFF94
+
+>  <MaxIterations>  (1) 
+100
+
+>  <EnergyTolerance>  (1) 
+0.0001
+
+$$$$
