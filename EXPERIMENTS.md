@@ -22,7 +22,7 @@
 
 | 资源名称 | 资源用途 | 下载链接 | 提取码 |
 | --- | --- | --- | --- |
-| `results.tar` | 项目全部实验结果。 | [百度网盘](https://pan.baidu.com/s/1YL-keVSOKnxDrFr-uoWWjg?pwd=sbza) | `sbza` |
+| `results.tar` | 项目全部实验结果。 | [百度网盘](https://pan.baidu.com/s/1LYNDtK55khfq9CDpkfk0vw?pwd=9x4r) | `9x4r` |
 
 各类实验的项目内归档路径见上表及对应章节。具体评估数值以结果文件中的记录为准。
 
@@ -93,6 +93,8 @@ SA、QED 和 SMINA 处理为生成完成后的独立实验评估步骤，由结�
 ```text
 results/generated_molecules/
 ```
+
+最终筛选得到的 **12 个候选分子**的原始生成文件及汇总 XLSX 表格同时归档于 `results/Candidate_molecules/`。
 
 ## 3. PhiSGATv2 数据策略与全局均值消融实验
 
