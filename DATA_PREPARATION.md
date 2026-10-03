@@ -59,7 +59,7 @@ PhiSGATv2、PhiSSE3TD 的训练、微调及交互式推理入口见 [README.md](
 
 | 资源名称 | 资源用途 | 下载链接 | 提取码 |
 | --- | --- | --- | --- |
-| `PDF` | 文献提取与结果修复所使用的文献。 | [百度网盘](https://pan.baidu.com/s/14XNbjvPLEqMcPppkhdY4-Q?pwd=cgwk) | `cgwk` |
+| `downloaded_pdfs.zip` | 文献提取与结果修复所使用的文献。 | [百度网盘](https://pan.baidu.com/s/1pnXw7xaQXThTdcdIXJpukQ?pwd=wep5) | `wep5` |
 
 | 脚本位置 | 主要功能 |
 | --- | --- |
